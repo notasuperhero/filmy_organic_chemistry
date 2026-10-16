@@ -1,0 +1,258 @@
+Filmy cast and plots
+
+The Hindi-film layer on top of Character quirks. Every filmy trait is a chemical property in disguise, and every reaction type has one fixed scene, so all stories feel like the same film universe.
+
+Story template and writing rules
+
+Every story follows this order:
+
+1. The question, in one line.
+2. The cast: each character who appears, with their filmy quirk, then the real chemistry in brackets.
+3. The seat map (only for ring reactions): the haveli figure showing ortho, meta and para.
+4. The story, scene by scene. After every story beat, the real chemistry in brackets: plain words first, then the equation.
+5. A figure (simple text drawing) after each new compound is made.
+6. Daadi's closing line: one sentence with the lesson.
+7. Summary: the equations only, numbered.
+
+Writing rules
+
+- Dialogue in simple Hinglish. Story text in simple English. Short sentences.
+- A textbook word (catalyst, meta, arenium ion, nucleophile) appears only inside brackets, and is explained in the same bracket the first time it appears.
+- Every joke must be a chemical fact. If a funny line has no fact behind it, cut it.
+- Characters keep their filmy quirk and catchphrase in every story (see Fixed catchphrases).
+- The filmy quirk never changes the chemistry. If it ever seems to, the Character quirks tab wins.
+- Original writing only: no real film names, songs, dialogues or actors.
+
+Bracket style
+
+> Story line in plain words. [What really happens, in one or two simple sentences. Equation: A + B → C (conditions)]
+
+The haveli
+
+| Character | Filmy quirk | Real chemistry |
+| Benzene Haveli | A joint family of six carbon brothers in a circle who share everything, even their electrons. Never splits up. | Ring of 6 carbons sharing 6 electrons (aromatic). Very stable, so it does substitution, not addition. |
+| Daadi | Head of the haveli. Her rule: "Ghar kabhi nahi tootega. Koi naya aayega, toh kisi naukar ki jagah lega." Narrates the lesson at the end of every ring story. | The aromatic ring is always restored at the end of a substitution. |
+| Ramu Kaka (each hydrogen on the ring) | The loyal servant behind each brother. When a guest arrives, he quietly gives up his place and leaves: "Main chalta hoon, malik." | Each ring carbon has one H. In substitution, the new group takes its place and the H leaves as H⁺. |
+| The one-second chaos | When a guest walks in, one brother is holding hands with both the guest and his Ramu Kaka. Everyone panics, until Ramu Kaka leaves. | The arenium ion: a short-lived stage where one ring carbon holds both the new group and H. |
+| When the haveli is forced | Only a powerful outsider can make the family break its circle: hydrogen with Nickel and heat, or Chlorine under UV light. Daadi never forgives it. | Benzene adds H₂ (Ni, heat → cyclohexane) or Cl₂ (UV light → hexachlorocyclohexane) only under harsh conditions. |
+
+The seats (counted from whoever is already sitting):
+
+             C1   ← whoever is already sitting
+           /    \
+  ortho  C6      C2  ortho    (right next to him)
+         |        |
+  meta   C5      C3  meta     (one seat away)
+           \    /
+             C4       para    (right opposite)
+
+Who controls the seats: the guest already sitting decides where the next guest sits. Two kinds of guests: hosts (send the next guest next to them or opposite: ortho/para) and germophobes (allow only one seat away: meta).
+
+Guests who sit on the ring
+
+Hosts (send the next guest to ortho or para)
+
+| Character | Filmy quirk | Real chemistry |
+| Methyl, the friendly padosi uncle (–CH₃) | "Aao aao, yahin baitho!" Calls guests next to him or opposite. Always has three chamche (hangers-on) standing right beside the haveli: his weak spot. | –CH₃ is ortho/para directing and mildly activating. Its three H atoms are next to the ring (benzylic H) and can be oxidised. |
+| Mummy ji, the feeder (–OH, phenol) | Can't stop feeding guests. In a busy kitchen (bromine water) she fills all three seats at once. In a quiet kitchen (Br₂ in CS₂, cold) she serves just one guest. | –OH strongly activates: bromine water gives 2,4,6-tribromophenol; Br₂ in CS₂ gives o- or p-bromophenol. |
+| Mummy ji in full mood (–O⁻, phenoxide) | Even warmer: will invite the shyest guests (CO₂, the chloroform carbene) to sit right next to her. | Phenoxide reacts even with weak electrophiles at ortho: Kolbe's reaction and Reimer–Tiemann. |
+| Bunty Uncle, the loudest guest at every party (–NH₂, aniline) | The loudest host: fills all three seats with bromine water. Two weaknesses: he grabs bhaiya's hand and won't let go, so no rishta happens (no Friedel–Crafts); and in a sour (acid) room he turns into a germophobe. | –NH₂ strongly activates (2,4,6-tribromoaniline). Its lone pair binds AlCl₃. In acid it becomes –NH₃⁺, which sends guests to meta (47% meta in nitration). |
+| Bunty Uncle after marriage (–NHCOCH₃, acetanilide) | Same host, but calmer now. Lets in one guest, usually opposite him. | Acetylation tames –NH₂: mono-substitution, mostly para. |
+| Mausa ji with the dhoti (–OCH₃, anisole) | A host like Mummy ji. Even HI can only take away his topi (the CH₃), never pull him off the haveli. | –OCH₃ is o/p directing. Anisole + HI → phenol + CH₃I, never iodobenzene. |
+| Grumpy Chacha (–Cl, –Br, –I on the ring) | Complains, slows the whole party down, but still politely points guests to the seats next to him or opposite. Very hard to throw out of the haveli. | Halogens deactivate the ring but direct ortho/para. A haloarene loses its halogen only at 623 K and 300 atm, or with –NO₂ at o/p. |
+
+Germophobes (allow only one seat away: meta)
+
+| Character | Filmy quirk | Real chemistry |
+| Bade Sahab, the germophobe NRI uncle (–COOH) | Back from abroad, sanitiser in pocket: "Doori banaye rakhein! Ek seat chhod ke baitho!" Makes the whole haveli cold. Never lets bhaiya arrange a rishta in his house. | –COOH is meta directing and deactivating. Benzoic acid does not undergo Friedel–Crafts. |
+| The hostel warden (–NO₂) | The strictest germophobe. Meta seats only; the house becomes so cold that bhaiya never comes again. But he secretly helps one kind of person: if Grumpy Chacha sits next to or opposite him, he helps Chacha get out. | –NO₂: strongly deactivating, meta directing; no Friedel–Crafts. It makes a halogen at o/p easy to replace by OH⁻. |
+| The snobbish cousins (–CHO, –COR, –CN) | Same germophobe rule: meta only. | Deactivating, meta directing. |
+| The paying guest (–SO₃H) | Germophobe who can be asked to vacate. | –SO₃H is meta directing; sulphonation is reversible. |
+
+Makeovers (a guest's personality changes)
+
+| Makeover | What happens in the story | Real chemistry |
+| Padosi uncle → Bade Sahab | The purple saas throws out his three chamche; he returns in a suit as Bade Sahab. | –CH₃ → –COOH with hot KMnO₄ (needs benzylic H). |
+| Hostel warden → Bunty Uncle | Tin or Iron with acid softens the warden into the loudest host. | –NO₂ → –NH₂ with Sn/HCl or Fe/HCl. |
+| Bunty Uncle → germophobe | He walks into a sour (acidic) room and turns cold. | –NH₂ → –NH₃⁺ in acid. |
+| Bunty Uncle → married Bunty | Marriage (acetic anhydride) calms him. | –NH₂ → –NHCOCH₃. |
+| Bunty Uncle leaves as smoke | After guiding guests to their seats, he vanishes in a puff (N₂ gas) and anyone can take his seat. | Diazotisation, then replacement (Sandmeyer, H₃PO₂, KI, water). |
+
+Catalysts: the bhaiyas who never marry, and friends
+
+The catalyst rule: a catalyst arranges the deal and goes home exactly as he came. In every story, the last line about a catalyst shows him leaving unchanged.
+
+| Character | Filmy quirk | Real chemistry |
+| Bade Bhaiya (Aluminium Chloride), who swore never to marry (anhydrous AlCl₃) | Has arranged every wedding in the mohalla, still single. Separates a guest from a clingy partner and sends the guest into the haveli: "Main sirf rishte karwata hoon." Refuses houses run by germophobes (Bade Sahab, the warden) and gets stuck holding Bunty Uncle's hand. Hates water: a wet house ruins his work. | Lewis acid catalyst. Makes R⁺, RCO⁺ or Cl⁺ from RCl, RCOCl or Cl₂ (Friedel–Crafts, chlorination) and is regenerated. Fails on nitrobenzene, benzoic acid and aniline; must be anhydrous. |
+| Chhote Bhaiya (FeCl₃ / FeBr₃) | Bhaiya's younger brother, also unmarried. Only arranges halogen rishtas. Side job: turns Mummy ji's kitchen violet when he visits (phenol test). | Lewis acid for halogenating benzene. Neutral FeCl₃ gives a violet colour with phenols. |
+| The five-star banquet hall (Pt, Pd) | Hosts hydrogen weddings any time, even at room temperature. Never changes. | Pt or Pd catalyse hydrogenation at room temperature. |
+| The dharamshala (Ni) | Also hosts hydrogen weddings, but only if you heat it up first. | Ni needs 523–573 K for hydrogenation. |
+| The tired pandit (Lindlar's catalyst; Pd on BaSO₄) | Always stops the ceremony halfway: "Bas, aaj itna hi." | Poisoned Pd: alkyne → cis-alkene only (Lindlar); acid chloride → aldehyde only (Rosenmund). |
+| The sponsor (Hg²⁺) | Water and an alkyne won't meet unless he pays for the event. | HgSO₄/dil. H₂SO₄ catalyses alkyne hydration (ethyne → acetaldehyde, others → ketones). |
+| The bouncer (ZnCl₂ in the Lucas test) | Helps –OH get thrown out of a party. Throws out 3° guests at once, 2° in about five minutes, 1° not at all. | ZnCl₂ helps –OH leave; turbidity speed shows 3°, 2° or 1° alcohol. |
+| The strict principal (conc. H₂SO₄) | Her decision depends on the room temperature: at 443 K she breaks the student's –OH and H off together (alkene); at 413 K she pairs two students (ether). Also arranges the fight that gives birth to Nitronium. | Dehydrating acid: ethanol → ethene (443 K) or diethyl ether (413 K). With HNO₃ makes NO₂⁺. Catalyst in esterification. |
+| Proton, the bechara catalyst (H⁺ in acid catalysis) | Starts the fight, then quietly takes his own place back at the end. | H⁺ protonates first and is released again (dehydration, esterification, hydration of alkenes). |
+
+Attackers, leavers, hotheads and donors
+
+Attackers
+
+| Character | Filmy quirk | Real chemistry |
+| Nitronium, the angry young man (NO₂⁺) | Born only when two tough acids fight in a dark gali. Always wants to barge in first: "Main sabse pehle!" | Formed from conc. HNO₃ + conc. H₂SO₄; attacks the ring in nitration. |
+| Proton, the bechara hero (H⁺) | "Mere paas kuch nahi hai." Owns nothing, wants electrons, always strikes first. Goes to the brother who is already rich: "jiske paas zyada, use aur." | H⁺ is the first attacker in additions to C=C, and joins the carbon that already has more H (Markovnikov). |
+| The twins separated at birth (OH⁻ in water vs in alcohol) | Same face, two lives. The twin raised in water (aq. KOH) is a straightforward attacker. The twin raised in alcohol (alc. KOH) is a pickpocket who steals a hydrogen from next door. | Aqueous KOH: substitution (alcohol). Alcoholic KOH: elimination (alkene). |
+| Do-muha, the two-faced cousin (CN⁻; NO₂⁻) | Whose side he takes depends on who he arrives with. With Potassium he shakes hands with his C side; with Silver he can only offer his N side. Brings one extra family member wherever he goes. | KCN → nitrile (C attacks); AgCN → isocyanide (N attacks). Same pattern: KNO₂ → nitrite, AgNO₂ → nitro compound. CN adds one carbon. |
+| Bromine, the bahuroopiya (master of disguise) | Four disguises, one per story type: the attacker (electrophile in Br₂ addition), the second visitor (Br⁻ in HBr addition), the loner (Br• with peroxide), the one who walks out (leaving group). Always wears red-brown, and the colour vanishes when he meets a double bond. | Bromine's four roles (H2, H3, H4, X1). Br₂ decolourising = test for unsaturation. |
+| The akela (radicals) | Loners with one unpaired electron. Each one steals a partner from someone else and leaves a new loner behind, so the story keeps going until two loners meet and settle down together. Only appear in light, heat, with Peroxide Pandit, or at Kolbe's electric shop. | Radical chain: initiation, propagation, termination. Started by hν, heat, peroxide or electrolysis. |
+| Peroxide Pandit | Changes only one story: when he blesses HBr, Bromine arrives first in his loner disguise and the ending flips. He has no power over HCl or HI. | Peroxide effect (anti-Markovnikov) for HBr only. |
+
+The hero in trouble (carbon intermediates)
+
+| Character | Filmy quirk | Real chemistry |
+| Carbon Singh, the hero | Always keeps exactly four promises. | Carbon is tetravalent. |
+| Carbon in crisis (carbocation) | Lost a partner and his electrons. Flat on the floor, insecure. Calms down only with bodyguards around: three bodyguards (3°) best, none (methyl) worst. If a richer relative lives next door, he quietly moves in there (rearrangement). Both doors open, so whoever comes next can enter from either side. | Carbocation: planar, stability 3° > 2° > 1° > CH₃⁺, stabilised by alkyl groups; rearranges by 1,2-shift; SN1 gives both mirror images (racemisation). |
+| The goon with extra cash (carbanion) | Pushy, has extra electrons to spend. Feels best with few relatives around. | Carbanion stability CH₃⁻ > 1° > 2° > 3°. |
+| The pushy goon who melts in water (Grignard reagent, RMgX) | Tough, attacks any exposed carbon. But one drop of water and he's finished. Only works in the Dry Ether desert. | RMgX attacks C=O and CO₂; destroyed by any acidic H; needs dry ether. |
+
+Leavers (the bidaai scenes)
+
+| Character | Filmy quirk | Real chemistry |
+| Iodu Baba (I⁻) | The easiest bidaai: "Theek hai, chalta hoon." | I⁻ is the best halide leaving group. |
+| Bromo Bhai (Br⁻) | Leaves with a little drama. | Good leaving group. |
+| Chamku (Cl⁻) | Leaves only after a long argument. | Moderate leaving group. |
+| Fiza, the bride who never leaves (F⁻) | "Main kabhi nahi jaungi." No bidaai ever. | C–F strongest; F⁻ the worst leaving group. |
+| –OH, the guest who won't leave unless offered tea | Refuses to leave until someone hands her a Proton; then leaves happily as water. | –OH leaves only after protonation (as H₂O) or conversion with SOCl₂/PCl₅/HX. |
+| The guest who leaves as smoke (N₂ from a diazonium salt) | Lives only in the cold. Leaves in a puff of smoke, and anyone can take his seat. | ArN₂⁺ stable only at 273–278 K; N₂ leaves as gas; replaced by Cl, Br, CN, I, F, OH or H. |
+
+Hotheads and donors
+
+| Character | Filmy quirk | Real chemistry |
+| Daanveer Sodium, the hothead (Na) | Gives away his one electron instantly. Show him water and he explodes; kept in a kerosene jail. Takes the nervous hydrogen from alcohols and terminal alkynes, and joins two alkyl guests together. | Na + water: violent, releases H₂. Na releases H₂ from O–H and ≡C–H. Wurtz reaction. Stored under kerosene. |
+| Potassium, the bigger hothead (K) | Like Sodium, but explodes even faster. Mostly appears as the partner who decides the twins' and the two-faced cousin's behaviour. | More reactive than Na. K⁺ salts: KOH, KCN, KNO₂. |
+| The rich daanveer (LiAlH₄) | Donates hydrogen gifts to almost everyone: aldehydes, ketones, acids, esters, amides, nitriles. Never to a plain double bond. | Strong hydride donor; does not reduce isolated C=C. |
+| The choosy donor (NaBH₄) | Gives only to aldehydes and ketones. | Mild hydride donor; does not reduce acids or esters. |
+| The polite boarder (B₂H₆) | Always sits at the less crowded end of a double bond, leaving the crowded end for Hydrogen. | Hydroboration–oxidation gives the anti-Markovnikov alcohol. |
+
+Oxidisers and the detectives
+
+Oxidisers
+
+| Character | Filmy quirk | Real chemistry |
+| The purple saas (KMnO₄) | Two moods. Cool mood: gives two aashirwaads and her purple fades. Hot mood: throws out every chamcha standing near the haveli and turns the man into Bade Sahab; tears double-bond couples apart. Can't touch a guest who has no chamche (tert-butyl). | Cold dilute alkaline KMnO₄ adds two –OH (Baeyer's test, pink fades). Hot KMnO₄ oxidises side chains with benzylic H to –COOH and cleaves C=C. |
+| The strict examiner (acidified K₂Cr₂O₇) | Wears orange; changes to green when she passes someone. Passes 1° and 2° alcohols, fails every 3° one: "Tumhare paas ek bhi Ramu Kaka nahi hai." | Oxidises 1° (to aldehyde, then acid) and 2° (to ketone) alcohols; 3° has no H on the carbinol carbon; Cr₂O₇²⁻ orange → Cr³⁺ green. |
+| The gentle tutor (PCC) | Takes a 1° alcohol only one class up, to aldehyde. Never further. | PCC stops at the aldehyde. |
+| The tailor (CrO₂Cl₂) | Alters only Methyl uncle's outfit into an aldehyde kurta, nothing more. | Étard: toluene → benzaldehyde. |
+| The kainchi (ozone) | Cuts a double-bond couple into two, with Zinc standing guard so nobody gets damaged further. | Ozonolysis; Zn/H₂O stops further oxidation. |
+
+The detectives (test reagents)
+
+| Character | Filmy quirk | Real chemistry |
+| The generous jeweller (Tollens') | Gives a silver mirror to every aldehyde, desi or videsi. Never to a ketone. | All aldehydes (aromatic too) give a silver mirror; ketones don't. |
+| The fussy jeweller (Fehling's) | Gives red only to desi (aliphatic) aldehydes. Turns away Benzaldehyde and every ketone. | Aliphatic aldehydes give red Cu₂O; aromatic aldehydes and ketones don't. |
+| CID Iodine (I₂ + NaOH) | Hunts for one fingerprint: a CH₃ right next to C=O (or one step away from it, as CH₃CH(OH)–). Found? Yellow alarm. | Iodoform test: CH₃CO– or CH₃CH(OH)– gives yellow CHI₃. |
+| The sindoor detector (Br₂ in CCl₄) | Red-brown sindoor that disappears the moment it meets a double-bond couple. | Decolourisation = unsaturation. |
+| The fizz test (NaHCO₃) | Bubbles only for true acids. Mummy ji (phenol) gets no fizz. | Carboxylic acids release CO₂; phenols don't. |
+| The gatekeeper (Hinsberg's reagent) | Sorts guests by how many N–H they carry: two (1°) get a pass that dissolves in alkali; one (2°) gets a pass that doesn't; none (3°) are ignored. | 1° product soluble in alkali, 2° insoluble, 3° no reaction. |
+| The stink bomb (carbylamine: CHCl₃ + alc. KOH) | Goes off only for guests with two N–H (1° amines). | Isocyanide smell: 1° amines only. |
+| The violet visitor (neutral FeCl₃) | See Chhote Bhaiya: turns Mummy ji's kitchen violet. | Phenol test. |
+| The orange-red stamp (2,4-DNP) | Stamps every aldehyde and ketone. Ignores acids. | Test for C=O. |
+| The cold gatekeeper (HNO₂) | Desi amine guests (aliphatic 1°) vanish as gas and leave an alcohol behind; Bunty Uncle (aniline) in the cold becomes the smoke guest (diazonium). | 1° aliphatic amine → alcohol + N₂; aniline at 273–278 K → diazonium salt. |
+
+Stock scenes: one fixed scene per reaction type
+
+Every story about a reaction type uses its scene below. The details can change; the shape of the scene and what it means can't.
+
+Substitution on the ring (the haveli)
+
+| Reaction | Stock scene | What it means |
+| Any ring substitution | A guest enters the haveli, the house goes into one second of chaos, then Ramu Kaka says "Main chalta hoon, malik" and leaves. Daadi: "Ghar kabhi nahi tootega." | Electrophile attacks, arenium ion forms, H⁺ leaves, aromaticity restored. |
+| Nitration | Two tough acids fight in a dark gali; Nitronium is born and barges into the haveli. | HNO₃ + H₂SO₄ → NO₂⁺; nitration. |
+| Halogenation | Chhote Bhaiya pulls Chlorine away from his twin and walks him to the haveli; Bhaiya goes home unchanged. | FeCl₃ polarises Cl₂; Cl⁺ attacks; catalyst regenerated. |
+| Friedel–Crafts alkylation | Bade Bhaiya brings a Methyl guest. Trouble: the new guest is a host who invites more guests, so the haveli gets overcrowded. A long-chain guest may swap seats on the way (carbocation rearrangement). | R⁺ attacks; product is more reactive, so polysubstitution; rearrangement possible. |
+| Friedel–Crafts acylation | Bade Bhaiya brings a snobbish cousin (acyl). Once inside, the cousin keeps others out, so only one enters. | RCO⁺ attacks; product deactivated, so monosubstitution. |
+| Bhaiya refuses | Bhaiya reaches the gate, sees Bade Sahab / the warden / Bunty Uncle at the door, and turns back. | No Friedel–Crafts on strongly deactivated rings or on aniline (N grabs AlCl₃). |
+| Sulphonation | The paying guest moves in, but can be asked to leave if you heat with dilute acid. | Sulphonation is reversible. |
+| Bunty Uncle's party | Bromine water arrives; Bunty Uncle invites guests to all three seats at once: white crowd. To control him, get him married first (acetylation), then bring guests. | Aniline + Br₂(aq) → 2,4,6-tribromoaniline; acetylate to get mono. |
+| Mummy ji's party | Same as Bunty's: Bromine water fills all three seats; in CS₂ at low temperature, only one guest. | Phenol + Br₂(aq) → 2,4,6-tribromophenol; Br₂/CS₂ → mono (o/p). |
+
+Substitution on a chain (the street)
+
+| Reaction | Stock scene | What it means |
+| SN2 | The attacker comes in through the back door while the leaver walks out the front, at the same moment. The house is turned inside out like an umbrella in the wind. Crowded houses (3°) can't be entered from the back. | One step, backside attack, inversion; 1° > 2° > 3°. |
+| SN1 | The leaver walks out first. Carbon in crisis lies flat and calls his bodyguards. Then the attacker walks in, from front or back, so twins are born. | Two steps, carbocation, racemisation; 3° > 2° > 1°. |
+| Elimination | The alcohol-raised twin picks the pocket of the house next door (a β-H), and the leaver walks out; the two neighbours become a double-bond couple. The richer couple (more substituted) is the usual result. | β-elimination with alc. KOH; Saytzeff product major. |
+| Aq. vs alc. KOH | The twins-separated-at-birth scene: same reagent, two different endings. | Substitution vs elimination. |
+| KCN vs AgCN | Do-muha arrives with Potassium (C side) or with Silver (N side). | Nitrile vs isocyanide. |
+| Finkelstein / Swarts | Iodu Baba swaps in for Chamku in acetone (the losing salt sinks, so no going back); Swarts: the metal fluoride brings Fiza in. | NaI/acetone (NaCl precipitates); AgF/Hg₂F₂ etc. give alkyl fluorides. |
+| Wurtz | Daanveer Sodium removes two halogens and marries the two alkyl guests together. | 2RX + 2Na → R–R (dry ether). |
+
+Additions (the wedding scenes)
+
+| Reaction | Stock scene | What it means |
+| HX addition | Proton goes to the brother who already has more (H-rich carbon). The other brother becomes Carbon in crisis and gets the halide. | Markovnikov via the more stable carbocation. |
+| HBr + peroxide | Peroxide Pandit blesses HBr; Bromine comes first in his loner disguise and the ending flips. | Anti-Markovnikov, radical; HBr only. |
+| Br₂ addition | Red-brown sindoor disappears on contact with the couple. | Test for unsaturation. |
+| Hydrogenation | Wedding at the 5-star hall (Pt/Pd, room temperature) or the dharamshala (Ni, heated). The tired pandit stops at cis. | H₂/catalyst; Lindlar for cis-alkene. |
+| Hydration | Water marries the alkene only with Proton's help; with an alkyne only if the Sponsor pays. Alkyne's child changes into a ketone outfit. | Acid-catalysed hydration; Hg²⁺; enol → keto. |
+| Ozonolysis | The kainchi cuts the couple in two; Zinc guards both halves. | C=C → two C=O. |
+
+C=O scenes (Grignard and donors)
+
+| Reaction | Stock scene | What it means |
+| Grignard + C=O | The goon attacks the positive carbon of C=O, then the family pours water and he melts away, leaving an alcohol. Formaldehyde → 1°, other aldehydes → 2°, ketones → 3°. | RMgX addition then hydrolysis. |
+| Grignard + CO₂ | The goon grabs dry ice and becomes an acid with one more carbon. | RMgX + CO₂ → RCOOH. |
+| Reduction | The daanveer (LiAlH₄) or the choosy donor (NaBH₄) hands out hydrogen gifts. | Hydride reduction. |
+| Aldol | Two aldehydes with a nervous α-H hold hands in dilute alkali; heat them and they lose a water and stand closer. | Aldol addition, then condensation. |
+| Cannizzaro | Two aldehydes with no α-H in strong alkali: one takes a gift, one gives it away. | Disproportionation: alcohol + acid salt. |
+
+Radical and Kolbe scenes
+
+| Reaction | Stock scene | What it means |
+| Free-radical halogenation | Light falls on Chlorine; two loners are born and start stealing partners down the street until loners meet and settle down. | Initiation, propagation, termination. |
+| Kolbe electrolysis | Two acid salts visit Kolbe's electric shop; each loses CO₂ and the two loners marry. | 2RCOO⁻ → R–R + 2CO₂. |
+
+Other recurring scenes
+
+| Reaction | Stock scene | What it means |
+| Diazotisation | Bunty Uncle is taken to the cold room (0–5 °C) and becomes the smoke guest. Anyone can then take his seat (Sandmeyer: Cuprous helpers bring Cl, Br, CN; KI brings I; water and warmth bring –OH; H₃PO₂ brings plain H). | ArN₂⁺→ substitution products. |
+| Coupling | The smoke guest doesn't leave this time; he holds hands with Mummy ji or Bunty Uncle at their para seat and they become a bright orange-yellow couple. | Azo dye. |
+| Hoffmann bromamide | An amide goes into the Bromine + NaOH tunnel and comes out one carbon shorter, as an amine. | RCONH₂ → RNH₂, loses one carbon. |
+| Esterification | Acid and alcohol marry with Proton as the bechara catalyst; they give away a water. Reversible. | RCOOH + R'OH ⇌ ester + H₂O. |
+| Decarboxylation | The acid salt is heated with soda-lime and drops its CO₂, ending one carbon shorter. | RCOONa → RH. |
+
+Fixed catchphrases and continuity rules
+
+Catchphrases (always the same words)
+
+| Character | Line | Fact behind it |
+| Daadi (benzene ring) | "Ghar kabhi nahi tootega." | Aromaticity is restored; substitution, not addition. |
+| Ramu Kaka (ring H) | "Main chalta hoon, malik." | H⁺ leaves in EAS. |
+| Bade Bhaiya (AlCl₃) | "Main sirf rishte karwata hoon." | Catalyst, regenerated. |
+| Bade Sahab (–COOH) | "Doori banaye rakhein!" | Meta-director, deactivating. |
+| Bunty Uncle (–NH₂) | "Aao, aao, sab aao!" | Strong o/p activator; polysubstitution. |
+| Mummy ji (–OH on ring) | "Khaana kha ke jaana." | o/p activator; phenol mildly acidic. |
+| Grumpy Chacha (halogen on ring) | "Aana hai toh aao, par mujhse umeed mat rakhna." | o/p director but deactivating. |
+| Nitronium | "Main sabse pehle!" | Electrophile. |
+| Proton | "Mere paas kuch nahi hai." | Electron-poor; starts additions; Markovnikov. |
+| Iodu Baba | "Theek hai, chalta hoon." | Best leaving group. |
+| Fiza (F) | "Main kabhi nahi jaungi." | Worst leaving group. |
+| Daanveer Sodium | "Paani mat dikhana!" | Reacts violently with water. |
+| The goon (Grignard) | "Ek boond paani, aur main khatam." | Destroyed by water; needs dry ether. |
+| The tired pandit (Lindlar) | "Bas, aaj itna hi." | Partial reduction. |
+| The strict examiner (K₂Cr₂O₇) | "Tumhare paas ek bhi Ramu Kaka nahi hai." | 3° alcohols not oxidised. |
+| CID Iodine | "Kuch toh gadbad hai... peela!" | Iodoform test positive. |
+
+Continuity rules
+
+1. The Character quirks tab wins. A filmy persona adds jokes; it never changes a fact. If a story line contradicts the Character quirks tab or the Reactions tab, the story is wrong.
+2. One character, one name, forever. Ring H is always Ramu Kaka; benzylic H are always the chamche; AlCl₃ is always Bade Bhaiya. No new names for existing characters.
+3. Catchphrases are fixed. Use them word for word, and only when the fact behind them is true in that story.
+4. Each reaction type uses its stock scene. New details are fine; a different shape is not.
+5. Every joke is a fact. If a funny line has no chemistry behind it, cut it.
+6. Catalysts leave unchanged. The last mention of any catalyst shows him going home the same as he came.
+7. Conditions are characters too. Cold room (0–5 °C), dry ether desert, light, heat, Peroxide Pandit: if the condition matters, it must appear on screen.
+8. Simple Hinglish in the dialogue; textbook words only inside the [brackets].
+9. Every scene ends with its [bracket]: plain words plus the equation. The story ends with Daadi's (or the narrator's) closing line and the equation summary.
+10. Figures are mandatory for ring stories: the seat map and the product structure.
+11. Original content only. Hindi-film tropes (bidaai, twins separated at birth, angry young man, strict principal) are fine; no real film titles, dialogues, songs, actors or characters, and no jokes built on community or regional stereotypes.
+12. New characters get added to this tab and the Character quirks tab first, before they appear in any story.

@@ -1,0 +1,126 @@
+Biomolecules
+
+Class 12 biomolecules: the structural facts and reactions questions ask about.
+
+Carbohydrates
+
+- Classes: monosaccharides (glucose, fructose), oligosaccharides (disaccharides: sucrose, maltose, lactose), polysaccharides (starch, cellulose, glycogen).
+- Reducing sugars (reduce Tollens' and Fehling's): all monosaccharides, maltose, lactose. Non-reducing: sucrose (both reducing groups are used in the glycosidic bond).
+
+Glucose, C₆H₁₂O₆ (an aldohexose)
+
+Preparation: sucrose + H₂O (dil. HCl, warm, in alcohol) → glucose + fructose. Starch + nH₂O (dil. H₂SO₄, 393 K, 2–3 atm) → n glucose.
+
+Evidence for the open-chain structure
+
+| Reaction | Product | What it proves |
+| Prolonged heating with HI | n-Hexane | Six carbons in a straight chain |
+| NH₂OH | Oxime | A carbonyl group is present |
+| HCN | Cyanohydrin | A carbonyl group is present |
+| Bromine water (mild oxidant) | Gluconic acid (6 C) | The carbonyl is an aldehyde (–CHO) |
+| Acetic anhydride | Glucose pentaacetate | Five –OH groups, on different carbons |
+| Nitric acid | Saccharic acid (glucaric acid) | A primary alcohol (–CH₂OH) group at the other end |
+
+Evidence for the cyclic structure
+
+- Glucose does not give Schiff's test or the 2,4-DNP test, and does not form a NaHSO₃ addition product, although it has an aldehyde group.
+- Glucose pentaacetate does not react with NH₂OH: no free –CHO.
+- Glucose exists in two crystalline forms, α and β.
+- Explanation: the C5 –OH adds to the C1 aldehyde, forming a six-membered ring (pyranose, hemiacetal). α and β differ only in the orientation of –OH at C1; they are anomers, and C1 is the anomeric carbon.
+
+Fructose: a ketohexose (C=O at C2); forms a five-membered (furanose) ring in combined forms such as sucrose.
+
+Disaccharides and polysaccharides
+
+| Sugar | Units | Glycosidic link | Reducing? |
+| Sucrose | α-D-glucose + β-D-fructose | C1 (glucose) – C2 (fructose) | No |
+| Maltose | Two α-D-glucose | C1 – C4 | Yes |
+| Lactose | β-D-galactose + β-D-glucose | C1 (galactose) – C4 (glucose) | Yes |
+| Amylose (15–20% of starch) | α-D-glucose | C1 – C4, unbranched; water-soluble | – |
+| Amylopectin (80–85% of starch) | α-D-glucose | C1 – C4 chain, C1 – C6 branches; insoluble | – |
+| Cellulose | β-D-glucose | C1 – C4, straight chains (plant cell walls; humans cannot digest it) | – |
+| Glycogen (animal starch) | α-D-glucose | Like amylopectin, more highly branched | – |
+
+- Invert sugar: sucrose is dextrorotatory, but its hydrolysis mixture is laevorotatory, because fructose (−92.4°) rotates more strongly than glucose (+52.5°).
+
+Proteins, enzymes and vitamins
+
+Amino acids and proteins
+
+- α-Amino acids: –NH₂ and –COOH on the same carbon. Essential amino acids must come from the diet; non-essential ones the body makes.
+- In water an amino acid exists as a zwitterion (H₃N⁺–CHR–COO⁻): amphoteric, high melting point, water-soluble.
+- All natural α-amino acids except glycine are optically active.
+- Peptide bond: –CO–NH–, formed when the –COOH of one amino acid condenses with the –NH₂ of the next (water lost). A dipeptide has one peptide bond.
+
+| Level | What it is | Held by |
+| Primary | Sequence of amino acids | Peptide bonds |
+| Secondary | α-Helix or β-pleated sheet | Hydrogen bonds between C=O and N–H of the backbone |
+| Tertiary | Overall folding of one chain | H-bonds, disulphide bridges, van der Waals and electrostatic forces |
+| Quaternary | Arrangement of several chains (subunits) | Same forces between chains |
+
+| Type | Shape | Solubility | Examples |
+| Fibrous | Long, parallel chains | Insoluble in water | Keratin (hair, wool, silk), myosin (muscle) |
+| Globular | Folded into spheres | Soluble in water | Insulin, albumins |
+
+- Denaturation: heat or pH change unfolds the 2° and 3° structure and the protein loses its biological activity; the 1° structure (sequence) stays. Examples: boiling an egg (albumin coagulates), curdling milk.
+
+Enzymes
+
+- Biological catalysts, mostly globular proteins; highly specific to their substrate; work under mild conditions (body temperature, near-neutral pH).
+
+Vitamins
+
+| Vitamin | Solubility | Deficiency disease |
+| A | Fat | Xerophthalmia, night blindness |
+| B₁ (thiamine) | Water | Beriberi |
+| B₂ (riboflavin) | Water | Cheilosis (cracked lips), digestive disorders |
+| B₆ (pyridoxine) | Water | Convulsions |
+| B₁₂ (cyanocobalamin) | Water | Pernicious anaemia |
+| C (ascorbic acid) | Water | Scurvy (bleeding gums) |
+| D | Fat | Rickets (children), osteomalacia (adults) |
+| E | Fat | Increased fragility of red blood cells, muscular weakness |
+| K | Fat | Increased blood-clotting time |
+
+- Fat-soluble vitamins (A, D, E, K) are stored in the liver and adipose tissue. Water-soluble vitamins (B group, C) are excreted in urine and must be taken regularly (B₁₂ is an exception that the body stores).
+
+Nucleic acids
+
+- Nucleoside = base + sugar. Nucleotide = base + sugar + phosphate. Nucleotides join by 3′–5′ phosphodiester bonds.
+
+|  | DNA | RNA |
+| Sugar | β-D-2-deoxyribose | β-D-ribose |
+| Bases | Adenine, guanine, cytosine, thymine | Adenine, guanine, cytosine, uracil |
+| Structure | Double helix (two strands) | Single strand |
+| Base pairing | A–T (2 H-bonds), G–C (3 H-bonds) | – |
+| Role | Stores genetic information; replicates | Protein synthesis: mRNA, rRNA, tRNA |
+
+Solved questions: biomolecules
+
+1. Glucose has an aldehyde group, yet it does not react with NaHSO₃. Why?
+
+1. In solution glucose is almost entirely in the cyclic hemiacetal form: the C1 aldehyde has reacted with the C5 –OH.
+2. With no free –CHO, the bisulphite addition (and Schiff's and 2,4-DNP tests) do not occur.
+
+2. Which reaction of glucose shows it has a straight chain of six carbons?
+
+1. Prolonged heating with HI gives n-hexane, a straight six-carbon chain.
+
+3. Why is sucrose a non-reducing sugar while maltose is reducing?
+
+1. In sucrose, the glycosidic bond joins C1 of glucose and C2 of fructose: both carbonyl (reducing) carbons are tied up.
+2. In maltose, the link is C1 – C4, so C1 of the second glucose is free to open into an aldehyde.
+
+4. What happens to the structure of a protein when an egg is boiled?
+
+1. Heat breaks the hydrogen bonds and other forces holding the 2° and 3° structure (denaturation); albumin coagulates.
+2. The 1° structure (amino-acid sequence) is unchanged.
+
+5. Name the deficiency disease of vitamin C and say why it must be taken daily.
+
+1. Scurvy.
+2. Vitamin C is water-soluble, so it is excreted in urine and cannot be stored.
+
+6. A DNA strand has the sequence ATGCTA. Write the complementary strand.
+
+1. Pair A–T and G–C.
+2. Answer: TACGAT.

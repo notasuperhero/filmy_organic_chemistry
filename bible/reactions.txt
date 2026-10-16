@@ -1,0 +1,604 @@
+Reactions
+
+The Class 11–12 organic reactions, each with the role every participating element plays in it. The same element changes role from reaction to reaction: bromine is an electrophile in Br₂ addition, a nucleophile as Br⁻, a radical with peroxide, and a leaving group in substitution.
+
+Role index
+
+The same element plays different roles in different reactions. Codes point to the reactions below.
+
+| Element | Roles it plays, with reaction codes |
+| H | Electrophile H⁺ (H2, O2, O5); radical H• abstracted (H1) or delivered (H3); acidic proton removed (H7, O1, P1, C5, A2); hydride H⁻ donor (C3, C7); proton lost to restore aromaticity (H9) |
+| C | Nucleophile through π electrons (H2, H4, H9); carbocation (H2, X2, O2); free radical (H1, H3); carbanion (H7, X6, C5); electrophilic centre δ+ (X1, C1, O6, O7); migrating R group (A1) |
+| O | Nucleophile (H5, X1, O6, O7); base that accepts H⁺ (O2, O8); leaving group as H₂O after protonation (O2, O6); +R ring activator (P2, P3, P4, P5); takes negative charge in C=O addition (C1) |
+| N | Nucleophile (A2, A3, A4, A5, A8); base (A8: binds AlCl₃); +R ring activator (A7, A8); N₂ as leaving group (A6); attacking atom of an ambident nucleophile (X5) |
+| Cl | Radical Cl• (H1); electrophile Cl⁺ with AlCl₃ (H9); leaving group (X1, A4); source of dichlorocarbene via CHCl₃ (P4, A3) |
+| Br | Nucleophile Br⁻ (H2, H4); electrophile Brδ+ (H4, P2); radical Br• (H3); leaving group (X1, X2, X3); leaving group from N (A1) |
+| I | Nucleophile I⁻ (X4, O8); substituent replaced into CI₃ and released as CHI₃ (C6); incoming group on diazonium (A6) |
+| Na | Electron donor (O1, H7, H10 Wurtz); counter-ion for nucleophiles (O7, X4) |
+| K | Counter-ion: KOH as nucleophile (aqueous) or base (alcoholic) (X3); KCN, KNO₂ (X5); KOH deprotonates phthalimide (A2) |
+| Mg | Makes carbon nucleophilic in RMgX (X6, C2) |
+| B | Electron-deficient electrophile adding to C=C (O5); BH₄⁻ hydride donor (C3) |
+| Al | Lewis acid making the electrophile (H9, C8); AlH₄⁻ hydride donor (C3, A9) |
+| Zn, Sn, Fe | Reducing metals (C3 Clemmensen, A9, C8 Stephen); Zn destroys H₂O₂ in ozonolysis (H8); FeCl₃ Lewis acid (H9) |
+| Cu, Ag | Oxidising ions in tests (C4); Cu(I) salts replace N₂ (A6); Cu dehydrogenates alcohols (O4) |
+| Cr, Mn | Oxidising agents (O4, C8 Étard; hydrocarbon side chains and C=C with KMnO₄) |
+| Pd, Pt, Ni | Hydrogenation catalysts; poisoned Pd stops early (H6, C8 Rosenmund) |
+| Hg | Catalyst for alkyne hydration (H5); amalgam for Clemmensen (C3) |
+| S, P | Make electrophiles or leaving groups: SO₃ (H9), SOCl₂/PCl₅/PCl₃ (O3), PX₃ in HVZ (C9) |
+
+Hydrocarbons
+
+H1. Free-radical halogenation of alkanes
+
+Equation: CH₄ + Cl₂ → CH₃Cl + HCl (hν or heat); further substitution gives CH₂Cl₂, CHCl₃, CCl₄.
+
+Type: free-radical substitution, chain mechanism.
+
+| Participant | Role here | Why |
+| Cl (in Cl₂) | Radical (Cl•) | Light breaks the weak Cl–Cl bond homolytically |
+| H (in C–H) | Abstracted as H• by Cl• | Forms the strong H–Cl bond |
+| C | Becomes a free radical (CH₃•) | Left with 7 electrons after losing H• |
+
+1. Initiation: Cl₂ → 2Cl•.
+2. Propagation: Cl• + CH₄ → CH₃• + HCl; CH₃• + Cl₂ → CH₃Cl + Cl•.
+3. Termination: Cl• + Cl• → Cl₂; CH₃• + CH₃• → CH₃–CH₃; CH₃• + Cl• → CH₃Cl.
+
+- Ethane traces in the product come from the CH₃• + CH₃• termination step.
+- Reactivity of halogens: F₂ > Cl₂ > Br₂ > I₂. Iodination is reversible and needs an oxidising agent.
+- Ease of H abstraction: 3° > 2° > 1° (follows radical stability); bromination is far more selective than chlorination.
+
+H2. Addition of HBr to an unsymmetrical alkene (Markovnikov)
+
+Equation: CH₃–CH=CH₂ + HBr → CH₃–CHBr–CH₃ (2-bromopropane, major).
+
+Type: electrophilic addition, ionic.
+
+| Participant | Role here | Why |
+| H (from HBr) | Electrophile (H⁺), attacks first | Polar H–Br bond; H⁺ seeks the π electrons |
+| C=C | Nucleophile (π electrons), then carbocation | Loosely held π electrons donate to H⁺ |
+| Br | Nucleophile (Br⁻), attacks second | Has lone pairs and a negative charge |
+
+1. H⁺ adds to the CH₂ end, giving the 2° carbocation CH₃–C⁺H–CH₃ (more stable than the 1° alternative).
+2. Br⁻ attacks the carbocation → 2-bromopropane.
+
+- Markovnikov's rule: the negative part of the reagent goes to the carbon with fewer hydrogens.
+- Rate of HX addition: HI > HBr > HCl.
+
+H3. Peroxide effect (anti-Markovnikov, Kharasch)
+
+Equation: CH₃–CH=CH₂ + HBr (peroxide) → CH₃–CH₂–CH₂Br (1-bromopropane).
+
+Type: free-radical addition.
+
+| Participant | Role here | Why |
+| Peroxide (R–O–O–R) | Initiator | Weak O–O bond breaks homolytically into RO• |
+| Br | Radical (Br•), attacks first | RO• takes H• from HBr, releasing Br• |
+| C=C | Becomes a 2° radical | Br• adds to the CH₂ end, giving the more stable radical |
+| H (from HBr) | Delivered last, as H• | The 2° radical takes H• from another HBr, regenerating Br• |
+
+- Works only with HBr. With HCl the H–Cl bond is too strong; with HI, I• combines to I₂ rather than adding.
+
+H4. Addition of bromine (test for unsaturation)
+
+Equation: CH₂=CH₂ + Br₂ (in CCl₄) → BrCH₂–CH₂Br (1,2-dibromoethane). Red-brown colour disappears.
+
+Type: electrophilic addition.
+
+| Participant | Role here | Why |
+| Br₂ | Electrophile (one Br becomes δ+) | The approaching π cloud polarises Br–Br |
+| C=C | Nucleophile | π electrons attack the δ+ Br |
+| Br⁻ (second Br) | Nucleophile | Completes the addition on the other carbon |
+
+- Alkynes add two molecules of Br₂ (tetrabromide).
+
+H5. Hydration of alkynes
+
+Equation: HC≡CH + H₂O → CH₃CHO (dil. H₂SO₄, HgSO₄, 333 K).
+
+Type: electrophilic addition (Markovnikov), then tautomerism.
+
+| Participant | Role here | Why |
+| Hg²⁺ | Catalyst | Activates the triple bond towards water |
+| O (of H₂O) | Nucleophile | Lone pair adds to the carbon |
+| H | Moves from O to C in tautomerism | Enol (C=C–OH) is unstable and becomes the keto form |
+
+- Ethyne gives acetaldehyde; propyne and higher alkynes give ketones (propyne → acetone).
+
+H6. Hydrogenation and partial reduction
+
+| Reaction | Reagent / conditions | Product | Role of the metal |
+| Alkene or alkyne + H₂ | Pt or Pd at room temperature; Ni at 523–573 K | Alkane | Catalyst surface adsorbs H₂ and the hydrocarbon |
+| Alkyne + H₂ | Lindlar's catalyst (Pd/C poisoned with S compounds or quinoline) | cis-Alkene | Poisoned catalyst stops after one addition |
+| Alkyne | Na in liquid NH₃ | trans-Alkene | Na donates electrons (dissolving-metal reduction) |
+
+H7. Acidity of terminal alkynes
+
+Equation: HC≡CH + NaNH₂ → HC≡C⁻Na⁺ + NH₃ (or Na metal: + ½H₂).
+
+| Participant | Role here | Why |
+| H (on sp carbon) | Acidic proton, removed | sp carbon (50% s-character) holds the electron pair of the C–H bond tightly |
+| C (sp) | Becomes a carbanion (acetylide) | Keeps the bonding pair |
+| NH₂⁻ | Base | Stronger base than acetylide |
+
+- Acidity: HC≡CH > CH₂=CH₂ > CH₃–CH₃. Alkenes and alkanes do not react with Na or NaNH₂.
+
+H8. Ozonolysis
+
+Equation: alkene + O₃ → ozonide; ozonide + Zn/H₂O → two carbonyl compounds.
+
+- Each carbon of the C=C becomes a C=O. Zn destroys the H₂O₂ formed, so the aldehydes are not oxidised further to acids.
+- Used to find the position of a double bond: CH₃CH=CH₂ → CH₃CHO + HCHO.
+
+H9. Electrophilic substitution of benzene
+
+General path: the electrophile (E⁺) attacks the π cloud → arenium ion (σ-complex, one sp³ carbon, resonance-stabilised) → loss of H⁺ restores aromaticity.
+
+| Reaction | Reagents | Electrophile and how it forms | Product |
+| Nitration | conc. HNO₃ + conc. H₂SO₄ | NO₂⁺: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻ | Nitrobenzene |
+| Halogenation | Cl₂, anhydrous FeCl₃ or AlCl₃ | Cl⁺: Cl₂ + AlCl₃ → Cl⁺ + AlCl₄⁻ | Chlorobenzene |
+| Sulphonation | fuming H₂SO₄ | SO₃ | Benzenesulphonic acid (reversible) |
+| Friedel–Crafts alkylation | RCl, anhydrous AlCl₃ | R⁺ | Alkylbenzene |
+| Friedel–Crafts acylation | RCOCl, anhydrous AlCl₃ | RCO⁺ (acylium ion) | Aryl ketone |
+
+| Participant | Role here | Why |
+| Benzene C | Nucleophile | Delocalised π electrons |
+| H on the ring | Leaves as H⁺ (not as hydride) | Its loss restores the aromatic sextet |
+| AlCl₃ / FeCl₃ / H₂SO₄ | Lewis or Brønsted acid; makes E⁺ | Electron-deficient Al or Fe accepts a lone pair |
+
+- Benzene prefers substitution over addition: addition would destroy aromatic stability.
+- Activating, o/p directing: –OH, –NH₂, –OR, –NHCOCH₃, –CH₃. Deactivating, meta directing: –NO₂, –CN, –CHO, –COOH, –SO₃H. Halogens: deactivating but o/p directing.
+- Friedel–Crafts fails on nitrobenzene, benzoic acid and aniline.
+
+H10. Making alkanes from other compounds
+
+| Reaction | Equation | Note |
+| Wurtz | 2RX + 2Na → R–R + 2NaX (dry ether) | Na transfers electrons; methane cannot be made |
+| Decarboxylation | RCOONa + NaOH → RH + Na₂CO₃ (CaO, heat) | One carbon fewer |
+| Kolbe electrolysis | 2RCOONa + 2H₂O → R–R + 2CO₂ + H₂ + 2NaOH | R• radicals couple at the anode |
+| Hydrogenation | Alkene/alkyne + H₂ (Pt, Pd or Ni) | See H6 |
+
+Haloalkanes and haloarenes
+
+X1. SN2 (bimolecular nucleophilic substitution)
+
+Equation: CH₃Br + OH⁻ → CH₃OH + Br⁻. Rate = k[CH₃Br][OH⁻].
+
+Type: one step; nucleophile attacks as the leaving group departs.
+
+| Participant | Role here | Why |
+| O (in OH⁻) | Nucleophile, attacks from the back | Lone pairs and negative charge; the front is blocked by Br |
+| C (attached to Br) | Electrophilic centre (δ+) | Br pulls electron density away |
+| Br | Leaving group (Br⁻) | Stable anion; C–Br weaker than C–Cl |
+| H atoms on C | Flip to the other side | Walden inversion of configuration |
+
+- Transition state: C partly bonded to both OH and Br (five partial bonds).
+- Reactivity: CH₃X > 1° > 2° > 3° (steric hindrance). Favoured by strong nucleophiles and polar aprotic solvents (acetone).
+- Leaving group: I⁻ > Br⁻ > Cl⁻ > F⁻.
+
+X2. SN1 (unimolecular nucleophilic substitution)
+
+Equation: (CH₃)₃CBr + OH⁻ → (CH₃)₃COH + Br⁻. Rate = k[(CH₃)₃CBr].
+
+Type: two steps through a carbocation.
+
+| Participant | Role here | Why |
+| Br | Leaves first (slow step) | Ionisation helped by polar protic solvent |
+| C | Carbocation, sp², planar | 3° carbocation stabilised by +I and hyperconjugation of three CH₃ groups |
+| O (in OH⁻ or H₂O) | Nucleophile, attacks either face | Planar carbocation is open on both sides |
+| Solvent (H₂O, alcohols) | Stabilises the ions | Hydrogen bonding to the leaving anion and solvation of the cation |
+
+1. Slow: (CH₃)₃C–Br → (CH₃)₃C⁺ + Br⁻.
+2. Fast: (CH₃)₃C⁺ + OH⁻ → (CH₃)₃COH.
+
+- Reactivity: 3° > 2° > 1° > CH₃X; allylic and benzylic halides react fast (resonance-stabilised carbocations).
+- At a chiral carbon: racemisation (both enantiomers form).
+- Nucleophile concentration does not change the rate.
+
+X3. Elimination: dehydrohalogenation
+
+Equation: CH₃CH₂CHBrCH₃ + KOH (alc.) → CH₃CH=CHCH₃ (major) + CH₃CH₂CH=CH₂ (minor) + KBr + H₂O.
+
+| Participant | Role here | Why |
+| OH⁻ / C₂H₅O⁻ (alcoholic KOH) | Base: removes a β-H | In alcohol it is poorly solvated and acts as a strong base |
+| H on β-carbon | Leaves as H⁺ | Removed by the base |
+| Br | Leaving group | Departs as the C=C forms |
+
+- Saytzeff (Zaitsev) rule: the more substituted alkene is the major product.
+- Same reagent, different role: aqueous KOH → OH⁻ acts as a nucleophile (substitution); alcoholic KOH → base (elimination).
+- 3° halides favour elimination; 1° halides favour substitution.
+
+X4. Halogen exchange
+
+| Reaction | Equation | What drives it |
+| Finkelstein | R–Cl/R–Br + NaI → R–I + NaCl/NaBr (dry acetone) | NaCl and NaBr are insoluble in acetone and precipitate |
+| Swarts | R–Cl/R–Br + AgF, Hg₂F₂, CoF₂ or SbF₃ → R–F | Metallic fluoride supplies F |
+
+X5. Ambident nucleophiles
+
+| Reagent | Attacking atom | Product | Why |
+| KCN | C | Alkyl cyanide R–C≡N | Mainly ionic; C attacks, and a C–C bond is more stable |
+| AgCN | N | Isocyanide R–N≡C | Mainly covalent; only the N lone pair is free |
+| KNO₂ | O | Alkyl nitrite R–O–N=O | Ionic; O attacks |
+| AgNO₂ | N | Nitroalkane R–NO₂ | Covalent; N lone pair attacks |
+
+X6. Grignard reagent
+
+Formation: R–X + Mg → R–MgX (dry ether). Mg inserts between C and X.
+
+| Participant | Role here | Why |
+| C bonded to Mg | Carbanion-like: nucleophile and strong base | Mg (EN 1.31) is far less electronegative than C (2.55), so C carries δ− |
+| Mg | Electropositive partner; ends as Mg(OH)X | Gives up electron density |
+| Water / any acidic H | Destroys the reagent: RMgX + H₂O → RH + Mg(OH)X | Carbanion takes H⁺ |
+
+- Uses with carbonyls and CO₂: see Aldehydes, ketones and carboxylic acids (C2).
+
+X7. Reactions of haloarenes
+
+| Reaction | Conditions | Product | Role of the halogen |
+| Dow process | Chlorobenzene + NaOH, 623 K, 300 atm, then H⁺ | Phenol | Leaves only under harsh conditions: C–Cl has partial double-bond character |
+| Activated substitution | –NO₂ at o/p; aq. NaOH, milder heating | Nitrophenols | Leaves easily: –NO₂ stabilises the negative intermediate |
+| Electrophilic substitution | Cl₂/FeCl₃, HNO₃/H₂SO₄, H₂SO₄, RCl/AlCl₃ | Mainly ortho and para products | Stays; deactivates the ring (−I) but directs o/p (+R) |
+| Wurtz–Fittig | ArX + RX + 2Na, dry ether | Ar–R | Leaves as NaX |
+| Fittig | 2ArX + 2Na, dry ether | Ar–Ar | Leaves as NaX |
+
+X8. Chloroform and iodoform
+
+- CHCl₃ + O₂ (light) → COCl₂ (phosgene) + HCl: store in dark, full bottles.
+- CHCl₃ is the carbon source in the carbylamine test (A3) and the Reimer–Tiemann reaction (P4).
+- CHI₃ (yellow) is the product of the iodoform test (C6).
+
+Alcohols, phenols and ethers
+
+O1. Alcohol + sodium (alcohol as an acid)
+
+Equation: 2ROH + 2Na → 2RONa + H₂.
+
+| Participant | Role here | Why |
+| H (of O–H) | Acidic proton, released as H₂ | Polar O–H bond |
+| O | Becomes alkoxide (RO⁻), a strong base and nucleophile | Keeps the bonding pair |
+| Na | Electron donor | Very low ionisation energy |
+
+- Acidity of alcohols: 1° > 2° > 3° (+I of alkyl groups destabilises the alkoxide). Alcohols are weaker acids than water.
+
+O2. Acid-catalysed dehydration
+
+Equation: C₂H₅OH → CH₂=CH₂ + H₂O (conc. H₂SO₄, 443 K). At 413 K: 2C₂H₅OH → C₂H₅OC₂H₅ + H₂O.
+
+| Participant | Role here | Why |
+| O (of –OH) | Base: accepts H⁺, then leaves as H₂O | Protonation turns poor leaving group –OH into good leaving group –OH₂⁺ |
+| C | Carbocation | Formed when water leaves |
+| H on β-carbon | Lost as H⁺ | Forms the C=C |
+
+1. ROH + H⁺ → ROH₂⁺. 2. ROH₂⁺ → R⁺ + H₂O (slow). 3. R⁺ loses β-H⁺ → alkene.
+
+- Ease: 3° > 2° > 1°. The carbocation may rearrange before losing H⁺.
+- In ether formation (413 K), a second alcohol molecule attacks as a nucleophile (SN2 on the protonated alcohol).
+
+O3. Alcohol to alkyl halide; Lucas test
+
+| Reagent | Equation | Note |
+| HX (ZnCl₂ for HCl) | ROH + HX → RX + H₂O | Order of HX reactivity: HI > HBr > HCl |
+| PCl₅ | ROH + PCl₅ → RCl + POCl₃ + HCl |  |
+| PCl₃ | 3ROH + PCl₃ → 3RCl + H₃PO₃ |  |
+| SOCl₂ | ROH + SOCl₂ → RCl + SO₂ + HCl | Best: by-products are gases |
+
+- Lucas test: conc. HCl + anhydrous ZnCl₂. ZnCl₂ (Lewis acid) helps –OH leave; the alkyl chloride is insoluble, so turbidity appears. 3° at once (SN1, stable carbocation); 2° within about 5 minutes; 1° none at room temperature.
+
+O4. Oxidation of alcohols
+
+| Alcohol | Reagent | Product | Why |
+| 1° | PCC | Aldehyde | Mild; stops at the aldehyde |
+| 1° | Acidified K₂Cr₂O₇ or KMnO₄ | Carboxylic acid (via aldehyde) | Aldehyde is oxidised further |
+| 2° | Acidified K₂Cr₂O₇ | Ketone | One H on the carbinol carbon |
+| 3° | Acidified K₂Cr₂O₇ | No reaction | No H on the carbinol carbon |
+| 1° / 2° / 3° | Cu, 573 K | Aldehyde / ketone / alkene | Dehydrogenation (1°, 2°); dehydration (3°) |
+
+- Key role: the H on the carbon bearing –OH is what the oxidant removes. Cr(VI) (orange) is reduced to Cr(III) (green).
+
+O5. Alcohols from alkenes
+
+| Reaction | Reagents | Orientation | Roles |
+| Acid-catalysed hydration | H₂O, H⁺ (dil. H₂SO₄) | Markovnikov | H⁺ electrophile first → carbocation; H₂O nucleophile |
+| Hydroboration–oxidation | B₂H₆, then H₂O₂/OH⁻ | Anti-Markovnikov | B (electron-deficient) adds to the less substituted carbon, H to the other; H₂O₂ replaces B by OH |
+
+- Example: propene → propan-2-ol (acid hydration) but propan-1-ol (hydroboration–oxidation).
+
+O6. Esterification
+
+Equation: RCOOH + R′OH ⇌ RCOOR′ + H₂O (conc. H₂SO₄).
+
+| Participant | Role here | Why |
+| O of the alcohol | Nucleophile; stays in the ester | Attacks the protonated carbonyl carbon |
+| C of COOH | Electrophile | Protonation of C=O makes it more δ+ |
+| –OH of the acid | Leaves as H₂O | The acid, not the alcohol, loses –OH |
+
+- Reversible: remove water or use excess alcohol to push it forward.
+
+O7. Williamson ether synthesis
+
+Equation: RO⁻Na⁺ + R′–X → R–O–R′ + NaX (SN2).
+
+| Participant | Role here | Why |
+| O (alkoxide) | Nucleophile | Negative charge, lone pairs |
+| C of R′X | Electrophile | δ+ next to halogen |
+| X | Leaving group |  |
+
+- Use a 1° alkyl halide. With a 3° halide the alkoxide acts as a base and gives an alkene (elimination).
+- For (CH₃)₃C–O–CH₃: use (CH₃)₃CO⁻Na⁺ + CH₃Br, not (CH₃)₃CBr + CH₃O⁻Na⁺.
+- Aryl ethers: phenoxide + alkyl halide (the aryl halide cannot be the electrophile).
+
+O8. Cleavage of ethers by HI
+
+Equation: R–O–R′ + HI → ROH + R′I.
+
+| Participant | Role here | Why |
+| O | Base: protonated first | Lone pairs |
+| I⁻ | Nucleophile | Good nucleophile; attacks the less hindered alkyl carbon (SN2) |
+| Alkyl group | Electrophile | Gets I |
+
+- Anisole + HI → phenol + CH₃I. The O–aryl bond (partial double bond, sp² carbon) is not broken.
+- With a 3° alkyl group the cleavage goes by SN1 and the 3° group becomes the halide.
+
+P1. Acidity of phenol
+
+Equations: C₆H₅OH + NaOH → C₆H₅O⁻Na⁺ + H₂O; phenol + NaHCO₃ → no reaction.
+
+| Participant | Role here | Why |
+| H (of O–H) | Acidic proton | sp² carbon pulls electrons; phenoxide is stabilised |
+| O in phenoxide | Negative charge delocalised into the ring | Resonance |
+
+- Acidity: carboxylic acid > phenol > water > alcohol.
+- –NO₂ at o/p raises acidity (o- and p-nitrophenol > m-nitrophenol > phenol); –CH₃ lowers it.
+
+P2. Bromination of phenol
+
+| Conditions | Product | Why |
+| Bromine water | 2,4,6-Tribromophenol (white precipitate) | Polar water polarises Br₂ and ionises phenol; ring strongly activated |
+| Br₂ in CS₂ or CHCl₃, low temperature | o- and p-Bromophenol | Non-polar solvent: weaker electrophile, monosubstitution |
+
+- Role of O: +R donor (lone pair into the ring), making ortho and para positions electron-rich. Lewis acid is not needed.
+
+P3. Nitration of phenol
+
+| Conditions | Product |
+| Dilute HNO₃, 298 K | o- and p-Nitrophenol (separated by steam distillation: ortho is steam volatile due to intramolecular hydrogen bonding) |
+| Conc. HNO₃ | 2,4,6-Trinitrophenol (picric acid) |
+
+P4. Reimer–Tiemann reaction
+
+Equation: phenol + CHCl₃ + aq. NaOH, then H⁺ → salicylaldehyde (2-hydroxybenzaldehyde).
+
+| Participant | Role here | Why |
+| CHCl₃ | Source of the electrophile (dichlorocarbene, :CCl₂) | OH⁻ removes H⁺, then Cl⁻ leaves |
+| Phenoxide ring | Nucleophile, attacks at ortho | Strongly activated by O⁻ |
+| –CHCl₂ group | Hydrolysed to –CHO | Aqueous alkali |
+
+P5. Kolbe's reaction
+
+Equation: sodium phenoxide + CO₂ (heat, pressure), then H⁺ → salicylic acid (2-hydroxybenzoic acid).
+
+| Participant | Role here | Why |
+| Phenoxide ring | Nucleophile, attacks at ortho | Phenoxide is far more reactive than phenol |
+| CO₂ | Weak electrophile | Carbon is δ+ between two O atoms |
+
+P6. Other phenol reactions
+
+- Phenol + Zn dust, heat → benzene (Zn removes O).
+- Neutral FeCl₃ → violet colour (test for phenols).
+- Phenol → no reaction with HCl; the C–O bond does not break.
+
+Aldehydes, ketones and carboxylic acids
+
+C1. Nucleophilic addition to C=O
+
+General path: nucleophile attacks the δ+ carbonyl carbon → carbon becomes sp³ (tetrahedral alkoxide) → O⁻ picks up H⁺.
+
+| Participant | Role here | Why |
+| C of C=O | Electrophile | O (3.44) pulls electrons from C (2.55) |
+| O of C=O | Takes the negative charge, then H⁺ | Electronegative; holds the π pair |
+| Nucleophile | Attacks C | CN⁻, H⁻, R⁻ (Grignard), HSO₃⁻, ammonia derivatives |
+
+| Reagent | Product | Note |
+| HCN (base catalyst) | Cyanohydrin | CN⁻ is the nucleophile; base generates it |
+| NaHSO₃ | Bisulphite addition product (crystalline) | Used to separate/purify aldehydes and some ketones |
+| NH₂OH | Oxime | Addition, then loss of H₂O |
+| NH₂NH₂ | Hydrazone | Addition, then loss of H₂O |
+| 2,4-DNP | 2,4-Dinitrophenylhydrazone (orange-red solid) | Test for C=O |
+| R′OH, dry HCl | Hemiacetal → acetal (aldehydes); ketones with ethylene glycol → ketal |  |
+
+- Reactivity: HCHO > other aldehydes > ketones (steric hindrance and +I of alkyl groups). Benzaldehyde is less reactive than propanal (resonance with the ring).
+
+C2. Grignard addition
+
+| Substrate | Product after H₃O⁺ |
+| HCHO | 1° alcohol |
+| RCHO (other aldehydes) | 2° alcohol |
+| R₂CO (ketones) | 3° alcohol |
+| CO₂ | Carboxylic acid (one carbon more) |
+| RC≡N | Ketone |
+
+- Roles: R⁻ of RMgX is the nucleophile on the carbonyl carbon; MgX⁺ binds the O; acid work-up supplies H⁺.
+
+C3. Reductions of C=O
+
+| Reagent | Change | Medium | Role |
+| NaBH₄ or LiAlH₄ | Aldehyde → 1° alcohol; ketone → 2° alcohol |  | H⁻ nucleophile |
+| H₂, Ni/Pt/Pd | Same as above |  | Catalyst |
+| Zn–Hg, conc. HCl (Clemmensen) | C=O → CH₂ | Acidic | Zn is the reducing metal |
+| NH₂NH₂, then KOH/ethylene glycol, heat (Wolff–Kishner) | C=O → CH₂ | Basic | Hydrazone loses N₂ |
+| LiAlH₄ or B₂H₆ | RCOOH → RCH₂OH |  | NaBH₄ does not reduce acids |
+
+- Choose Clemmensen for base-sensitive compounds and Wolff–Kishner for acid-sensitive ones.
+
+C4. Oxidation tests: aldehydes vs ketones
+
+| Test | Reagent | Positive result | Aldehydes | Ketones |
+| Tollens' | [Ag(NH₃)₂]⁺ | Silver mirror | All (including aromatic) | No |
+| Fehling's | Cu²⁺ (alkaline tartrate) | Red-brown Cu₂O | Aliphatic only (not benzaldehyde) | No |
+
+- Role of H: the aldehyde's C–H on the carbonyl carbon makes it oxidisable to RCOO⁻. Ketones have no such H; strong oxidants break C–C bonds instead.
+- Role of the metal: Ag⁺ → Ag (mirror); Cu²⁺ → Cu₂O.
+
+C5. Aldol condensation
+
+Equation: 2CH₃CHO (dil. NaOH) → CH₃CH(OH)CH₂CHO (aldol); heat → CH₃CH=CHCHO (but-2-enal) + H₂O.
+
+| Participant | Role here | Why |
+| OH⁻ | Base: removes an α-H | α-H is acidic |
+| α-Carbon | Becomes a carbanion (enolate), then a nucleophile | Resonance with C=O stabilises it |
+| Carbonyl C of a second molecule | Electrophile | δ+ |
+
+- Needs at least one α-H. Two different carbonyls with α-H give four products (cross aldol).
+- Ketones with α-H also react (acetone → 4-hydroxy-4-methylpentan-2-one).
+
+C6. Haloform (iodoform) reaction
+
+Equation: CH₃COR + 3I₂ + 4NaOH → CHI₃↓ + RCOONa + 3NaI + 3H₂O.
+
+| Participant | Role here | Why |
+| H atoms of CH₃ next to C=O | Replaced by I one by one | α-H is acidic in base |
+| CI₃ group | Leaving group (CI₃⁻), becomes CHI₃ | Three I atoms stabilise the carbanion |
+| OH⁻ | Base, then nucleophile on C=O |  |
+
+- Positive for CH₃CO– compounds and for alcohols with CH₃CH(OH)– (oxidised to CH₃CO– first). Ethanol and acetaldehyde are the only 1° alcohol and aldehyde that give it. Methanol and HCHO do not.
+
+C7. Cannizzaro reaction
+
+Equation: 2HCHO + conc. NaOH → CH₃OH + HCOONa. 2C₆H₅CHO + conc. NaOH → C₆H₅CH₂OH + C₆H₅COONa.
+
+| Participant | Role here | Why |
+| OH⁻ | Nucleophile on C=O of one molecule | No α-H, so it cannot act as a base for aldol |
+| H on that carbonyl carbon | Transferred as hydride (H⁻) to the second molecule | Self oxidation–reduction (disproportionation) |
+| Second aldehyde | Reduced to alcohol | Accepts H⁻ |
+
+- Only aldehydes without α-H. Crossed Cannizzaro with HCHO: HCHO is oxidised (to formate) and the other aldehyde is reduced.
+
+C8. Making aldehydes and ketones
+
+| Reaction | Equation / reagents | Role of the key reagent |
+| Rosenmund | RCOCl + H₂ → RCHO (Pd on BaSO₄) | Poisoned Pd stops at the aldehyde |
+| Stephen | RCN + SnCl₂/HCl → imine, then H₃O⁺ → RCHO | SnCl₂ reduces |
+| Étard | Toluene + CrO₂Cl₂ (CS₂), then H₃O⁺ → benzaldehyde | CrO₂Cl₂ oxidises CH₃ only to CHO |
+| Gattermann–Koch | Benzene + CO + HCl (anhyd. AlCl₃/CuCl) → benzaldehyde | AlCl₃ Lewis acid |
+| Friedel–Crafts acylation | ArH + RCOCl (AlCl₃) → ArCOR | Acylium ion electrophile |
+| From nitriles | RCN + R′MgX, then H₃O⁺ → RCOR′ | Grignard carbon is the nucleophile |
+| Ozonolysis | See H8 |  |
+| Alkyne hydration | See H5 |  |
+| Oxidation of alcohols | See O4 |  |
+
+C9. Carboxylic acids
+
+| Reaction | Equation / reagents | Role / note |
+| Acidity | RCOOH ⇌ RCOO⁻ + H⁺ | Carboxylate is stabilised by two equivalent resonance structures; −I groups raise acidity, +I lower it |
+| With NaHCO₃ | RCOOH + NaHCO₃ → RCOONa + H₂O + CO₂↑ | Test that separates acids from phenols |
+| Acid chlorides | SOCl₂, PCl₅ or PCl₃ | –OH replaced by –Cl |
+| Anhydride | 2RCOOH (P₂O₅ or H⁺, heat) → (RCO)₂O | Dehydration |
+| Amide | RCOOH + NH₃ → RCOONH₄, heat → RCONH₂ |  |
+| Hell–Volhard–Zelinsky | RCH₂COOH + X₂, red P, then H₂O → RCHXCOOH | Needs α-H; P forms PX₃ |
+| Decarboxylation | RCOONa + NaOH/CaO → RH + Na₂CO₃ | Loses CO₂ carbon |
+| Kolbe electrolysis | See H10 |  |
+| Reduction | LiAlH₄ or B₂H₆ → RCH₂OH |  |
+
+- Acidity order: FCH₂COOH > ClCH₂COOH > HCOOH > C₆H₅COOH > CH₃COOH.
+- Ring substitution: –COOH and –CHO are deactivating and meta directing. Benzoic acid does not undergo Friedel–Crafts reactions.
+
+Amines and diazonium salts
+
+A1. Hofmann bromamide degradation
+
+Equation: RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O.
+
+| Participant | Role here | Why |
+| N–H of the amide | Acidic; replaced by Br (N-bromoamide) | Lone pair delocalised into C=O makes N–H acidic |
+| R group | Migrates from carbon to nitrogen | Forms an isocyanate (R–N=C=O) |
+| Carbonyl carbon | Leaves as carbonate | One carbon fewer in the amine |
+| Br | Leaving group from N |  |
+
+- Gives 1° amines only, with one carbon fewer than the amide.
+
+A2. Gabriel phthalimide synthesis
+
+Steps: phthalimide + KOH → potassium phthalimide; + R–X → N-alkylphthalimide (SN2); alkaline hydrolysis → RNH₂.
+
+| Participant | Role here | Why |
+| N–H of phthalimide | Acidic, removed by KOH | Flanked by two C=O groups |
+| Phthalimide N⁻ | Nucleophile | Attacks the alkyl halide |
+| R–X | Electrophile | Must be able to undergo SN2 |
+
+- Only 1° aliphatic amines; no aromatic amines (aryl halides do not do SN2), and no over-alkylation.
+
+A3. Carbylamine (isocyanide) test
+
+Equation: RNH₂ + CHCl₃ + 3KOH (alc., heat) → RNC + 3KCl + 3H₂O. Foul-smelling isocyanide.
+
+| Participant | Role here | Why |
+| CHCl₃ + KOH | Generate dichlorocarbene (:CCl₂), the electrophile |  |
+| N of 1° amine | Nucleophile; loses both H atoms | Needs two N–H |
+
+- Given by 1° amines only (aliphatic and aromatic).
+
+A4. Hinsberg test
+
+| Amine | Reaction with C₆H₅SO₂Cl | Product behaviour in alkali |
+| 1° | N attacks S; Cl⁻ leaves → C₆H₅SO₂NHR | Soluble (remaining N–H is acidic next to SO₂) |
+| 2° | → C₆H₅SO₂NR₂ | Insoluble (no N–H) |
+| 3° | No reaction | – |
+
+- Role of N: nucleophile (lone pair) attacking sulphur; role of Cl: leaving group.
+
+A5. Reaction with nitrous acid; diazotisation
+
+Reagent: NaNO₂ + HCl → HNO₂, which gives the electrophile NO⁺.
+
+| Amine | Conditions | Product |
+| 1° aliphatic | Cold | Unstable diazonium salt → alcohol + N₂↑ (quantitative) |
+| 1° aromatic (aniline) | 273–278 K | Benzenediazonium chloride C₆H₅N₂⁺Cl⁻ |
+
+| Participant | Role here | Why |
+| N of aniline | Nucleophile | Attacks NO⁺ |
+| N₂⁺ group (later) | Excellent leaving group (N₂ gas) | Very stable N≡N molecule |
+
+- Kept cold: the aromatic diazonium salt is stable only at low temperature (resonance with the ring).
+
+A6. Replacement of the diazonium group
+
+| Reagent | Product | Name |
+| CuCl/HCl | C₆H₅Cl | Sandmeyer |
+| CuBr/HBr | C₆H₅Br | Sandmeyer |
+| CuCN/KCN | C₆H₅CN | Sandmeyer |
+| Cu powder/HCl or HBr | C₆H₅Cl or C₆H₅Br | Gattermann |
+| KI | C₆H₅I | – |
+| HBF₄, then heat | C₆H₅F | (via fluoroborate) |
+| H₃PO₂ or CH₃CH₂OH | C₆H₆ | Reduction (removes an –NH₂ used as a director) |
+| H₂O, warm | C₆H₅OH | – |
+| HBF₄, then NaNO₂/Cu, heat | C₆H₅NO₂ | – |
+
+- In every row N₂ leaves; the incoming group takes its place on the same carbon.
+
+A7. Azo coupling
+
+| Partner | Medium | Product | Colour |
+| Phenol | Alkaline | p-Hydroxyazobenzene | Orange |
+| Aniline | Mildly acidic | p-Aminoazobenzene | Yellow |
+
+- Roles: diazonium ion is a weak electrophile; the strongly activated ring (phenoxide, aniline) is the nucleophile, attacking at para. N₂ is retained (–N=N– link).
+
+A8. Substitution on the aniline ring
+
+| Reaction | Conditions | Product | Role of N |
+| Bromination | Bromine water | 2,4,6-Tribromoaniline (white precipitate) | Strong +R activation |
+| Acetylation | (CH₃CO)₂O or CH₃COCl, pyridine | Acetanilide | N is the nucleophile; product's lone pair is shared with C=O |
+| Bromination of acetanilide, then hydrolysis | Br₂/CH₃COOH | p-Bromoaniline (mainly) | –NHCOCH₃ is a milder o/p activator |
+| Nitration | conc. HNO₃/H₂SO₄ | p (51%), m (47%), o (2%) nitroaniline | Protonated to –NH₃⁺ (meta directing) |
+| Sulphonation | conc. H₂SO₄, 453–473 K | Sulphanilic acid (zwitterion) |  |
+| Friedel–Crafts | AlCl₃ | No reaction | N lone pair binds AlCl₃ (Lewis acid–base salt) |
+
+A9. Making amines by reduction
+
+| Starting compound | Reagent | Product |
+| Nitrobenzene | Sn/HCl or Fe/HCl | Aniline |
+| Nitrile RCN | LiAlH₄, H₂/Ni, or Na/C₂H₅OH | RCH₂NH₂ |
+| Amide RCONH₂ | LiAlH₄ | RCH₂NH₂ (same number of carbons) |
+| Alkyl halide | NH₃ (ammonolysis) | Mixture of 1°, 2°, 3° amines and quaternary salt |
+
+- Amide → amine: LiAlH₄ keeps all carbons; Hofmann bromamide (A1) removes one.

@@ -1,0 +1,261 @@
+Character quirks
+
+Every participant in the bible has one fixed personality, and every quirk is a real chemical property. A story may only show a character doing what its quirk allows, so new stories cannot contradict the chemistry. Reaction codes (H1, X3, C7…) point to the Reactions tab.
+
+How the quirks work
+
+1. One core quirk per character, fixed forever. It is the character's most important property, turned into behaviour.
+2. Role changes are written down, never improvised. When a character plays different roles (bromine as electrophile, nucleophile, radical or leaving group), each role is listed with the reaction where it happens. A story uses only the listed behaviour for that reaction.
+3. Conditions change behaviour, not personality. The same character can act differently in water and in alcohol, or cold and hot. Those switches are listed as "triggers".
+4. Transformations are allowed only where chemistry allows them. For example, –CH₃ becomes –COOH with KMnO₄ and its seating rule flips. Each transformation is listed.
+5. Every quirk has a "never" line. A story that shows a character doing its "never" is wrong chemistry.
+6. Names stay chemical (Sodium, Nitro group, Carbocation). Personality lives in behaviour, not in the name.
+
+Each table below uses the same columns:
+
+- Core quirk: the personality.
+- Encodes: the fact behind it.
+- In reactions: how the quirk plays out, reaction by reaction.
+- Never: what the character can never do.
+
+Atoms
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Carbon | The host who always keeps exactly four commitments. Builds chains and rings with its own kind. Its mood depends on how it holds hands (see Carbon's moods). | Valency 4; catenation; hybridisation | Skeleton of every molecule. Becomes a carbocation, carbanion or radical when a partner leaves with or without the electrons (H1, H2, X2, C5). | Never keeps five partners; five partial bonds exist only for an instant in the SN2 transition state (X1). |
+| Hydrogen | The most transferable guest. Leaves in whatever form the moment demands: as a bare proton (H⁺), a lone atom (H•) or with a pair of electrons (H⁻). Gets more nervous (acidic) the harder its neighbour pulls. | Acidity depends on the atom it is bonded to; hydride transfer; hyperconjugation | H⁺ attacks first in HBr addition (H2) and joins the carbon that already has more hydrogens: "jiske paas zyada, use aur" (Markovnikov). H• is stolen by Cl• (H1) and delivered last under peroxide (H3). H⁻ is handed over by LiAlH₄/NaBH₄ (C3) and passed between two aldehydes in Cannizzaro (C7). Leaves as H⁺ to restore the benzene ring (H9). α-H next to C=O is restless and leaves to base (C5, C6). C–H next to a carbocation lends support (hyperconjugation). | Never released as H₂ by sodium from an alkane or alkene; only acidic H (O–H, ≡C–H) does that (O1, H7). Never leaves a ring as hydride. |
+| Oxygen | Possessive, with two free hands (lone pairs). Pulls shared electrons towards herself, grabs H⁺ readily, shares her lone pair generously with a ring. | Electronegativity 3.44; two lone pairs; +R on rings, −I always | In C=O she pulls the π pair, leaving carbon exposed (δ+) for nucleophiles (C1). In –OH she refuses to leave until she gets an H⁺, then leaves happily as water (O2, O3). As phenoxide she spreads her negative charge round the ring, which is why phenol is acidic (P1). In esterification the alcohol's oxygen stays in the ester; the acid's –OH leaves (O6). | Never leaves as OH⁻ in substitution. Never lets go of an aryl carbon: phenol's C–O never breaks with HCl, anisole + HI never gives iodobenzene (O8, P6). |
+| Nitrogen | The generous donor with one gift (lone pair). Gives it more readily than oxygen, unless someone else is already holding it. | Electronegativity 3.04, one lone pair; base and nucleophile | Attacks as a nucleophile: on alkyl halides (A9), on NO⁺ in diazotisation (A5), on sulphur in Hinsberg (A4), on carbene in carbylamine (A3). In aniline the gift is shared with the ring (weaker base, strong ring activator). In amides it is shared with C=O (neutral; N–H becomes acidic, A1, A2). When protonated it becomes –NH₃⁺ and turns germophobe (see seating rules). As N₂ in a diazonium salt it is the best leaver of all, leaving as gas (A5, A6). | Never lets aniline undergo Friedel–Crafts: it handcuffs AlCl₃ (A8). Never stays as aliphatic diazonium: leaves at once as N₂ (A5). |
+| Fluorine | The most possessive character of all. Once attached, never lets go. Too violent to invite directly. | Highest electronegativity (3.98); strongest C–X bond; strongest −I | Brought in only indirectly: Swarts (AgF, Hg₂F₂, CoF₂, SbF₃, X4) or via diazonium + HBF₄ (A6). Its pull makes FCH₂COOH the strongest of the haloacetic acids. | Never a good leaving group. Never added by direct fluorination in a controlled story. |
+| Chlorine | Aggressive but unselective. As a radical grabs any hydrogen it meets; as a substituent, slow to leave. | Reactive radical; moderate leaving group; C–Cl on a ring has partial double-bond character | Radical chain on alkanes, giving mixtures (H1). With AlCl₃/FeCl₃ becomes Cl⁺ and attacks benzene (H9). In sunlight attacks toluene's side chain; with FeCl₃ attacks the ring (main tab). On a ring it is "grumpy but polite" (see seating rules). | Never leaves a benzene ring easily: needs 623 K and 300 atm (X7). Never selective between 1°, 2°, 3° H. |
+| Bromine | The shapeshifter. Plays four different roles depending on the reaction, and always announces itself: its red-brown colour vanishes when it reacts with a double bond. | Polarisable Br₂; Br⁻ stable anion; Br• radical; good leaving group | Electrophile (Brδ+) adding to C=C (H4) and attacking phenol or aniline (P2, A8). Nucleophile Br⁻ completing HBr addition (H2). Radical Br• with peroxide, adding first to the end carbon (H3), and choosy: prefers 3° H. Leaving group in SN1/SN2 (X1, X2) and from nitrogen in Hofmann (A1). | Never reverses Markovnikov without peroxide. Never switches to the radical role with HCl or HI. |
+| Iodine | The laid-back one. Leaves without a fight; lazy at attacking benzene. | Weakest C–X bond; best leaving group; I₂ a weak electrophile; I⁻ a strong nucleophile | Leaves most easily in SN1/SN2. I⁻ cracks ethers, attacking the smaller alkyl group (O8). Swaps in for Cl/Br in acetone (Finkelstein, X4). Replaces N₂ without copper (A6). Ends up as yellow CHI₃ in the iodoform test (C6). | Never iodinates benzene on its own: the reaction runs backwards unless HNO₃ or HIO₄ removes HI. |
+| Sulphur | The reversible committer. Joins a ring as –SO₃H but can be asked to leave. As SOCl₂, the clean exit artist. | Sulphonation is reversible; SOCl₂ by-products (SO₂, HCl) are gases | SO₃ attacks benzene (H9). SOCl₂ turns –OH into –Cl and leaves nothing behind (O3, C9). In C₆H₅SO₂Cl it is the target the amine's nitrogen attacks (A4). | Never leaves solid or liquid by-products in a SOCl₂ reaction. |
+| Phosphorus | The converter behind the scenes. Swaps –OH for halogen, and as red phosphorus quietly makes the reagent itself. | PCl₅, PCl₃; red P + X₂ → PX₃ in situ | PCl₅/PCl₃ replace –OH by –Cl in alcohols and acids (O3, C9). Red P + Br₂ runs HVZ α-halogenation (C9). | Never converts phenol to chlorobenzene in good yield. |
+
+Carbon's moods and the reactive intermediates
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Carbon, sp³ | Relaxed. Spreads four arms evenly in all directions. | Tetrahedral, 109°28′, 25% s-character | Alkanes and alkyl groups; its C–H is the calmest (pKa ~50). | Never gives up an H to sodium. |
+| Carbon, sp² | Alert and flat. Holds three partners in a plane, keeps a loose π pair above and below. | Trigonal planar, 120°, 33% s | Alkenes, C=O carbon, benzene ring, carbocations. | – |
+| Carbon, sp | Strict and straight. Holds electrons tightly, so its H is the most nervous of the hydrocarbon H atoms. | Linear, 180°, 50% s; most electronegative carbon | Terminal alkyne H leaves to NaNH₂, Na, Ag⁺, Cu⁺ (H7). | – |
+| Carbocation | Insecure and flat. Has lost a partner and its electrons; needs supporters around it. Will rearrange itself (shift an H or CH₃ from next door) to get better support. Open from both faces. | 6 electrons, sp², planar; stability 3° > 2° > 1° > CH₃⁺; benzylic and allylic extra stable by resonance; 1,2-shifts | Forms in HBr addition (H2), SN1 (X2), dehydration (O2), Lucas test (O3), acid hydration (O5). The more alkyl supporters (+I, hyperconjugation), the calmer it is. Attacked from either face, so SN1 at a chiral carbon gives both mirror images (racemisation). | Never keeps its old 3D shape. Never forms easily at a 1° or methyl carbon. |
+| Carbanion | Pushy. Has an extra pair of electrons to give away. Prefers fewer alkyl neighbours (they push even more electrons onto it). | 8 electrons, pyramidal; stability CH₃⁻ > 1° > 2° > 3° | Acetylide (H7), the carbon of RMgX (X6, C2), enolate in aldol and haloform (C5, C6). Acts as a nucleophile and a strong base. | Never survives water or any acidic H. |
+| Free radical | Lonely. One unpaired electron; grabs an H or atom from anyone and leaves a new loner behind, so the story keeps going (chain). | 7 electrons; stability 3° > 2° > 1° > CH₃•; initiation, propagation, termination | Cl• and CH₃• in halogenation (H1); Br• with peroxide (H3); R• coupling in Kolbe electrolysis (H10). The story ends only when two loners meet (termination; CH₃• + CH₃• explains ethane traces). | Never appears without light, heat, peroxide or electrolysis (Kolbe) to start it. |
+| Arenium ion (σ-complex) | The temporarily broken family. Has let a newcomer in and lost its unity for a moment; desperate to restore it. | One sp³ carbon; positive charge delocalised; loss of H⁺ restores aromaticity | Middle step of every electrophilic substitution (H9): always throws out H⁺ from the carbon that accepted the newcomer. | Never keeps the extra group as an addition product. |
+| Enolate | Born restless. Forms when a base pulls the α-H off a carbonyl compound; immediately attacks another carbonyl. | Resonance-stabilised carbanion; nucleophile | Aldol condensation (C5); stepwise replacement of α-H by iodine in the haloform reaction (C6). | Never forms from a compound without α-H (those go to Cannizzaro instead, C7). |
+
+Attackers, ions and leaving groups
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Hydroxide ion (OH⁻) | Two personalities, set by the crowd around it. In water it is an attacker; in alcohol it is a thief of β-hydrogens. | Nucleophile when solvated by water; strong base in alcohol | Aqueous KOH: attacks carbon (X1, X2). Alcoholic KOH: removes β-H, makes alkenes (X3). Dilute NaOH: removes α-H (aldol, C5). Concentrated NaOH: attacks C=O and triggers hydride transfer (Cannizzaro, C7). With I₂: removes α-H, then attacks C=O (C6). | Never acts as a base for aldol on an aldehyde without α-H. |
+| Alkoxide (RO⁻) | Strong and impatient. A powerful attacker, but if the target is crowded it gives up and steals an H instead. | Strong nucleophile and strong base | Williamson ether synthesis with a 1° halide (O7). With a 3° halide, elimination to an alkene. Formed when sodium meets an alcohol (O1). | Never makes an ether from a 3° alkyl halide. |
+| Phenoxide ion | Richer and bolder than phenol. Its negative charge floods the ring, so it attacks even weak electrophiles, always at ortho or para. | O⁻ is a stronger +R donor than –OH | Attacks CO₂ (Kolbe's reaction, P5) and dichlorocarbene (Reimer–Tiemann, P4) at ortho. Couples with diazonium ions at para (alkaline medium, A7). Attacks alkyl halides on oxygen (aryl ethers, O7). | Never attacks with its ring carbon at meta. |
+| Cyanide ion (CN⁻) | Two-faced (ambident). Can attack with carbon or with nitrogen; the partner it arrives with decides. Brings one extra carbon. | Ambident nucleophile; KCN ionic, AgCN covalent | With K⁺: attacks with C → nitrile (X5). With Ag⁺: only N is free → isocyanide. Adds to C=O (HCN, cyanohydrin, C1). From CuCN replaces N₂ (A6). | Never gives isocyanide from KCN, or nitrile from AgCN. |
+| Nitrite ion (NO₂⁻) | Two-faced too. O or N attacks, depending on the partner. | Ambident | KNO₂ → O attacks → alkyl nitrite R–O–N=O. AgNO₂ → N attacks → nitroalkane R–NO₂ (X5). | – |
+| Hydride ion (H⁻), from LiAlH₄/NaBH₄ | The gift-giver. Always delivers a pair of electrons with a hydrogen to an exposed carbon. | Nucleophilic H | Adds to the carbonyl carbon (C3); see LiAlH₄ and NaBH₄ for who reduces what. | Never adds to an isolated C=C. |
+| Proton (H⁺) | The desperate first-mover. Owns nothing, wants electrons, always strikes first. | Electrophile; acid catalyst | First step of HBr addition (H2), acid hydration (O5), dehydration (O2), esterification (O6), ether cleavage (O8). | – |
+| Nitronium ion (NO₂⁺) | Made in the acid mix, born to attack rings. | Generated by HNO₃ + 2H₂SO₄ | Electrophile in nitration (H9). | Never appears without concentrated sulphuric acid in the story. |
+| Nitrosonium ion (NO⁺) | The diazotiser. Appears only from cold nitrous acid. | From NaNO₂ + HCl | Attacked by the nitrogen of a 1° amine (A5). | – |
+| Dichlorocarbene (:CCl₂) | Appears only when chloroform meets strong base. Electron-hungry, neutral. | Formed from CHCl₃ + OH⁻ | Turns 1° amines into isocyanides (carbylamine, A3). Attacks phenoxide at ortho, giving –CHO after hydrolysis (P4). | Never reacts with 2° or 3° amines to give isocyanide. |
+| Acylium ion (RCO⁺) | The precise attacker in acylation. | Formed from RCOCl + AlCl₃ | Friedel–Crafts acylation (H9, C8). | – |
+| Diazonium ion (ArN₂⁺) | Lives only in the cold, with an exit always ready. Its N₂ leaves as gas and anyone can take its seat; as an attacker it is weak and only couples with very rich rings. | Stable at 273–278 K (aromatic only); N₂ a perfect leaving group; weak electrophile | Replaced by Cl, Br, CN (Cu(I) salts), I (KI), F (HBF₄, heat), H (H₃PO₂ or ethanol), OH (warm water) (A6). Couples at para with phenoxide (alkaline) or aniline (mildly acidic) to give azo dyes (A7). | Never survives warming in water (becomes phenol). Never exists as an aliphatic salt in a story: it decomposes at once. |
+| Leaving groups | Their willingness to leave sets the speed of substitution. | Stability of the departing anion; C–X strength | I⁻ leaves most easily, then Br⁻, Cl⁻; F⁻ barely leaves. –OH leaves only after protonation (as H₂O). N₂ is the best of all. –CI₃ leaves in the haloform reaction (C6). | –OH never leaves unprotonated. |
+
+The benzene ring and the seating rules
+
+The ring: six carbons sharing six electrons as one household (aromatic sextet). Proud of its unity: a newcomer can join only by replacing a hydrogen (substitution); the household is broken for a moment (arenium ion) and immediately restored. Only under force does it accept additions: H₂ with Ni and heat (cyclohexane), Cl₂ in UV light (hexachlorocyclohexane). Never does addition with HBr, Br₂/CCl₄ or Baeyer's reagent.
+
+Seats relative to a group already sitting on the ring: ortho (next to it, positions 2 and 6), meta (one seat away, 3 and 5), para (directly opposite, 4).
+
+| Group on the ring | Seating quirk | Activity | Encodes | In reactions / special behaviour | Never |
+| –OH (phenol) | Warm host. Pulls newcomers into the seats beside and opposite it. So welcoming that in a polar crowd (bromine water) it fills all three seats. | Strongly activating | +R lone pair into ring | Bromine water → 2,4,6-tribromophenol; Br₂ in CS₂, cold → one newcomer, o or p (P2). Dilute HNO₃ → o- and p-nitrophenol; conc. HNO₃ → picric acid (P3). The ortho product keeps a private hydrogen bond, so it is steam volatile. | Never sends a newcomer to meta. Never needs a Lewis acid. |
+| –O⁻ (phenoxide) | Warmer host than –OH. Welcomes even weak guests. | Very strongly activating | Full negative charge | Kolbe's (CO₂) and Reimer–Tiemann (:CCl₂) at ortho (P4, P5); azo coupling at para (A7). | – |
+| –NH₂ (aniline) | The warmest host, but nervous in acid. Fills 2,4,6 with bromine water. In acid it turns into –NH₃⁺, a germophobe. | Strongly activating | +R; basic N | Bromine water → 2,4,6-tribromoaniline (A8). Nitration in acid → about 51% para, 47% meta, 2% ortho. Handcuffs AlCl₃, so no Friedel–Crafts. Tamed by acetylation into –NHCOCH₃. | Never does Friedel–Crafts. Never gives a clean mononitro product directly. |
+| –NHCOCH₃ (acetanilide) | Polite host. Same seats as –NH₂ but calmer: lets in one newcomer, mostly at para. | Moderately activating | N lone pair shared with C=O | Used to get p-bromoaniline (bromination, then hydrolysis back to –NH₂) (A8). | – |
+| –OCH₃ (anisole) | Host. o/p. | Activating | +R | o/p substitution; with HI it stays on the ring and loses only CH₃ (O8). | Never leaves the ring as I–C₆H₅. |
+| –CH₃ and other alkyl groups | Mild host with a weak spot. Sends newcomers o/p, but its own benzylic hydrogens are vulnerable to oxidisers and to chlorine in light. | Weakly activating | +I and hyperconjugation; benzylic C–H | Cl₂ + FeCl₃ → ring; Cl₂ in sunlight → side chain (benzyl chloride). KMnO₄ turns it into –COOH (becomes a germophobe). CrO₂Cl₂ turns it into –CHO (Étard, C8). | A tert-butyl group (no benzylic H) is never oxidised by KMnO₄. |
+| –Cl, –Br, –I (haloarene) | Grumpy but polite. Slows the whole party down, yet still offers the ortho and para seats. Stubborn about leaving the ring itself. | Deactivating | −I outweighs +R for rate; +R decides position | o/p products in halogenation, nitration, sulphonation, Friedel–Crafts (X7). | Never sends newcomers to meta. Never leaves the ring easily (needs 623 K, 300 atm, or an –NO₂ at o/p). |
+| –NO₂ | Strict germophobe. Won't let anyone sit next to it or opposite it: newcomers get only the meta seats. Drains the ring, so electrophiles come slowly. But it helps nucleophiles: a halogen at o/p to it leaves easily. | Strongly deactivating | −R and −I | Meta products (Conversions 7, 12). Raises acidity of phenol when at o/p (P1). Makes o/p-nitrohaloarenes easy to substitute (X7). Sn/HCl or Fe/HCl turns it into –NH₂, a warm host (A9). | Never allows Friedel–Crafts on its ring. Never directs o/p. |
+| –CHO, –COR | Germophobes. Meta only. | Deactivating | −R, −I | Meta substitution on benzaldehyde and acetophenone. | Never direct o/p. |
+| –COOH | Germophobe that also handcuffs AlCl₃. Meta only. | Deactivating | −R, −I; binds the Lewis acid | Nitration → m-nitrobenzoic acid (Conversions 12). | Never undergoes Friedel–Crafts (C9). |
+| –CN, –SO₃H | Germophobes. –SO₃H is a temporary guest: sulphonation can be reversed. | Deactivating | −R, −I | Meta substitution. | Never direct o/p. |
+| –NH₃⁺ (anilinium) | Germophobe: what –NH₂ becomes in strong acid. | Deactivating | Positive charge, no free lone pair | Explains the 47% meta product in nitration of aniline (A8). | – |
+
+When two groups share the ring, the stronger host decides where the next newcomer sits (activators beat deactivators).
+
+Transformations that change a group's seating quirk
+
+| From | Reagent | To | Quirk change |
+| –NO₂ | Sn/HCl or Fe/HCl | –NH₂ | Germophobe → warmest host |
+| –CH₃ | KMnO₄, then H⁺ | –COOH | Mild host → germophobe |
+| –CH₃ | CrO₂Cl₂, then H₃O⁺ | –CHO | Mild host → germophobe |
+| –NH₂ | Strong acid | –NH₃⁺ | Warmest host → germophobe |
+| –NH₂ | Acetic anhydride | –NHCOCH₃ | Loud host → polite host |
+| –NH₂ | NaNO₂/HCl (cold), then H₃PO₂ | –H | Host leaves after directing (temporary director) |
+| –NH₂ | NaNO₂/HCl (cold), then CuX, KI, H₂O | –X, –CN, –I, –OH | Host becomes whatever replaces N₂ |
+
+Functional groups and compound classes
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Alkane | Lazy. Ignores almost everyone; wakes up only for radicals with light or heat. | Strong, non-polar C–C and C–H bonds | Radical halogenation (H1). Made by Wurtz, decarboxylation, Kolbe, hydrogenation (H10). | Never reacts with Br₂ water, KMnO₄, Na or acids under normal conditions. |
+| Alkene (C=C) | Generous with its loose π pair. Reaches out to any electrophile; always follows the crowd rule: H goes where H's already are. | π electrons; Markovnikov | Electrophilic additions: HX (H2), Br₂ (H4), H₂O/H⁺ (O5). Reverses only for HBr + peroxide (H3) or with B₂H₆ (O5). Cold Baeyer's reagent makes a diol; hot KMnO₄ and ozone split it in two (H8). Its tells: decolourises Br₂/CCl₄ and pink KMnO₄. | Never gives anti-Markovnikov HCl or HI addition. |
+| Terminal alkyne (≡C–H) | Has a nervous hydrogen. Gives it up to strong bases and to silver or copper ions. | sp C–H acidic (pKa ~25) | NaNH₂/Na → acetylide (H7); ammoniacal AgNO₃ → white ppt, ammoniacal Cu₂Cl₂ → red ppt. Hydration: ethyne → acetaldehyde, others → ketones (H5). Lindlar → cis-alkene; Na/liq. NH₃ → trans-alkene (H6). Three ethynes in a red-hot iron tube → benzene. | Never gives an acetylide if internal (no ≡C–H). |
+| 1° haloalkane | Open to a backside attack. Uncrowded, so attackers come from behind. | SN2 favoured | Substitution (X1), Williamson partner (O7), Gabriel partner (A2). | Never goes by SN1 (1° carbocation too unstable). |
+| 3° haloalkane | Crowded and self-leaving. Halogen walks out on its own (SN1); with a strong base the molecule eliminates. | SN1 and elimination favoured | SN1 in water (X2); alc. KOH → alkene (X3); alkoxide → alkene instead of ether (O7). | Never undergoes SN2. |
+| Allylic and benzylic halides | Fast leavers. Their carbocation is supported by resonance. | Resonance-stabilised carbocation | Very fast SN1. | – |
+| Haloarene | Stubborn. Its halogen is half-married to the ring. | C–X partial double-bond character; sp² C | Leaves only at 623 K, 300 atm (Dow), or easily when –NO₂ sits at o/p (X7). Wurtz–Fittig, Fittig with Na. | Never undergoes ordinary SN1/SN2. Never used as the electrophile in Gabriel or Williamson. |
+| 1° alcohol | Patient. Slow in the Lucas test; oxidises in two stages. | Unstable 1° carbocation; two H on carbinol carbon | Lucas: no turbidity at room temperature (O3). PCC → aldehyde; K₂Cr₂O₇/KMnO₄ → acid; Cu 573 K → aldehyde (O4). Most acidic alcohol class (O1). | Never turbid in Lucas at room temperature. |
+| 2° alcohol | In between. | One H on carbinol carbon | Lucas: turbid within about 5 minutes. Oxidised to a ketone; Cu 573 K → ketone. | Never oxidised to a carboxylic acid with the same carbons. |
+| 3° alcohol | Quick to lose its –OH, refuses oxidation. | Stable 3° carbocation; no H on carbinol carbon | Lucas: turbid at once. Easiest to dehydrate (O2). Cu 573 K → alkene, not a carbonyl. | Never oxidised by K₂Cr₂O₇. |
+| Phenol | Acid with limits. Stronger than alcohols, too weak for bicarbonate; its oxygen never lets go of the ring. | Phenoxide resonance; strong C–O | Reacts with NaOH, not NaHCO₃ (P1). Violet with neutral FeCl₃. Zn dust → benzene. Warm host for substitution (see seating rules). | Never gives chlorobenzene with HCl. Never fizzes with NaHCO₃. |
+| Ether | Quiet and unreactive, cracked only by HI. | No O–H; C–O–C stable | HI: I⁻ attacks the smaller alkyl group (SN2); a 3° group leaves by SN1. Aryl–O stays intact (O8). | Never releases H₂ with Na. |
+| Aldehyde | Approachable and easy to oxidise. One alkyl guard, and a C–H on the carbonyl carbon that any oxidiser can take. | Less steric/+I than ketones; oxidisable C–H | Nucleophilic addition (C1). Tollens' positive (all aldehydes); Fehling's positive (aliphatic only) (C4). With α-H: aldol (C5). Without α-H: Cannizzaro (C7). | Aromatic aldehydes never pass Fehling's. |
+| Formaldehyde (HCHO) | The most reactive carbonyl, and always the one sacrificed. | No alkyl group; no α-H | Most reactive in addition (C1). Grignard + HCHO → 1° alcohol (C2). In crossed Cannizzaro HCHO is always oxidised to formate (C7). | Never gives iodoform. Never undergoes aldol as the enolate partner. |
+| Ketone | Guarded by two alkyl groups. Harder to approach; refuses mild oxidisers. | Steric and +I hindrance; no carbonyl C–H | Addition slower than aldehydes. Grignard → 3° alcohol. CH₃CO– ketones give iodoform (C6). Clemmensen/Wolff–Kishner → CH₂. | Never passes Tollens' or Fehling's. |
+| Carboxylic acid | The proudest acid. Its C=O is busy in resonance, so it ignores the carbonyl tests. Fizzes with bicarbonate. | Resonance-stabilised carboxylate | NaHCO₃ → CO₂ (C9). SOCl₂/PCl₅ → acid chloride. Esterification: loses its –OH (O6). HVZ at α-carbon. Decarboxylation with sodalime (−1 C). LiAlH₄/B₂H₆ → 1° alcohol. Acidity rises with −I groups. | Never reduced by NaBH₄. Never gives 2,4-DNP or Tollens'. |
+| Acid chloride | Eager to swap its Cl. | Good leaving group next to C=O | NH₃ → amide; H₂/Pd–BaSO₄ → aldehyde (C8); acylating agent (Friedel–Crafts, acetylation of aniline). | – |
+| Amide | Its nitrogen is spoken for. Lone pair shared with C=O, so nearly neutral; N–H slightly acidic. | Resonance with C=O | Br₂/NaOH → amine with one carbon fewer (A1). LiAlH₄ → amine with the same carbons (A9). P₂O₅ → nitrile. | Never basic like an amine. |
+| Nitrile | The universal converter. | C≡N can be hydrolysed, reduced or attacked | H₃O⁺ → acid; LiAlH₄ or H₂/Ni → 1° amine; SnCl₂/HCl → aldehyde (Stephen); RMgX → ketone (C2, C8). | – |
+| 1° amine | Two hydrogens on nitrogen decide its tests. | Two N–H | Carbylamine positive (A3). Hinsberg product dissolves in alkali (A4). HNO₂: aliphatic → alcohol + N₂; aromatic (cold) → diazonium (A5). | 2° and 3° amines never give carbylamine. |
+| 2° amine | One N–H. | One N–H | Hinsberg product insoluble in alkali. Most basic in water among methyl and ethyl amines. | – |
+| 3° amine | No N–H. | No N–H | No Hinsberg reaction. Lower boiling point than 1°/2° (no H-bonding). | Never reacts with Hinsberg's reagent. |
+| Aniline | A host on the ring, a weak base off it. | Lone pair delocalised into ring | Weaker base than NH₃ and alkylamines. See –NH₂ in seating rules. | Never does Friedel–Crafts. |
+| Grignard reagent (RMgX) | Aggressive but terrified of water. Its carbon is pushy (carbanion-like); any acidic H destroys it. | C–Mg polar, C δ− | HCHO → 1°, RCHO → 2°, ketone → 3° alcohol; CO₂ → acid; nitrile → ketone (C2). Water, alcohol, amine, terminal alkyne → alkane (X6). | Never made or used outside dry ether. |
+
+Metal reagents, hydrides and catalysts
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Sodium | Hothead and giver. Gives away its one electron instantly; explodes into action on contact with water, releasing flammable hydrogen. Kept locked in kerosene. | Low ionisation energy; violently exothermic with water | Releases H₂ from acidic H: alcohols (O1), terminal alkynes (H7). Joins two alkyl groups (Wurtz, Fittig, H10, X7). In liquid NH₃ makes trans-alkenes (H6). Sodium fusion turns N, S, X into ions for testing. | Never kept in water or air. Never releases H₂ from alkanes or alkenes. |
+| Potassium | Bigger hothead than sodium. | Even lower ionisation energy | Same as sodium, more violent. Mostly appears as K⁺ partner: decides whether OH⁻ attacks or steals (aq. vs alc. KOH, X3), whether CN⁻ and NO₂⁻ attack with C/O (X5). | – |
+| Magnesium | Makes carbon pushy. Slips between carbon and halogen, turning the carbon into an attacker. | Mg less electronegative than C | Forms RMgX in dry ether (X6). | Never works in wet solvent. |
+| Lithium aluminium hydride (LiAlH₄) | The generous reducer. Gives hydride to almost any C=O or C≡N. | Strong hydride donor | Aldehydes, ketones, acids, esters → alcohols; amides, nitriles → amines (C3, A9). | Never reduces an isolated C=C. |
+| Sodium borohydride (NaBH₄) | The selective reducer. Only aldehydes and ketones. | Milder hydride donor | Aldehyde → 1° alcohol; ketone → 2° alcohol (C3). | Never reduces acids or esters. |
+| Diborane (B₂H₆) | Electron-hungry but polite. Sits on the less crowded carbon of a double bond and leaves the crowded one to hydrogen. | Electron-deficient boron | Hydroboration–oxidation → anti-Markovnikov alcohol (O5). Reduces acids to 1° alcohols. | Never gives the Markovnikov alcohol. |
+| Aluminium chloride (anhydrous AlCl₃) | The matchmaker. Creates the attacker (R⁺, RCO⁺, Cl⁺) and walks away unchanged. Refuses rings that are too poor or that handcuff it. | Lewis acid, regenerated | Friedel–Crafts alkylation and acylation; chlorination of benzene (H9); Gattermann–Koch (C8). | Never works on nitrobenzene, benzoic acid or aniline. Never works wet. |
+| Ferric chloride / bromide (FeCl₃, FeBr₃) | Junior matchmaker for halogenation. As a test reagent, turns phenols violet. | Lewis acid; complex with phenols | Halogenation of benzene (H9). Neutral FeCl₃ test for phenol (P6). | – |
+| Zinc | The quiet cleaner. Removes oxygen or unwanted oxidiser without fuss. | Reducing metal | Zn–Hg/HCl: C=O → CH₂ (Clemmensen, C3). Zn/H₂O destroys H₂O₂ after ozonolysis (H8). Zn dust strips O from phenol → benzene. ZnCl₂ helps –OH leave in the Lucas test (O3). | – |
+| Tin (Sn/HCl, SnCl₂) | The acid-loving reducer. | Reducing metal in acid | Sn/HCl: –NO₂ → –NH₂ (A9). SnCl₂/HCl: nitrile → aldehyde (Stephen, C8). | – |
+| Iron (Fe/HCl) | The frugal reducer. Needs little acid because it regenerates its own HCl. | FeCl₂ hydrolyses, releasing HCl | –NO₂ → –NH₂ (preferred method, A9). Red-hot iron tube (873 K) turns three ethynes into benzene. | – |
+| Copper | The fixer. As metal at 573 K, strips hydrogen from alcohols; as Cu(I), replaces the diazonium's N₂; as Cu²⁺ in Fehling's, a fussy judge of aldehydes. | Dehydrogenation catalyst; Cu(I) mediates replacement; Cu²⁺ mild oxidant | Cu 573 K: 1° → aldehyde, 2° → ketone, 3° → alkene (O4). CuCl, CuBr, CuCN (Sandmeyer); Cu powder (Gattermann) (A6). Fehling's: red Cu₂O with aliphatic aldehydes (C4). Ammoniacal Cu₂Cl₂: red precipitate with terminal alkynes. | Fehling's never passes benzaldehyde or ketones. |
+| Silver | The generous judge (Tollens') and the covalent clinger (AgCN, AgNO₂). | Ag⁺ mild oxidant; Ag–C/Ag–N bonds largely covalent | Tollens': silver mirror with every aldehyde, aromatic too (C4). AgCN → isocyanide, AgNO₂ → nitroalkane (X5). AgF → alkyl fluoride (X4). AgNO₃ tests halide ions (white, pale yellow, yellow). Ammoniacal AgNO₃: white precipitate with terminal alkynes. | Tollens' never passes ketones. Alkyl halides never give a direct AgNO₃ precipitate. |
+| Mercury (Hg²⁺) | The hydration sponsor. Without it, water and an alkyne ignore each other. | Hg²⁺ catalyses alkyne hydration | Alkyne + H₂O → aldehyde (ethyne only) or ketone (H5). Zn–Hg amalgam in Clemmensen. Hg₂F₂ in Swarts. | – |
+| Platinum, palladium | Effortless hydrogenators. Work at room temperature. | Finely divided metal catalysts | Alkenes, alkynes → alkanes (H6). | – |
+| Nickel | Hydrogenator that needs heat (523–573 K). | Catalyst | Alkenes, alkynes → alkanes; nitriles → amines; C=O → alcohols. | – |
+| Poisoned palladium (Lindlar; Pd/BaSO₄) | Tired on purpose. Stops halfway. | Catalyst deactivated by S compounds, quinoline or BaSO₄ | Lindlar: alkyne → cis-alkene (H6). Pd/BaSO₄: acid chloride → aldehyde (Rosenmund, C8). | Never reduces all the way to alkane or alcohol. |
+
+Oxidisers, acids, halogenating agents and test reagents
+
+Oxidisers
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Potassium permanganate (KMnO₄) | Two tempers. Cold, dilute and alkaline, it is gentle: adds two –OH across a double bond and its pink fades. Hot, it is a destroyer: splits C=C and chops any side chain with a benzylic H down to –COOH. | Mn(VII), strong oxidant | Baeyer's test (main tab, Mn). Hot: alkene → acids/ketones/CO₂; toluene, ethylbenzene, propylbenzene → benzoic acid. 1° alcohols, aldehydes → acids (O4). | Never oxidises tert-butylbenzene. Never stops at an aldehyde. |
+| Potassium dichromate (acidified) | The strict examiner. Oxidises 1° and 2° alcohols, refuses 3°; turns from orange to green when it works. | Cr(VI) → Cr(III); needs an H on the carbinol carbon | 1° → aldehyde → acid; 2° → ketone (O4). | Never oxidises a 3° alcohol. |
+| PCC | The gentle examiner. Stops at the aldehyde. | Mild Cr(VI) reagent | 1° alcohol → aldehyde (O4). | Never makes a carboxylic acid. |
+| Chromyl chloride (CrO₂Cl₂) | The precision tool. Turns a ring's –CH₃ into –CHO and nothing more. | Étard reaction | Toluene → benzaldehyde (C8). | Never goes on to benzoic acid. |
+| Ozone (O₃) | The cutter. Splits a double bond into two carbonyls, with Zn standing guard. | Ozonide, then Zn/H₂O | Locates C=C (H8). | – |
+
+Acids and bases
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Concentrated sulphuric acid | Temperature decides its mood. A dehydrator, a catalyst and the maker of NO₂⁺. | Dehydrating agent; strong acid | Ethanol at 443 K → ethene; at 413 K → diethyl ether (O2). Catalyses esterification (O6). With HNO₃ makes NO₂⁺ (H9). Fuming: sulphonation. | – |
+| Nitric acid | Dilute, it is polite; concentrated with H₂SO₄, it is fierce. | Concentration sets the electrophile | Dilute, 298 K: phenol → o- and p-nitrophenol. Conc.: phenol → picric acid (P3). Conc. + H₂SO₄: nitration of benzene (H9). Oxidising helper for iodination. | – |
+| Hydrogen halides (HX) | Rank by strength: HI > HBr > HCl. | H–X bond strength and acidity | Add to alkenes (H2); convert alcohols to halides (O3, ZnCl₂ needed for HCl). HI cracks ethers (O8). HBr alone has the peroxide switch (H3). | HCl and HI never add anti-Markovnikov. |
+| Sodium hydroxide | Strength decides its role. Dilute: an α-H thief (aldol). Concentrated: an attacker that starts a hydride hand-off (Cannizzaro). | Base vs nucleophile | Aldol (C5), Cannizzaro (C7), haloform with I₂ (C6), Hofmann with Br₂ (A1), Reimer–Tiemann with CHCl₃ (P4). Turns phenol into phenoxide (P1). Sodalime (with CaO) decarboxylates (H10). | – |
+| Sodamide (NaNH₂) | Strong base for stubborn hydrogens. | Stronger base than acetylide | Terminal alkyne → acetylide (H7); second elimination to an alkyne. | – |
+| Sodium bicarbonate | The acid detector. Fizzes only with acids stronger than carbonic acid. | Weak base | Carboxylic acids → CO₂ effervescence (C9). | Never fizzes with phenol or alcohols. |
+
+Halogenating agents
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| Bromine water | Floods a rich ring. Polar water makes Br₂ aggressive. | Polar solvent polarises Br₂ | Phenol → 2,4,6-tribromophenol; aniline → 2,4,6-tribromoaniline (P2, A8). | Never stops at one bromine on phenol or aniline. |
+| Br₂ in CS₂ (cold) | Calm bromine. Non-polar solvent, one newcomer only. | Weakly polarised Br₂ | Phenol → o- and p-bromophenol (P2). | – |
+| Br₂ in CCl₄ | The unsaturation detective. Red-brown colour vanishes on meeting C=C or C≡C. | Electrophilic addition | Test for unsaturation (H4). | Never decolourises with an alkane or benzene. |
+| Iodine + NaOH | The CH₃CO– detector. | Haloform reaction | Yellow CHI₃ from CH₃CO– and CH₃CH(OH)– compounds (C6). | Never positive with methanol, HCHO, propan-1-ol or pentan-3-one. |
+| Thionyl chloride, PCl₅, PCl₃ | Swap –OH for –Cl. SOCl₂ leaves no mess. | Chlorinating agents | Alcohols → alkyl chlorides (O3); acids → acid chlorides (C9). | – |
+| NaI in dry acetone | The swapper. Trades I for Cl or Br, pushed by its precipitating partner. | NaCl/NaBr insoluble in acetone | Finkelstein (X4). | Never works in water (the salts would dissolve). |
+| Chloroform (CHCl₃) | Hides a carbene, released only by strong base. Turns to poisonous phosgene in light and air. | :CCl₂ source; oxidation to COCl₂ | Carbylamine (A3), Reimer–Tiemann (P4). Stored dark and full (X8). | – |
+| Peroxide | The radical starter. Changes only one story: HBr addition. | Weak O–O bond | Anti-Markovnikov HBr addition (H3). | Never changes HCl or HI addition. |
+
+Carbonyl and amine reagents
+
+| Character | Core quirk | Encodes | In reactions | Never |
+| HCN | Adds one carbon to a carbonyl, needs a little base to get going. | CN⁻ nucleophile | Cyanohydrins (C1). | – |
+| NaHSO₃ | The purifier. Forms crystals with aldehydes and some ketones. | Addition product | C1. | – |
+| NH₂OH, NH₂NH₂, 2,4-DNP | Add, then drop water. 2,4-DNP gives an orange-red solid: the carbonyl detector. | Addition–elimination | Oximes, hydrazones, 2,4-DNP derivatives (C1). NH₂NH₂ + KOH → Wolff–Kishner (C3). | Never react with carboxylic acids as carbonyls. |
+| Nitrous acid (NaNO₂ + HCl) | The amine sorter. Must be cold. | Gives NO⁺ | 1° aliphatic amine → alcohol + N₂; aniline at 273–278 K → diazonium (A5). | – |
+| Hypophosphorous acid (H₃PO₂) | The eraser. Replaces –N₂⁺ with H. | Reducing agent | Deamination (A6; Conversions 9). | – |
+| Benzenesulphonyl chloride (Hinsberg's reagent) | Sorts amines by how many N–H they have. | Sulphonamide formation | 1° soluble in alkali, 2° insoluble, 3° no reaction (A4). | – |
+| Phthalimide + KOH | Lets exactly one alkyl group in. | Acidic N–H, SN2, no over-alkylation | Gabriel synthesis of 1° aliphatic amines (A2). | Never makes aromatic amines. |
+| Ammonia | An indiscriminate attacker on alkyl halides. | Repeated alkylation | Mixture of 1°, 2°, 3° amines and quaternary salt (A9). With acid chlorides → amides. | Never gives a single clean amine from RX. |
+| Carbon dioxide | A weak electrophile that only very strong attackers can catch. | C between two O | Grignard → acid (C2); phenoxide → salicylic acid (P5). | Never reacts with phenol itself in Kolbe's reaction (needs phenoxide). |
+
+Solvents and conditions
+
+Places and weather in the story. They never act on their own, but they decide how other characters behave.
+
+| Character | Core quirk | Encodes | Effect on others | Never |
+| Water and alcohols (polar protic) | The comforting crowd. Surrounds anyone charged and keeps them calm. | Solvates ions by hydrogen bonding | Lets halides walk out alone (SN1, X2). Keeps OH⁻ busy, so it attacks instead of stealing H (aq. KOH). Polarises Br₂ (bromine water floods phenol). | – |
+| Alcohol as solvent for KOH | Leaves the base unguarded. | Poor solvation of OH⁻/RO⁻ | OH⁻ turns into an H-thief: elimination (X3). | – |
+| Acetone (polar aprotic) | Doesn't hug anions. Attackers stay free and strong. Some salts can't stay dissolved here. | No O–H | SN2 favoured (X1). NaCl/NaBr precipitate in Finkelstein (X4). | – |
+| Dry ether | Strict no-water zone. | Aprotic, no acidic H | Required for Grignard (X6) and Wurtz (H10). | Never contains water in a working story. |
+| CCl₄, CS₂, CHCl₃ (non-polar) | The calm room. | Non-polar | Br₂ in CCl₄: clean addition test (H4). Br₂ in CS₂: one bromine on phenol (P2). CrO₂Cl₂ in CS₂ (Étard). | – |
+| Kerosene | The safe house for hotheads. | Unreactive towards Na and K | Stores sodium and potassium away from air and water. | – |
+| Light (hν) and heat | The wake-up call for loners. | Homolytic bond breaking | Starts radical chains (H1); side-chain chlorination of toluene. | – |
+| Cold, 273–278 K | The only weather a diazonium salt survives. | Thermal instability of ArN₂⁺ | Diazotisation (A5). | – |
+| 443 K vs 413 K (with conc. H₂SO₄) | Two temperatures, two endings for ethanol. | Elimination vs substitution | 443 K → ethene; 413 K → diethyl ether (O2). | – |
+| 573 K with Cu | Dehydrogenation heat. | – | 1°/2° alcohols lose H₂; 3° loses H₂O (O4). | – |
+| 623 K, 300 atm | The force needed to pull Cl off chlorobenzene. | Partial double-bond C–Cl | Dow process (X7). | – |
+| 873 K red-hot iron tube | Where three ethynes become one benzene. | Cyclic polymerisation | Ethyne → benzene. | – |
+
+Never-break rules
+
+A story that breaks any of these is chemically wrong. Check every new story against this list.
+
+Addition and orientation
+
+1. H⁺ always joins the double-bond carbon that already has more hydrogens (Markovnikov), except HBr with peroxide, or B₂H₆.
+2. The peroxide switch works only for HBr.
+3. Benzene never takes HBr, Br₂/CCl₄ or Baeyer's reagent by addition; it substitutes.
+
+Substitution and elimination
+
+4. 1° halides go SN2; 3° halides go SN1 or eliminate; 3° never go SN2.
+5. SN2 always inverts; SN1 at a chiral carbon always racemises.
+6. Aqueous KOH substitutes; alcoholic KOH eliminates.
+7. –OH never leaves without first taking H⁺ (or being converted by SOCl₂/PCl₅/HX).
+8. Haloarenes never undergo ordinary substitution; they need 623 K/300 atm or –NO₂ at o/p.
+9. KCN gives nitriles, AgCN isocyanides; KNO₂ nitrites, AgNO₂ nitro compounds.
+
+Ring seating
+
+10. Germophobes (–NO₂, –CHO, –COR, –COOH, –CN, –SO₃H, –NH₃⁺) send newcomers only to meta.
+11. Hosts (–OH, –O⁻, –NH₂, –NHCOCH₃, –OCH₃, alkyl) and halogens send newcomers only to ortho/para.
+12. Friedel–Crafts never happens on rings carrying –NO₂, –COOH or –NH₂.
+
+Carbonyls and acids
+
+13. Ketones never pass Tollens' or Fehling's; aromatic aldehydes never pass Fehling's.
+14. Aldol needs α-H; Cannizzaro needs no α-H. HCHO is always the one oxidised in crossed Cannizzaro.
+15. Iodoform needs CH₃CO– or CH₃CH(OH)–.
+16. NaBH₄ never reduces acids or esters; LiAlH₄ never reduces an isolated C=C.
+17. Carboxylic acids never give 2,4-DNP or Tollens'. Only acids, not phenols, fizz with NaHCO₃.
+18. In esterification the acid loses –OH, the alcohol keeps its oxygen.
+
+Alcohols and ethers
+
+19. 3° alcohols never oxidise with K₂Cr₂O₇; PCC never goes past the aldehyde.
+20. Anisole + HI never gives iodobenzene.
+
+Nitrogen
+
+21. Only 1° amines give carbylamine; 3° amines never react with Hinsberg's reagent.
+22. Aliphatic diazonium salts never survive; aromatic ones survive only at 273–278 K.
+23. Gabriel never makes aromatic amines; Hofmann bromamide always removes one carbon.
+24. Aniline never does Friedel–Crafts.
+
+Reagent tempers and conditions
+
+25. Sodium and potassium never meet water calmly; Grignard reagents never survive any acidic H.
+26. Cold dilute KMnO₄ adds; hot KMnO₄ breaks; KMnO₄ never touches a side chain without a benzylic H.
+27. Lindlar and Pd/BaSO₄ always stop halfway (cis-alkene; aldehyde).
+28. Radicals never appear without light, heat, peroxide or electrolysis (Kolbe).

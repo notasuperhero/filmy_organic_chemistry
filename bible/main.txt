@@ -1,0 +1,349 @@
+Organic Chemistry Element Bible
+
+Oct 16, 2026 · @u_baYKNXpeGVf4P4PkU5sohA
+
+Every element that appears in Class 11–12 organic chemistry, with the properties, behaviour, reactions and conditions you need to solve questions. Electronegativities are Pauling values; pKa values are approximate.
+
+Every reaction, with each element's role in it: Reactions
+
+Also: Naming and isomerism · Conversions · Basic principles and properties · Biomolecules · Solved problems
+
+Fixed personalities for every participant, for stories: Character quirks
+
+Hindi-film characters and fixed scenes for every reaction type: Filmy cast and plots
+
+Properties at a glance
+
+27 elements cover Class 11–12 organic chemistry: 10 that sit in the molecules, and 17 that appear as reagents or catalysts.
+
+| Element | Z | Valence shell | EN (Pauling) | Valency / state in organic work | Main role in questions |
+| H | 1 | 1s¹ | 2.20 | 1 | Acidic H, α-H, hyperconjugation, hydride (H⁻) |
+| C | 6 | 2s² 2p² | 2.55 | 4 | Skeleton; carbocation, carbanion, free radical |
+| N | 7 | 2s² 2p³ | 3.04 | 3 (4 in ammonium, diazonium) | Amines, amides, nitro, nitriles, diazonium salts |
+| O | 8 | 2s² 2p⁴ | 3.44 | 2 | Alcohols, phenols, ethers, carbonyls, acids |
+| F | 9 | 2s² 2p⁵ | 3.98 | 1 | Strongest −I; poorest leaving group |
+| P | 15 | 3s² 3p³ | 2.19 | 3, 5 | PCl₃, PCl₅, red P with Br₂/I₂ |
+| S | 16 | 3s² 3p⁴ | 2.58 | 2, 4, 6 | H₂SO₄, SO₃, SOCl₂, sulphonyl chlorides |
+| Cl | 17 | 3s² 3p⁵ | 3.16 | 1 | Halogenation, chlorinating reagents, haloarenes |
+| Br | 35 | 4s² 4p⁵ | 2.96 | 1 | Unsaturation test, HBr addition, HVZ |
+| I | 53 | 5s² 5p⁵ | 2.66 | 1 | Best leaving group, iodoform, Finkelstein, HI |
+| Li | 3 | 2s¹ | 0.98 | +1 | LiAlH₄ |
+| Na | 11 | 3s¹ | 0.93 | +1 | Wurtz, Kolbe, sodium fusion, NaBH₄, NaNH₂ |
+| K | 19 | 4s¹ | 0.82 | +1 | KOH (aq vs alc), KCN, KMnO₄, K₂Cr₂O₇ |
+| Mg | 12 | 3s² | 1.31 | +2 | Grignard reagents RMgX |
+| B | 5 | 2s² 2p¹ | 2.04 | 3 | B₂H₆ (hydroboration), NaBH₄, BF₃ |
+| Al | 13 | 3s² 3p¹ | 1.61 | +3 | Anhydrous AlCl₃ (Friedel–Crafts), LiAlH₄ |
+| Zn | 30 | 3d¹⁰ 4s² | 1.65 | +2 | Clemmensen, Zn dust, ZnCl₂ (Lucas), ozonolysis work-up |
+| Sn | 50 | 5s² 5p² | 1.96 | +2, +4 | Sn/HCl, SnCl₂/HCl (Stephen) |
+| Fe | 26 | 3d⁶ 4s² | 1.83 | +2, +3 | Fe/HCl, FeCl₃/FeBr₃, phenol test, red-hot iron tube |
+| Cu | 29 | 3d¹⁰ 4s¹ | 1.90 | 0, +1, +2 | Cu at 573 K, Sandmeyer, Gattermann, Fehling's |
+| Hg | 80 | 5d¹⁰ 6s² | 2.00 | +1, +2 | Alkyne hydration, Zn–Hg, Hg₂F₂ |
+| Ag | 47 | 4d¹⁰ 5s¹ | 1.93 | +1 | Tollens', AgCN, AgNO₂, AgF, AgNO₃ tests |
+| Ni | 28 | 3d⁸ 4s² | 1.91 | 0 | Hydrogenation catalyst (523–573 K) |
+| Pd | 46 | 4d¹⁰ | 2.20 | 0 | Lindlar, Rosenmund, hydrogenation |
+| Pt | 78 | 5d⁹ 6s¹ | 2.28 | 0 | Hydrogenation at room temperature |
+| Mn | 25 | 3d⁵ 4s² | 1.55 | +7 in KMnO₄ | Baeyer's reagent, oxidative cleavage, side-chain oxidation |
+| Cr | 24 | 3d⁵ 4s¹ | 1.66 | +6 in Cr₂O₇²⁻, CrO₃, CrO₂Cl₂ | Alcohol oxidation, PCC, Étard reaction |
+
+Carbon and hydrogen
+
+Carbon (C)
+
+What it does
+
+- Tetravalent; shows catenation (chains, branches, rings).
+- Hybridisation sets shape and bond length:
+
+| Hybridisation | Bond angle | Shape | Found in | s-character | C–C bond length |
+| sp³ | 109°28′ | Tetrahedral | Alkanes, alkyl groups | 25% | 154 pm |
+| sp² | 120° | Trigonal planar | Alkenes, C=O carbon, benzene, carbocations | 33% | 134 pm (C=C), 139 pm (benzene) |
+| sp | 180° | Linear | Alkynes, nitriles | 50% | 120 pm (C≡C) |
+
+- More s-character makes carbon more electronegative: sp > sp² > sp³. This makes the C–H of ethyne the most acidic of the three hydrocarbons.
+- Bond fission: homolytic (light, heat, peroxide) gives free radicals; heterolytic gives a carbocation and a carbanion.
+
+Reactive intermediates
+
+| Intermediate | Electrons on C | Hybridisation / shape | Behaves as | Stability order |
+| Carbocation | 6 | sp², planar | Electrophile | 3° > 2° > 1° > CH₃⁺; benzylic and allylic extra stable (resonance) |
+| Carbanion | 8 | sp³, pyramidal | Nucleophile, base | CH₃⁻ > 1° > 2° > 3° |
+| Free radical | 7 | sp², planar | Reacts by chain mechanism | 3° > 2° > 1° > CH₃• |
+
+- Carbocations rearrange by 1,2-hydride or 1,2-methyl shift to a more stable carbocation.
+- Carbocation and radical stability come from +I of alkyl groups and hyperconjugation; benzyl and allyl from resonance.
+
+What it doesn't do
+
+- Never has five bonds in a stable compound; five partial bonds exist only in the SN2 transition state.
+- A flat carbocation keeps no memory of its old configuration: SN1 at a chiral carbon gives racemisation.
+
+Hydrogen (H)
+
+What it does
+
+- Acidity of an H depends on what it is attached to (approximate pKa):
+
+| Compound type | Approx. pKa | Reacts with NaHCO₃? | Reacts with NaOH? | Reacts with Na metal? |
+| Carboxylic acid | 4–5 | Yes (CO₂ effervescence) | Yes | Yes |
+| Phenol | 10 | No | Yes | Yes |
+| Water | 15.7 | – | – | Yes |
+| Alcohol | 16–18 | No | No | Yes (H₂ released) |
+| Terminal alkyne (≡C–H) | 25 | No | No | Yes; also NaNH₂ |
+| Ammonia / amine N–H | ~38 | No | No | Slowly |
+| Alkene C–H | ~44 | No | No | No |
+| Alkane C–H | ~50 | No | No | No |
+
+- α-Hydrogen (on the carbon next to C=O) is acidic, because the enolate is resonance-stabilised. Carbonyls with α-H undergo aldol condensation and halogenation; those without α-H (HCHO, C₆H₅CHO, (CH₃)₃C–CHO) undergo Cannizzaro.
+- Hyperconjugation: C–H bonds on the carbon next to a carbocation or C=C donate σ-electron density. More α-H, more stability: (CH₃)₃C⁺ has 9 α-H.
+- Hydride (H⁻) donors: LiAlH₄ and NaBH₄ deliver H⁻ to the electrophilic carbon of C=O.
+- Markovnikov: in HX addition, H goes to the double-bond carbon that already has more H atoms.
+
+What it doesn't do
+
+- Alkanes and alkenes give no H₂ with sodium; only acidic H (O–H, ≡C–H) does.
+- Internal alkynes (no ≡C–H) do not form acetylides.
+
+Oxygen and nitrogen
+
+Oxygen (O)
+
+What it does
+
+- sp³ in alcohols and ethers (bent; C–O–H 108.9° in methanol, C–O–C 111.7° in dimethyl ether); sp² in C=O.
+- Two lone pairs: Lewis base, nucleophile, hydrogen bonding. Alcohols boil far higher than ethers or alkanes of similar mass; lower alcohols dissolve in water.
+- Electronic effects: −I always. –OH and –OR on a benzene ring are +R: activating, ortho/para directing. A C=O group (–CHO, –COR, –COOH) is −R: deactivating, meta directing.
+- C=O is polar (C δ+, O δ−), so nucleophiles add to the carbon. Reactivity: HCHO > CH₃CHO > CH₃COCH₃ (aldehydes beat ketones for steric and +I reasons).
+- Phenol is more acidic than alcohol: phenoxide is resonance-stabilised. −R/−I groups (–NO₂) at o/p raise phenol's acidity; +I groups (–CH₃) lower it.
+
+Reactions
+
+- Alcohol + Na → sodium alkoxide + ½H₂.
+- Ethanol + conc. H₂SO₄: 443 K → ethene; 413 K → diethyl ether.
+- Ease of dehydration: 3° > 2° > 1° (via carbocation).
+- Lucas test (conc. HCl + anhydrous ZnCl₂): 3° turbid at once; 2° within about 5 minutes; 1° no turbidity at room temperature.
+- Oxidation: 1° alcohol → aldehyde (PCC) → carboxylic acid (KMnO₄ or acidified K₂Cr₂O₇); 2° → ketone; 3° resists.
+- Cu at 573 K: 1° → aldehyde, 2° → ketone (dehydrogenation); 3° → alkene (dehydration).
+- Esterification: RCOOH + R′OH ⇌ RCOOR′ + H₂O (conc. H₂SO₄). The acid loses –OH; the alcohol keeps its oxygen.
+- Williamson synthesis: RO⁻Na⁺ + R′X → ROR′ (SN2). Use a 1° alkyl halide; with a 3° halide, elimination gives an alkene.
+- Ether cleavage with HI: R–O–R′ → ROH + R′I. Anisole + HI → phenol + CH₃I (never iodobenzene).
+- Phenol: Kolbe's reaction (sodium phenoxide + CO₂, then H⁺) → salicylic acid; Reimer–Tiemann (CHCl₃ + aq. NaOH, then H⁺) → salicylaldehyde; nitration with dilute HNO₃ at 298 K → o- and p-nitrophenol; conc. HNO₃ → picric acid (2,4,6-trinitrophenol).
+- Ozonolysis: alkene + O₃, then Zn/H₂O → two carbonyl compounds (locates the C=C).
+
+What it doesn't do
+
+- –OH is a poor leaving group. It must be protonated (–OH₂⁺) or converted (SOCl₂, PCl₅, HCl/ZnCl₂) before substitution.
+- Phenol does not react with NaHCO₃; carboxylic acids do.
+- The C–O bond of phenol does not break easily (partial double-bond character), so phenol does not give chlorobenzene with HCl.
+- Carboxylic acids do not show typical aldehyde/ketone addition reactions (C=O is resonance-stabilised).
+
+Nitrogen (N)
+
+What it does
+
+- sp³ in amines (pyramidal, one lone pair); lone pair delocalised in amides (nearly neutral); sp in nitriles.
+- Basicity: aliphatic amines > NH₃ > aromatic amines (the lone pair of aniline is delocalised into the ring).
+- In water: (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃, and (C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂ > NH₃ (+I, solvation and steric effects together).
+- –NH₂ on benzene: strongly activating, o/p directing (+R). –NO₂: −I and −R, strongly deactivating, meta directing; at o/p it activates a haloarene for nucleophilic substitution.
+
+Reactions
+
+- Hofmann bromamide degradation: RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O (amine has one carbon fewer).
+- Gabriel phthalimide synthesis: phthalimide + KOH, then RX, then hydrolysis → 1° aliphatic amine only.
+- Reduction: RC≡N + H₂/Ni or LiAlH₄ → RCH₂NH₂; ArNO₂ + Fe/HCl or Sn/HCl → ArNH₂; RCONH₂ + LiAlH₄ → RCH₂NH₂.
+- Ammonolysis of RX gives a mixture of 1°, 2°, 3° amines and the quaternary salt.
+- Carbylamine test (1° amines only): RNH₂ + CHCl₃ + 3KOH (alc.) → RNC (foul smell) + 3KCl + 3H₂O.
+- Hinsberg test (C₆H₅SO₂Cl): 1° → sulphonamide soluble in alkali; 2° → sulphonamide insoluble in alkali; 3° → no reaction.
+- Nitrous acid: 1° aliphatic amine → alcohol + N₂ (quantitative); aniline at 273–278 K → benzenediazonium chloride (diazotisation).
+- Diazonium replacements: CuCl/HCl, CuBr/HBr, CuCN/KCN (Sandmeyer); Cu/HX (Gattermann); KI → ArI; HBF₄ then heat → ArF; H₃PO₂ or ethanol → ArH; warm water → phenol.
+- Coupling: with phenol (alkaline) → p-hydroxyazobenzene (orange); with aniline (mildly acidic) → p-aminoazobenzene (yellow).
+- Aniline + bromine water → 2,4,6-tribromoaniline (white precipitate). For a mono product, acetylate first (–NHCOCH₃ is a milder activator).
+- Wolff–Kishner: C=O + NH₂NH₂, then KOH in ethylene glycol, heat → CH₂.
+- Nitration mixture (conc. HNO₃ + conc. H₂SO₄) generates the electrophile NO₂⁺.
+
+What it doesn't do
+
+- Aniline does not undergo Friedel–Crafts: its lone pair binds AlCl₃ and deactivates the ring.
+- Direct nitration of aniline is not clean: in acid it becomes anilinium (meta directing), giving about 51% para, 47% meta and 2% ortho product.
+- Gabriel synthesis cannot make aromatic amines (aryl halides do not undergo SN with phthalimide anion).
+- 2° and 3° amines do not give the carbylamine test.
+
+Halogens: F, Cl, Br, I
+
+Shared behaviour
+
+- −I effect: F > Cl > Br > I. So acidity: FCH₂COOH > ClCH₂COOH > BrCH₂COOH > ICH₂COOH > CH₃COOH.
+- On a benzene ring, halogens are deactivating (−I wins) but ortho/para directing (+R).
+- C–X bond strength: C–F > C–Cl > C–Br > C–I. Leaving ability and reactivity of R–X in SN1/SN2: R–I > R–Br > R–Cl > R–F.
+- Dipole moments: CH₃Cl (1.860 D) > CH₃F (1.847 D) > CH₃Br (1.830 D) > CH₃I (1.636 D).
+- Haloarenes resist nucleophilic substitution: the C–X bond has partial double-bond character (resonance) and the carbon is sp². –NO₂ at ortho/para makes substitution easy.
+- Haloalkanes: aqueous KOH → substitution (alcohol); alcoholic KOH → elimination (alkene, Saytzeff product major).
+- Ambident nucleophiles: KCN → nitrile (R–CN), AgCN → isocyanide (R–NC); KNO₂ → alkyl nitrite (R–O–N=O), AgNO₂ → nitroalkane (R–NO₂).
+- Lassaigne's test: halide ion as NaX → boil with HNO₃, then AgNO₃. AgCl white (soluble in NH₃), AgBr pale yellow (sparingly soluble), AgI yellow (insoluble).
+- Alkyl halides give no direct precipitate with AgNO₃ (covalent C–X).
+
+Fluorine (F)
+
+- Highest electronegativity (3.98); strongest −I; strongest C–X bond; poorest leaving group.
+- Direct fluorination is violent. Alkyl fluorides are made by the Swarts reaction: R–Cl/R–Br + AgF, Hg₂F₂, CoF₂ or SbF₃ → R–F.
+- Aryl fluorides: diazonium salt + HBF₄, then heat → ArF.
+
+Chlorine (Cl)
+
+- Free-radical chlorination of alkanes (Cl₂, hν): chain reaction, gives mixtures; less selective than bromination.
+- Benzene + Cl₂ with anhydrous FeCl₃ or AlCl₃ → chlorobenzene (electrophilic substitution).
+- Toluene + Cl₂: with FeCl₃ → o- and p-chlorotoluene (ring); in sunlight or heat → benzyl chloride (side chain).
+- Alcohol → alkyl chloride: SOCl₂ (best; by-products SO₂ and HCl escape as gases), PCl₅, PCl₃, or HCl with anhydrous ZnCl₂.
+- Chlorobenzene → phenol needs NaOH at 623 K and 300 atm (Dow process).
+- Chloroform slowly oxidises in air and light to poisonous phosgene: 2CHCl₃ + O₂ → 2COCl₂ + 2HCl. Stored in dark, completely filled bottles.
+- Chloroform + 3KOH (alc.) with a 1° amine: carbylamine test. With phenol + NaOH: Reimer–Tiemann.
+
+Bromine (Br)
+
+- Br₂ in CCl₄ adds across C=C and C≡C; loss of the red-brown colour is the test for unsaturation.
+- HBr + unsymmetrical alkene: Markovnikov product. With peroxide: anti-Markovnikov (Kharasch or peroxide effect), by a free-radical mechanism. The peroxide effect works for HBr only, not HCl or HI.
+- Radical bromination is more selective than chlorination: it strongly prefers 3° H.
+- Phenol + bromine water → 2,4,6-tribromophenol (white precipitate). Phenol + Br₂ in CS₂ at low temperature → o- and p-bromophenol.
+- Hell–Volhard–Zelinsky: RCH₂COOH + X₂ (Cl₂ or Br₂), red P, then H₂O → RCH(X)COOH. Needs an α-H.
+- Br₂ + NaOH converts an amide to an amine (Hofmann bromamide).
+
+Iodine (I)
+
+- Weakest C–X bond: alkyl iodides are the most reactive in substitution.
+- Finkelstein reaction: R–Cl/R–Br + NaI in dry acetone → R–I. NaCl/NaBr precipitates and drives the reaction forward.
+- Direct iodination of benzene is reversible; it needs an oxidising agent (HNO₃ or HIO₄) to remove HI.
+- Iodoform test: compounds with CH₃CO– or CH₃CH(OH)– + I₂/NaOH → CHI₃ (yellow precipitate). Ethanol is the only 1° alcohol and acetaldehyde the only aldehyde that give it.
+- HI cleaves ethers; it is the strongest of the HX acids for this.
+- Diazonium salt + KI → aryl iodide (no copper needed).
+
+Sulphur and phosphorus
+
+Sulphur (S)
+
+- Conc. H₂SO₄: dehydrating agent (alcohol → alkene or ether), catalyst for esterification, and the acid that generates NO₂⁺ in the nitrating mixture.
+- Sulphonation: benzene + fuming H₂SO₄ (electrophile SO₃) → benzenesulphonic acid. Sulphonation is reversible.
+- Thionyl chloride: ROH + SOCl₂ → RCl + SO₂↑ + HCl↑ (pure product, gases escape). RCOOH + SOCl₂ → RCOCl.
+- Benzenesulphonyl chloride (C₆H₅SO₂Cl) is Hinsberg's reagent for telling 1°, 2° and 3° amines apart.
+- Lassaigne's test: S becomes Na₂S. Sodium nitroprusside → violet colour; lead acetate → black PbS. N and S together give NaSCN → blood-red colour with Fe³⁺.
+
+Phosphorus (P)
+
+- PCl₅: ROH + PCl₅ → RCl + POCl₃ + HCl; RCOOH + PCl₅ → RCOCl + POCl₃ + HCl.
+- PCl₃: 3ROH + PCl₃ → 3RCl + H₃PO₃; 3RCOOH + PCl₃ → 3RCOCl + H₃PO₃.
+- Red P + Br₂ or I₂ forms PBr₃ or PI₃ in situ: converts alcohols to RBr or RI; with Br₂ it is the catalyst in the Hell–Volhard–Zelinsky reaction.
+- P₂O₅ dehydrates amides to nitriles: RCONH₂ → RCN + H₂O.
+- Lassaigne's test: P is oxidised to phosphate; ammonium molybdate gives a yellow precipitate.
+- Replacing the –OH of phenol by halogen with PCl₅ is poor (low yield); phenols are not converted to haloarenes this way in practice.
+
+Li, Na, K, Mg, B, Al
+
+Lithium (Li)
+
+- Appears as LiAlH₄, a strong hydride (H⁻) donor.
+- LiAlH₄ reduces: aldehydes → 1° alcohols; ketones → 2° alcohols; carboxylic acids and esters → 1° alcohols; nitriles and amides → amines.
+- It does not reduce an isolated C=C.
+
+Sodium (Na)
+
+- Na + ROH → RONa + ½H₂; Na (or NaNH₂) + terminal alkyne → sodium acetylide.
+- Wurtz reaction: 2RX + 2Na (dry ether) → R–R + 2NaX. Gives symmetric alkanes; two different halides give a mixture; methane cannot be made.
+- Wurtz–Fittig: ArX + RX + 2Na (dry ether) → Ar–R. Fittig: 2ArX + 2Na → Ar–Ar.
+- Decarboxylation: RCOONa + NaOH (sodalime, CaO), heat → RH + Na₂CO₃ (one carbon fewer).
+- Kolbe electrolysis: 2RCOONa(aq) → R–R + 2CO₂ at the anode (+ H₂ and NaOH at the cathode). Methane cannot be made.
+- Na in liquid NH₃ reduces alkynes to trans-alkenes (Lindlar's catalyst gives cis).
+- NaBH₄: reduces aldehydes and ketones to alcohols; does not reduce carboxylic acids or esters.
+- NaHCO₃: effervescence (CO₂) with carboxylic acids, not with phenols.
+- NaOH: dilute → aldol condensation (α-H present); concentrated → Cannizzaro (no α-H): 2HCHO + NaOH → CH₃OH + HCOONa. With I₂ → iodoform test.
+- Sodium fusion (Lassaigne's test): converts N, S and halogens to NaCN, Na₂S and NaX. N detected as Prussian blue with FeSO₄, then Fe³⁺.
+
+Potassium (K)
+
+- KOH: aqueous → substitution of R–X (alcohol); alcoholic → dehydrohalogenation (alkene). Saytzeff rule: the more substituted alkene is the major product.
+- Alcoholic KOH twice on a vicinal dihalide → alkyne (second step often needs NaNH₂).
+- KCN → alkyl cyanide (adds one carbon); KNO₂ → alkyl nitrite.
+- Potassium phthalimide: Gabriel synthesis of 1° aliphatic amines.
+- KMnO₄ and K₂Cr₂O₇: see Mn and Cr.
+
+Magnesium (Mg)
+
+- Grignard reagent: R–X + Mg in dry ether → RMgX. The carbon bonded to Mg acts as a carbanion: a strong nucleophile and a strong base.
+- With carbonyls, then hydrolysis: HCHO → 1° alcohol; any other aldehyde → 2° alcohol; ketone → 3° alcohol.
+- With CO₂ (dry ice), then H₃O⁺ → carboxylic acid (one carbon more). With a nitrile, then hydrolysis → ketone.
+- Any compound with acidic H (water, alcohol, amine N–H, terminal alkyne) destroys it: RMgX + H₂O → RH + Mg(OH)X. That is why the ether must be dry.
+
+Boron (B)
+
+- Electron-deficient (only 6 electrons in BH₃ and BF₃): a Lewis acid.
+- Hydroboration–oxidation: alkene + B₂H₆, then H₂O₂/OH⁻ → alcohol with anti-Markovnikov orientation (OH on the less substituted carbon).
+- B₂H₆ also reduces carboxylic acids to 1° alcohols.
+- NaBH₄: see Na.
+
+Aluminium (Al)
+
+- Anhydrous AlCl₃ is a Lewis acid that makes the electrophile.
+- Friedel–Crafts alkylation: C₆H₆ + RCl (AlCl₃) → C₆H₅R + HCl. Acylation: C₆H₆ + RCOCl (AlCl₃) → C₆H₅COR + HCl.
+- Also catalyses halogenation of benzene (with Cl₂).
+- Friedel–Crafts fails on strongly deactivated rings (nitrobenzene, benzoic acid) and on aniline.
+- LiAlH₄: see Li.
+
+Zn, Sn, Fe, Cu, Hg, Ag
+
+Zinc (Zn)
+
+- Clemmensen reduction: C=O + Zn–Hg / conc. HCl → CH₂.
+- Phenol + Zn dust, heat → benzene.
+- Anhydrous ZnCl₂ + conc. HCl = Lucas reagent.
+- Ozonolysis work-up: Zn/H₂O decomposes the ozonide into aldehydes/ketones without oxidising them further.
+
+Tin (Sn)
+
+- Sn/HCl: ArNO₂ → ArNH₂.
+- Stephen reduction: RCN + SnCl₂/HCl → imine, then H₃O⁺ → RCHO.
+
+Iron (Fe)
+
+- Fe/HCl: ArNO₂ → ArNH₂ (preferred: FeCl₂ formed is hydrolysed and releases HCl, so little acid is needed).
+- Anhydrous FeCl₃ or FeBr₃: Lewis acid for halogenating benzene.
+- Neutral FeCl₃ test: phenols give a violet colour.
+- Ethyne passed through a red-hot iron tube at 873 K trimerises to benzene.
+
+Copper (Cu)
+
+- Cu at 573 K: 1° alcohol → aldehyde; 2° → ketone; 3° → alkene.
+- Sandmeyer: ArN₂⁺Cl⁻ + CuCl/HCl → ArCl; CuBr/HBr → ArBr; CuCN/KCN → ArCN. Gattermann: Cu powder/HX → ArX.
+- Fehling's solution (Cu²⁺ tartrate complex): aliphatic aldehydes give a red-brown Cu₂O precipitate. Aromatic aldehydes and ketones do not.
+- Ammoniacal Cu₂Cl₂ + terminal alkyne → red copper acetylide (internal alkynes do not react).
+
+Mercury (Hg)
+
+- Alkyne hydration: alkyne + dil. H₂SO₄ with HgSO₄ at 333 K → carbonyl. Ethyne gives acetaldehyde; every other alkyne gives a ketone (Markovnikov).
+- Zn–Hg amalgam: Clemmensen reduction.
+- Hg₂F₂: reagent in the Swarts reaction.
+
+Silver (Ag)
+
+- Tollens' reagent ([Ag(NH₃)₂]⁺): all aldehydes, including aromatic ones, give a silver mirror. Ketones do not.
+- AgCN → isocyanides; AgNO₂ → nitroalkanes; AgF → alkyl fluorides (Swarts).
+- AgNO₃: detects halide ions in Lassaigne's test. Ammoniacal AgNO₃ + terminal alkyne → white silver acetylide.
+
+Ni, Pd, Pt, Mn, Cr
+
+Nickel, palladium and platinum (Ni, Pd, Pt)
+
+- Catalytic hydrogenation: alkenes and alkynes + H₂ → alkanes. Pt or Pd work at room temperature; Ni needs 523–573 K.
+- H₂/Ni also reduces nitriles to amines and aldehydes/ketones to alcohols.
+- Lindlar's catalyst (palladised charcoal deactivated with sulphur compounds or quinoline): alkyne → cis-alkene, stops there.
+- Rosenmund reduction: RCOCl + H₂, Pd on BaSO₄ → RCHO (the poisoned catalyst stops reduction at the aldehyde).
+
+Manganese (Mn) as KMnO₄ (+7)
+
+- Baeyer's reagent (cold, dilute, alkaline KMnO₄): alkene → vicinal diol. The pink colour disappears: test for unsaturation.
+- Hot acidic or alkaline KMnO₄: cleaves C=C into carboxylic acids, ketones or CO₂, depending on substitution.
+- Side-chain oxidation: any alkylbenzene with a benzylic H → benzoic acid, whatever the chain length. Tert-butylbenzene (no benzylic H) is not oxidised.
+- Oxidises 1° alcohols and aldehydes to carboxylic acids.
+
+Chromium (Cr)
+
+- Acidified K₂Cr₂O₇ (orange Cr₂O₇²⁻ → green Cr³⁺): 1° alcohol → aldehyde → carboxylic acid; 2° → ketone; 3° no reaction.
+- PCC (pyridinium chlorochromate): 1° alcohol → aldehyde, stops there.
+- Étard reaction: toluene + CrO₂Cl₂ (in CS₂), then H₃O⁺ → benzaldehyde.
+- Toluene + CrO₃ in acetic anhydride → benzylidene diacetate, then hydrolysis → benzaldehyde.

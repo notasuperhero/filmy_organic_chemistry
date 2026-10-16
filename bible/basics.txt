@@ -1,0 +1,129 @@
+Basic principles and properties
+
+Class 11 basic principles (effects, aromaticity, conformations, purification, analysis) and the physical-property trends used in ordering questions.
+
+Electronic effects, aromaticity and conformations
+
+| Effect | What moves | Permanent? | Direction / examples | Used to explain |
+| Inductive (I) | σ-electrons along a chain | Yes; fades after about three carbons | −I (withdrawing): –NO₂, –CN, –COOH, –F, –Cl, –Br, –I, –OH. +I (donating): alkyl groups, (CH₃)₃C– > (CH₃)₂CH– > CH₃CH₂– > CH₃– | Acid strength, carbocation stability, amine basicity |
+| Resonance / mesomeric (R or M) | π-electrons or lone pairs through conjugation | Yes | +R (donate into ring): –OH, –OR, –NH₂, –NHCOCH₃, –X. −R (withdraw): –NO₂, –CN, –CHO, –COR, –COOH | Ring activation/deactivation, o/p vs meta direction, phenol acidity, aniline basicity |
+| Electromeric (E) | π-electrons of a multiple bond, completely | No; only while the reagent is present | +E: electrons shift to the atom the electrophile attaches to. −E: electrons shift to the atom the nucleophile does not attach to | First step of additions to C=C and C=O |
+| Hyperconjugation | σ-electrons of a C–H next to a C=C or carbocation | Yes | More α-H → more stable | Carbocation and radical stability; stability of alkenes (more substituted is more stable) |
+
+- When R and I oppose, R usually wins for direction (–OH, –NH₂ activate). Halogens are the exception: −I wins for reactivity (deactivating) but +R still sets direction (o/p).
+
+Aromaticity (Hückel's rule): a compound is aromatic if it is cyclic, planar, fully conjugated, and has (4n + 2) π-electrons (n = 0, 1, 2 …).
+
+| Species | π-electrons | Aromatic? |
+| Benzene | 6 (n = 1) | Yes |
+| Cyclopentadienyl anion | 6 | Yes |
+| Cycloheptatrienyl (tropylium) cation | 6 | Yes |
+| Cyclooctatetraene | 8 (4n) and non-planar | No |
+
+Conformations of ethane: rotation about the C–C single bond gives conformations, shown as Newman or sawhorse projections. Staggered is the most stable, eclipsed the least; the energy difference is about 12.5 kJ mol⁻¹ (torsional strain), small enough for free rotation at room temperature. Conformations cannot be separated.
+
+Physical property trends
+
+The rule behind every boiling-point question: stronger intermolecular forces → higher boiling point. Hydrogen bonding > dipole–dipole > van der Waals. Larger mass and surface area raise van der Waals forces; branching lowers them.
+
+| Family | Boiling point | Solubility in water | Why |
+| Alkanes | Rise with chain length; branching lowers bp | Insoluble | van der Waals only |
+| Haloalkanes | R–I > R–Br > R–Cl > R–F; branching lowers bp | Slightly soluble or insoluble | Dipole–dipole + van der Waals; larger halogen, more polarisable |
+| Alcohols | Much higher than alkanes/ethers of similar mass; branching lowers bp | Lower alcohols soluble; falls with chain length | Hydrogen bonding |
+| Ethers | Close to alkanes of similar mass | Somewhat soluble (O accepts H-bonds from water) | No O–H, so no H-bonding between molecules |
+| Aldehydes, ketones | Higher than hydrocarbons and ethers, lower than alcohols | Lower members soluble | Dipole–dipole, no H-bonding between molecules |
+| Carboxylic acids | Higher than alcohols of similar mass | Lower members soluble | Form H-bonded dimers |
+| Amines | 1° > 2° > 3°; lower than alcohols of similar mass | Lower members soluble | N–H…N H-bonds weaker than O–H…O; 3° has no N–H |
+
+Similar-mass comparison (molar mass about 58–60):
+
+| Compound | Molar mass | bp (K) |
+| n-Butane | 58 | 273 |
+| Methoxyethane | 60 | 281 |
+| Propanal | 58 | 322 |
+| Propanone | 58 | 329 |
+| Propan-1-ol | 60 | 370 |
+| Ethanoic acid | 60 | 391 |
+
+Branching example (C₅H₁₂): pentane 309 K > 2-methylbutane 301 K > 2,2-dimethylpropane 282.5 K.
+
+Other trends that are asked
+
+- Isomeric dichlorobenzenes: the para isomer has the highest melting point (symmetry, better packing).
+- o-Nitrophenol is steam volatile (intramolecular H-bond); p-nitrophenol is not (intermolecular H-bonds).
+- Dipole moment: CH₃Cl > CH₃F > CH₃Br > CH₃I.
+- Density of haloalkanes increases with the mass of the halogen; iodo and bromo compounds are denser than water.
+
+Purification and detection
+
+| Method | Principle | Used for |
+| Sublimation | Solid turns directly to vapour | Camphor, naphthalene, benzoic acid from non-sublimable impurities |
+| Crystallisation | Different solubility in hot and cold solvent | Purifying solids |
+| Simple distillation | Large difference in boiling points | Liquids with very different bp (e.g. chloroform 334 K and aniline 457 K) |
+| Fractional distillation | Small difference in boiling points; fractionating column | Crude oil fractions; close-boiling liquids |
+| Distillation under reduced pressure | Liquid boils below its normal bp | Liquids that decompose at their bp (glycerol from spent lye) |
+| Steam distillation | Steam-volatile, water-immiscible liquids boil below 373 K | Aniline, essential oils, o-nitrophenol |
+| Differential extraction | Different solubility in two immiscible solvents | Separating a compound from water using ether |
+| Chromatography | Different adsorption (column, TLC) or partition (paper) | Mixtures of coloured or colourless compounds |
+
+- Retardation factor: Rƒ = distance moved by the substance ÷ distance moved by the solvent front. Colourless spots are seen under UV light or with iodine or ninhydrin spray.
+
+Detection of elements
+
+| Element | Method | Positive result |
+| C and H | Heat with CuO | CO₂ turns lime water milky; H₂O turns anhydrous CuSO₄ blue |
+| N | Sodium fusion → NaCN; FeSO₄, heat, then acidify (Fe³⁺) | Prussian blue |
+| S | Sodium fusion → Na₂S; sodium nitroprusside or lead acetate | Violet; black PbS |
+| N and S together | Sodium fusion → NaSCN; Fe³⁺ | Blood red |
+| Halogens | Sodium fusion → NaX; boil with HNO₃ (removes CN⁻ and S²⁻), add AgNO₃ | AgCl white (soluble in NH₃); AgBr pale yellow; AgI yellow |
+| P | Oxidise to phosphate; HNO₃ + ammonium molybdate | Yellow precipitate |
+
+Quantitative analysis
+
+m = mass of organic compound taken (g). All other masses in g, volumes in mL.
+
+| Element | Method | Formula |
+| C | Combustion (Liebig) | %C = (12 × mass of CO₂ × 100) / (44 × m) |
+| H | Combustion (Liebig) | %H = (2 × mass of H₂O × 100) / (18 × m) |
+| N | Dumas | %N = (28 × volume of N₂ at STP × 100) / (22400 × m) |
+| N | Kjeldahl | %N = 1.4 × M × 2(V − V₁/2) / m, where V mL of M molar H₂SO₄ absorbs the NH₃ and V₁ mL of M molar NaOH neutralises the excess acid |
+| Halogen | Carius (AgX) | %X = (atomic mass of X × mass of AgX × 100) / (molar mass of AgX × m) |
+| S | Carius (BaSO₄) | %S = (32 × mass of BaSO₄ × 100) / (233 × m) |
+| P | As Mg₂P₂O₇ | %P = (62 × mass of Mg₂P₂O₇ × 100) / (222 × m) |
+| O | By difference | %O = 100 − sum of all other percentages |
+
+- Kjeldahl's method does not work for nitro and azo compounds or for N in a ring (pyridine): that nitrogen is not converted to ammonium sulphate.
+- Molar masses: AgCl 143.5, AgBr 188, AgI 235, BaSO₄ 233, Mg₂P₂O₇ 222.
+
+Solved numericals
+
+1. 0.300 g of a compound gave 0.440 g CO₂ and 0.180 g H₂O on combustion. Find %C, %H, %O and the empirical formula.
+
+1. %C = (12 × 0.440 × 100) / (44 × 0.300) = 528 / 13.2 = 40.0%
+2. %H = (2 × 0.180 × 100) / (18 × 0.300) = 36 / 5.4 = 6.67%
+3. %O = 100 − 40.0 − 6.67 = 53.33%
+4. Moles: C = 40.0/12 = 3.33; H = 6.67/1 = 6.67; O = 53.33/16 = 3.33
+5. Divide by the smallest (3.33): C 1, H 2, O 1. Empirical formula CH₂O.
+6. If the molar mass is 60 g mol⁻¹: n = 60/30 = 2, molecular formula C₂H₄O₂.
+
+2. Dumas: 0.250 g of a compound gave 40.0 mL of N₂ at STP. Find %N.
+
+1. %N = (28 × 40.0 × 100) / (22400 × 0.250) = 112000 / 5600 = 20.0%
+
+3. Kjeldahl: the NH₃ from 0.500 g of a compound was absorbed in 50.0 mL of 0.5 M H₂SO₄. The excess acid needed 80.0 mL of 0.5 M NaOH. Find %N.
+
+1. V = 50.0, V₁ = 80.0, M = 0.5. V − V₁/2 = 50.0 − 40.0 = 10.0
+2. %N = 1.4 × 0.5 × 2 × 10.0 / 0.500 = 28.0%
+3. Check by moles: H⁺ taken = 2 × 0.5 × 50.0 = 50 mmol; OH⁻ used = 0.5 × 80.0 = 40 mmol; so NH₃ = 10 mmol = 0.140 g N; 0.140/0.500 = 28%.
+
+4. Carius: 0.200 g of a compound gave 0.287 g AgCl. Find %Cl.
+
+1. %Cl = (35.5 × 0.287 × 100) / (143.5 × 0.200) = 1018.85 / 28.7 = 35.5%
+
+5. Carius: 0.160 g of a compound gave 0.233 g BaSO₄. Find %S.
+
+1. %S = (32 × 0.233 × 100) / (233 × 0.160) = 745.6 / 37.28 = 20.0%
+
+6. Paper chromatography: a spot moved 3.0 cm while the solvent front moved 7.5 cm. Find Rƒ.
+
+1. Rƒ = 3.0 / 7.5 = 0.40

@@ -1,0 +1,149 @@
+Naming and isomerism
+
+How to name a structure, draw one from a name, and count isomers from a formula: the step every "identify the compound" question starts with.
+
+IUPAC naming
+
+Name = prefixes + word root + primary suffix (ane/ene/yne) + secondary suffix (principal group).
+
+| Carbons | Root |  | Carbons | Root |
+| 1 | meth |  | 6 | hex |
+| 2 | eth |  | 7 | hept |
+| 3 | prop |  | 8 | oct |
+| 4 | but |  | 9 | non |
+| 5 | pent |  | 10 | dec |
+
+Rules, in order
+
+1. Pick the principal group: the highest in the priority table below. All other groups become prefixes.
+2. Pick the parent chain: the longest chain that contains the principal group and as many C=C / C≡C as possible.
+3. Number the chain to give the lowest locant to the principal group, then to multiple bonds, then to substituents (lowest set of locants).
+4. If a double and a triple bond tie for lowest numbers, the double bond gets the lower number. Write "ene" before "yne".
+5. Write prefixes in alphabetical order. Multiplying prefixes (di, tri, tetra) are ignored in alphabetising.
+
+Functional group priority (highest first)
+
+| Group | Formula | As suffix | As prefix |
+| Carboxylic acid | –COOH | -oic acid | carboxy |
+| Sulphonic acid | –SO₃H | -sulphonic acid | sulpho |
+| Ester | –COOR | alkyl -oate | alkoxycarbonyl |
+| Acid chloride | –COCl | -oyl chloride | chlorocarbonyl |
+| Amide | –CONH₂ | -amide | carbamoyl |
+| Nitrile | –C≡N | -nitrile | cyano |
+| Aldehyde | –CHO | -al | formyl / oxo |
+| Ketone | >C=O | -one | oxo |
+| Alcohol | –OH | -ol | hydroxy |
+| Amine | –NH₂ | -amine | amino |
+| Alkene, alkyne | C=C, C≡C | -ene, -yne | – |
+| Always prefixes | –X, –NO₂, –OR | – | halo, nitro, alkoxy |
+
+Worked names
+
+| Structure | Name | Why |
+| (CH₃)₂CHCH₂Cl | 1-Chloro-2-methylpropane | 3-C chain; numbering from the Cl end gives {1,2} |
+| CH₃CH(OH)CH₂CHO | 3-Hydroxybutanal | –CHO outranks –OH; CHO carbon is C1 |
+| CH₃COCH₂COOH | 3-Oxobutanoic acid | –COOH outranks ketone; ketone becomes "oxo" |
+| CH₂=CHCH₂OH | Prop-2-en-1-ol | –OH gets the lowest locant, then C=C |
+| (CH₃)₂CHCH₂CH₂NH₂ | 3-Methylbutan-1-amine | Number from the –NH₂ end |
+| CH≡C–CH=CH₂ | But-1-en-3-yne | Locants {1,3} either way; tie goes to the double bond |
+| ClCH₂CH₂COOH | 3-Chloropropanoic acid | COOH carbon is C1 |
+| CH₃CH=CHCHO | But-2-enal | CHO carbon is C1 |
+| CH₃CH₂OCH₃ | Methoxyethane | Larger group is the parent; smaller becomes alkoxy |
+| C₆H₅CH₂OH | Phenylmethanol (benzyl alcohol) |  |
+| CH₃CONHCH₃ | N-Methylethanamide | Substituent on N is marked N- |
+| (CH₃)₂NCH₂CH₃ | N,N-Dimethylethanamine | Longest chain on N is the parent |
+
+Aromatic compounds: number the ring so substituents get the lowest locants; with a named parent (phenol, aniline, benzoic acid, benzaldehyde) the parent's group is C1. Common names: o- = 1,2; m- = 1,3; p- = 1,4. Example: 4-nitrophenol = p-nitrophenol.
+
+Listing isomers from a formula
+
+Step 1: degree of unsaturation (DU). DU = (2C + 2 + N − H − X) / 2. Each ring or double bond counts 1; a triple bond counts 2. Oxygen and sulphur do not change it.
+
+| Formula | DU | Means |
+| C₄H₁₀O | 0 | Saturated: alcohols or ethers |
+| C₄H₈O | 1 | One C=O (aldehyde/ketone), or one C=C or ring with –OH/ether |
+| C₇H₆O₂ | 5 | Benzene ring (4) + one C=O |
+| C₃H₉N | 0 | Saturated amines |
+
+Step 2: list skeletons, then place the group. Draw every carbon chain (straight, then branched), then put the functional group on each distinct position.
+
+| Formula / family | Number | Isomers |
+| C₄H₁₀ | 2 | Butane; 2-methylpropane |
+| C₅H₁₂ | 3 | Pentane; 2-methylbutane; 2,2-dimethylpropane |
+| C₆H₁₄ | 5 | Hexane; 2-methylpentane; 3-methylpentane; 2,2-dimethylbutane; 2,3-dimethylbutane |
+| C₄H₉Cl | 4 | 1-Chlorobutane; 2-chlorobutane; 1-chloro-2-methylpropane; 2-chloro-2-methylpropane |
+| C₄H₁₀O alcohols | 4 | Butan-1-ol (1°); butan-2-ol (2°); 2-methylpropan-1-ol (1°); 2-methylpropan-2-ol (3°) |
+| C₄H₁₀O ethers | 3 | 1-Methoxypropane; 2-methoxypropane; ethoxyethane |
+| C₄H₈O carbonyls | 3 | Butanal; 2-methylpropanal; butan-2-one |
+| C₅H₁₀O carbonyls | 7 | Aldehydes: pentanal, 2-methylbutanal, 3-methylbutanal, 2,2-dimethylpropanal. Ketones: pentan-2-one, pentan-3-one, 3-methylbutan-2-one |
+| C₃H₉N amines | 4 | Propan-1-amine (1°); propan-2-amine (1°); N-methylethanamine (2°); N,N-dimethylmethanamine (3°) |
+| C₇H₈O aromatic | 5 | o-, m-, p-Cresol; phenylmethanol; methoxybenzene |
+
+Types of structural isomerism
+
+| Type | Differs in | Example |
+| Chain | Carbon skeleton | Butane / 2-methylpropane |
+| Position | Position of the group | Butan-1-ol / butan-2-ol |
+| Functional group | Group itself | Ethanol / methoxyethane; propanal / propanone |
+| Metamerism | Alkyl groups on either side of a functional group | Ethoxyethane / 1-methoxypropane |
+
+Stereoisomerism
+
+Geometrical (cis–trans) isomerism
+
+- Needs restricted rotation (C=C or a ring) and two different groups on each carbon of the double bond.
+- cis: same groups on the same side; trans: opposite sides.
+- cis isomers usually have a higher dipole moment and boiling point; trans isomers usually pack better and have higher melting points.
+
+| Compound | Shows cis–trans? | Reason |
+| But-2-ene CH₃CH=CHCH₃ | Yes | Each C=C carbon has H and CH₃ |
+| But-1-ene CH₂=CHCH₂CH₃ | No | C1 has two H |
+| 2-Methylpropene (CH₃)₂C=CH₂ | No | Both carbons carry two identical groups |
+| 1,2-Dichloroethene ClCH=CHCl | Yes | Each carbon has H and Cl |
+
+Optical isomerism
+
+- A chiral carbon (stereocentre) carries four different groups. A molecule with one chiral carbon is chiral: its mirror image is not superimposable.
+- Enantiomers: non-superimposable mirror images. Same physical properties except the direction in which they rotate plane-polarised light: dextrorotatory (+) or laevorotatory (−).
+- Racemic mixture: equal amounts of both enantiomers; optically inactive (external compensation). SN1 at a chiral carbon gives racemisation; SN2 gives inversion.
+- Up to 2ⁿ stereoisomers for n chiral carbons (fewer if the molecule has internal symmetry).
+
+| Compound | Chiral? | Reason |
+| Butan-2-ol CH₃CH(OH)CH₂CH₃ | Yes | C2 has H, OH, CH₃, C₂H₅ |
+| Propan-2-ol (CH₃)₂CHOH | No | Two CH₃ groups |
+| 2-Chlorobutane | Yes | C2 has H, Cl, CH₃, C₂H₅ |
+| 3-Chloropentane | No | Two C₂H₅ groups |
+| Lactic acid CH₃CH(OH)COOH | Yes | Four different groups on C2 |
+| Glycine H₂NCH₂COOH | No | Two H on the α-carbon (the only achiral natural α-amino acid) |
+
+Solved problems: naming and isomerism
+
+1. Name CH₃–CH(CH₃)–CH₂–CH(OH)–CH₃.
+
+1. Principal group: –OH. Longest chain containing it: 5 carbons → pentan-ol.
+2. Number from the right so –OH gets C2; the methyl is on C4.
+3. Answer: 4-methylpentan-2-ol.
+
+2. Write the structure of 3-methylbut-1-ene.
+
+1. But-1-ene: C1=C2–C3–C4. 3-Methyl: CH₃ on C3.
+2. Answer: CH₂=CH–CH(CH₃)–CH₃.
+
+3. How many structural isomers are possible for C₄H₉Br? Which is chiral?
+
+1. C₄ skeletons: straight (C–C–C–C) and branched (C–C(C)–C).
+2. Straight: Br on C1 or C2 → 2 isomers. Branched: Br on the end CH₃ or the centre → 2 isomers.
+3. Answer: 4. Only 2-bromobutane is chiral (C2 carries H, Br, CH₃, C₂H₅), so counting enantiomers there are 5 stereo-distinct forms.
+
+4. Which of these show geometrical isomerism: pent-1-ene, pent-2-ene, 2-methylbut-2-ene?
+
+1. Pent-1-ene: C1 carries two H → no.
+2. Pent-2-ene: C2 has H and CH₃; C3 has H and C₂H₅ → yes.
+3. 2-Methylbut-2-ene: C2 carries two CH₃ → no.
+4. Answer: pent-2-ene only.
+
+5. An alcohol C₄H₁₀O is optically active. Identify it.
+
+1. The four alcohols (see the isomer table): butan-1-ol, butan-2-ol, 2-methylpropan-1-ol, 2-methylpropan-2-ol.
+2. Only butan-2-ol has a carbon with four different groups.
+3. Answer: butan-2-ol.

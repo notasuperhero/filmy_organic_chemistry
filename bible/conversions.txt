@@ -1,0 +1,139 @@
+Conversions
+
+Multi-step conversions are built from a small set of moves: change the carbon count, swap the functional group, and on a ring, install groups in the right order.
+
+Toolkit
+
+How to plan: compare carbon counts first (add, remove or keep carbons), then the functional group, then (on a ring) the substituent pattern. Work backwards from the target when stuck.
+
+Changing the number of carbons
+
+| Goal | Route | Reaction code |
+| +1 C | R–X + KCN → R–CN; then H₃O⁺ → RCOOH, or LiAlH₄ → RCH₂NH₂ | X5, A9 |
+| +1 C | RMgX + HCHO, then H₃O⁺ → RCH₂OH | C2 |
+| +1 C | RMgX + CO₂, then H₃O⁺ → RCOOH | C2 |
+| +1 C | Aldehyde/ketone + HCN → cyanohydrin | C1 |
+| +any (join two groups) | RMgX + R′CHO or R′COR″ → 2°/3° alcohol | C2 |
+| Double the chain | Wurtz (2RX + 2Na); Kolbe electrolysis | H10 |
+| −1 C | RCONH₂ + Br₂/NaOH → RNH₂ (Hofmann) | A1 |
+| −1 C | RCOONa + NaOH/CaO → RH (decarboxylation) | H10 |
+| −1 C | CH₃COR + I₂/NaOH → RCOONa + CHI₃ (haloform) | C6 |
+
+Swapping functional groups
+
+| From | To | Reagent | Code |
+| Alkene | Alcohol (Markovnikov) | H₂O/H⁺ | O5 |
+| Alkene | Alcohol (anti-Markovnikov) | B₂H₆, then H₂O₂/OH⁻ | O5 |
+| Alkene | Haloalkane | HX (Markovnikov); HBr + peroxide (anti) | H2, H3 |
+| Alkene | Vicinal diol | Cold dil. alkaline KMnO₄ | Mn (main tab) |
+| Alkene | Alkyne | Br₂/CCl₄, then alc. KOH and NaNH₂ | H4, X3 |
+| Alkyne | Aldehyde/ketone | dil. H₂SO₄, HgSO₄, 333 K | H5 |
+| Alcohol | Alkene | conc. H₂SO₄, heat | O2 |
+| Alcohol | Haloalkane | SOCl₂, PCl₅, HX/ZnCl₂ | O3 |
+| 1° alcohol | Aldehyde | PCC, or Cu at 573 K | O4 |
+| 1° alcohol | Carboxylic acid | KMnO₄ or acidified K₂Cr₂O₇ | O4 |
+| 2° alcohol | Ketone | Acidified K₂Cr₂O₇ | O4 |
+| Haloalkane | Alcohol | aq. KOH | X1 |
+| Haloalkane | Alkene | alc. KOH | X3 |
+| Haloalkane | Ether | RO⁻Na⁺ (Williamson) | O7 |
+| Haloalkane | Amine | NH₃ (mixture) or Gabriel (1° only) | A2, A9 |
+| Aldehyde/ketone | Alcohol | NaBH₄ or LiAlH₄ | C3 |
+| Aldehyde/ketone | Alkane (C=O → CH₂) | Clemmensen or Wolff–Kishner | C3 |
+| Carboxylic acid | Acid chloride | SOCl₂ | C9 |
+| Acid chloride | Aldehyde | H₂, Pd/BaSO₄ (Rosenmund) | C8 |
+| Acid chloride | Amide | NH₃ | C9 |
+| Carboxylic acid | 1° alcohol | LiAlH₄ or B₂H₆ | C3 |
+| Nitrile | Acid / amine / aldehyde / ketone | H₃O⁺ / LiAlH₄ / SnCl₂–HCl / RMgX | A9, C8 |
+| Nitro (aromatic) | Amine | Sn/HCl or Fe/HCl | A9 |
+| Aromatic amine | –Cl, –Br, –CN, –I, –F, –OH, –H | Diazotise, then replace | A5, A6 |
+| Alkylbenzene | Benzoic acid | KMnO₄, then H⁺ | Mn (main tab) |
+
+Order of steps on a benzene ring
+
+- For a meta pattern, install the meta director first (–NO₂, –COOH, –CHO, –SO₃H), then add the second group.
+- For an ortho/para pattern, install the o/p director first (–X, –CH₃, –OH, –NH₂), then separate o and p products.
+- To switch a director: –NO₂ (meta) → Sn/HCl → –NH₂ (o/p); –CH₃ (o/p) → KMnO₄ → –COOH (meta).
+- To use –NH₂ as a temporary director: substitute, then remove it by diazotisation + H₃PO₂.
+- Friedel–Crafts will not work once a strong deactivator (–NO₂, –COOH) or –NH₂ is on the ring: do Friedel–Crafts first.
+
+Solved conversions
+
+1. Ethanol → propanoic acid (+1 C)
+
+1. CH₃CH₂OH + SOCl₂ → CH₃CH₂Cl
+2. CH₃CH₂Cl + KCN → CH₃CH₂CN
+3. CH₃CH₂CN + H₃O⁺ (heat) → CH₃CH₂COOH
+
+2. Propanoic acid → ethanamine (−1 C)
+
+1. CH₃CH₂COOH + SOCl₂ → CH₃CH₂COCl
+2. CH₃CH₂COCl + NH₃ → CH₃CH₂CONH₂
+3. CH₃CH₂CONH₂ + Br₂ + 4NaOH → CH₃CH₂NH₂ (Hofmann bromamide)
+
+3. Methanol → ethanoic acid (+1 C)
+
+1. CH₃OH + PBr₃ (red P/Br₂) → CH₃Br
+2. CH₃Br + Mg (dry ether) → CH₃MgBr
+3. CH₃MgBr + CO₂, then H₃O⁺ → CH₃COOH
+
+4. Ethanol → propan-2-ol
+
+1. CH₃CH₂OH + PCC → CH₃CHO
+2. CH₃CHO + CH₃MgBr, then H₃O⁺ → CH₃CH(OH)CH₃
+
+5. Propene → propan-1-ol
+
+1. CH₃CH=CH₂ + B₂H₆, then H₂O₂/OH⁻ → CH₃CH₂CH₂OH (anti-Markovnikov)
+2. Note: H₂O/H⁺ would give propan-2-ol instead.
+
+6. Propene → propyne
+
+1. CH₃CH=CH₂ + Br₂ (CCl₄) → CH₃CHBrCH₂Br
+2. - alc. KOH, then NaNH₂ → CH₃C≡CH (two eliminations of HBr)
+
+7. Benzene → m-bromonitrobenzene
+
+1. Nitrate first: C₆H₆ + conc. HNO₃/H₂SO₄ → C₆H₅NO₂ (–NO₂ is meta directing)
+2. Br₂/FeBr₃ → m-bromonitrobenzene
+
+8. Benzene → p-bromonitrobenzene
+
+1. Brominate first: Br₂/FeBr₃ → C₆H₅Br (–Br is o/p directing)
+2. conc. HNO₃/H₂SO₄ → o- and p-bromonitrobenzene; separate the para isomer
+
+9. Aniline → 1,3,5-tribromobenzene
+
+1. Bromine water → 2,4,6-tribromoaniline (–NH₂ activates all o/p positions)
+2. NaNO₂/HCl, 273–278 K → diazonium salt
+3. H₃PO₂ → 1,3,5-tribromobenzene (–N₂⁺ replaced by H)
+
+10. Nitrobenzene → phenol
+
+1. Sn/HCl → aniline
+2. NaNO₂/HCl, 273–278 K → benzenediazonium chloride
+3. Warm with water → phenol
+
+11. Toluene → benzaldehyde (two routes)
+
+1. Étard: CrO₂Cl₂ in CS₂, then H₃O⁺ → C₆H₅CHO
+2. Or: KMnO₄ → benzoic acid; SOCl₂ → benzoyl chloride; H₂, Pd/BaSO₄ → benzaldehyde
+
+12. Benzene → m-nitrobenzoic acid
+
+1. Friedel–Crafts first (it fails after nitration): CH₃Cl/AlCl₃ → toluene
+2. KMnO₄, then H⁺ → benzoic acid (–COOH is meta directing)
+3. conc. HNO₃/H₂SO₄ → m-nitrobenzoic acid
+
+13. Ethanal → but-2-enal
+
+1. 2CH₃CHO + dil. NaOH → CH₃CH(OH)CH₂CHO (aldol)
+2. Heat → CH₃CH=CHCHO + H₂O
+
+14. Propanone → propene
+
+1. CH₃COCH₃ + NaBH₄ → CH₃CH(OH)CH₃
+2. conc. H₂SO₄, heat → CH₃CH=CH₂
+
+15. Chlorobenzene → biphenyl
+
+1. 2C₆H₅Cl + 2Na (dry ether) → C₆H₅–C₆H₅ + 2NaCl (Fittig)

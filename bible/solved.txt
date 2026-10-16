@@ -1,0 +1,144 @@
+Solved problems
+
+NCERT-style questions of every type, solved using only this bible. Codes in brackets point to the Reactions tab.
+
+Predict the product
+
+| Question | Answer | Why (code) |
+| (CH₃)₃CBr + alc. KOH → ? | (CH₃)₂C=CH₂ (2-methylpropene) | Alcoholic KOH = base; 3° halide eliminates (X3) |
+| (CH₃)₃CBr + aq. KOH → ? | (CH₃)₃COH | Aqueous: substitution by SN1 (X2) |
+| CH₃CH=CH₂ + HBr → ? | CH₃CHBrCH₃ | Markovnikov via 2° carbocation (H2) |
+| CH₃CH=CH₂ + HBr, peroxide → ? | CH₃CH₂CH₂Br | Radical path, HBr only (H3) |
+| CH₃CH=CH₂ + H₂O/H⁺ → ? | CH₃CH(OH)CH₃ | Markovnikov (O5) |
+| CH₃CH₂CH₂OH + PCC → ? | CH₃CH₂CHO | PCC stops at the aldehyde (O4) |
+| C₆H₅COCH₃ + Zn–Hg/conc. HCl → ? | C₆H₅CH₂CH₃ | Clemmensen: C=O → CH₂ (C3) |
+| CH₃CH₂Br + AgCN → ? | CH₃CH₂NC | AgCN: N attacks (X5) |
+| CH₃CH₂Br + KCN → ? | CH₃CH₂CN | KCN: C attacks (X5) |
+| C₆H₅N₂⁺Cl⁻ + CuCN/KCN → ? | C₆H₅CN | Sandmeyer (A6) |
+| 2HCHO + conc. NaOH → ? | CH₃OH + HCOONa | Cannizzaro: no α-H (C7) |
+| C₆H₅OCH₃ + HI → ? | C₆H₅OH + CH₃I | O–aryl bond is not broken (O8) |
+| CH₃COCH₃ + CH₃MgBr, then H₃O⁺ → ? | (CH₃)₃COH | Ketone + Grignard → 3° alcohol (C2) |
+| CH₃CONH₂ + Br₂ + NaOH → ? | CH₃NH₂ | Hofmann: one carbon fewer (A1) |
+| HC≡CH + H₂O (HgSO₄, dil. H₂SO₄) → ? | CH₃CHO | Enol tautomerises (H5) |
+| Phenol + bromine water → ? | 2,4,6-Tribromophenol | Strong activation by –OH (P2) |
+| C₆H₅CH₃ + KMnO₄, then H⁺ → ? | C₆H₅COOH | Side-chain oxidation (main tab, Mn) |
+
+Give reasons
+
+1. Phenol is more acidic than ethanol.
+
+Phenoxide's negative charge is delocalised over the ring by resonance, which stabilises it. Ethoxide's charge stays on O and is intensified by the +I effect of the ethyl group. The more stable the conjugate base, the stronger the acid (P1).
+
+2. Aniline is a weaker base than methylamine.
+
+In aniline the N lone pair is delocalised into the ring, so it is less available for a proton. In methylamine, the +I effect of CH₃ increases electron density on N.
+
+3. Tertiary butyl bromide reacts by SN1 faster than ethyl bromide.
+
+It forms a 3° carbocation, stabilised by +I and hyperconjugation (nine α-H). The bulky groups also block backside attack, so SN2 is not available to it (X1, X2).
+
+4. Aldehydes are more reactive than ketones towards nucleophilic addition.
+
+An aldehyde has one alkyl group, a ketone two. Two alkyl groups reduce the carbonyl carbon's positive character (+I) and crowd the approaching nucleophile (C1).
+
+5. Chlorobenzene is far less reactive than chloromethane towards nucleophilic substitution.
+
+In chlorobenzene the C–Cl bond has partial double-bond character (resonance with the ring); the carbon is sp² (shorter, stronger bond); the electron-rich ring repels the nucleophile; and the phenyl cation is unstable, so SN1 is impossible too (X7).
+
+6. Haloalkanes give alcohols with aqueous KOH but alkenes with alcoholic KOH.
+
+In water, OH⁻ is heavily solvated and acts as a nucleophile (substitution). In alcohol, the alkoxide/hydroxide ion is a stronger base and removes a β-hydrogen (elimination) (X3).
+
+7. Carboxylic acids do not give the typical reactions of the carbonyl group.
+
+The C=O of –COOH is in resonance with the lone pair of the –OH oxygen, which lowers the electrophilic character of the carbonyl carbon (C9).
+
+8. Aniline does not undergo Friedel–Crafts reactions.
+
+The lone pair on N reacts with the Lewis acid AlCl₃ to form a salt, putting a positive charge on N, which strongly deactivates the ring (A8).
+
+Distinguish by a chemical test
+
+| Pair | Test | Result |
+| Ethanol / methanol | Iodoform (I₂ + NaOH, warm) | Ethanol: yellow CHI₃. Methanol: none |
+| Propanal / propanone | Tollens' or Fehling's | Propanal: silver mirror / red ppt. Propanone: none |
+| Pentan-2-one / pentan-3-one | Iodoform | Pentan-2-one (has CH₃CO–): yellow ppt |
+| Benzaldehyde / acetaldehyde | Fehling's | Acetaldehyde: red ppt. Benzaldehyde: none |
+| Phenol / benzoic acid | NaHCO₃ | Benzoic acid: CO₂ effervescence. (Or FeCl₃: phenol violet) |
+| Phenol / ethanol | Neutral FeCl₃ | Phenol: violet colour |
+| Butan-1-ol / 2-methylpropan-2-ol | Lucas reagent | 3° alcohol: turbid at once. 1°: no turbidity at room temperature |
+| Ethylamine / aniline | Nitrous acid at 273–278 K, then alkaline phenol (or β-naphthol) | Aniline: coloured azo dye. Ethylamine: N₂ bubbles, no dye |
+| Methylamine / dimethylamine | Carbylamine (CHCl₃ + alc. KOH) | Methylamine: foul smell of isocyanide |
+| Ethylamine / diethylamine / triethylamine | Hinsberg (C₆H₅SO₂Cl) | 1°: product dissolves in alkali. 2°: insoluble product. 3°: no reaction |
+| Ethene / ethane | Br₂ in CCl₄, or Baeyer's reagent | Ethene decolourises both |
+| Ethyne / ethene | Ammoniacal AgNO₃ | Ethyne: white silver acetylide |
+
+Arrange in order
+
+| Question | Answer (increasing) | Reason |
+| Basic strength in water | C₆H₅NH₂ < NH₃ < (CH₃)₃N < CH₃NH₂ < (CH₃)₂NH | Resonance in aniline; +I, solvation and steric effects in water |
+| Acid strength | CH₃COOH < C₆H₅COOH < HCOOH < ClCH₂COOH < FCH₂COOH | −I raises acidity; +I of CH₃ lowers it |
+| Acid strength of phenols | p-Cresol < phenol < m-nitrophenol < p-nitrophenol < picric acid | −R and −I of –NO₂ at o/p stabilise phenoxide; +I of CH₃ destabilises |
+| SN2 reactivity | (CH₃)₃CBr < (CH₃)₂CHBr < CH₃CH₂Br < CH₃Br | Steric hindrance |
+| SN1 reactivity | CH₃Br < CH₃CH₂Br < (CH₃)₂CHBr < (CH₃)₃CBr | Carbocation stability |
+| Reactivity in SN (same alkyl) | R–F < R–Cl < R–Br < R–I | C–X bond weakens |
+| Nucleophilic addition | C₆H₅COCH₃ < CH₃COCH₃ < CH₃CHO < HCHO | Steric and +I effects |
+| Boiling point | n-butane < methoxyethane < propanal < propan-1-ol | van der Waals < dipole–dipole < H-bonding |
+| Boiling point | 2,2-dimethylpropane < 2-methylbutane < pentane | Branching reduces surface area |
+| Carbocation stability | CH₃⁺ < CH₃CH₂⁺ < (CH₃)₂CH⁺ < (CH₃)₃C⁺ | +I and hyperconjugation |
+
+Identify the unknown
+
+1. A compound C₄H₈O forms an orange precipitate with 2,4-DNP, gives no silver mirror with Tollens', and gives a yellow precipitate with I₂/NaOH. Identify it.
+
+1. DU = (2×4 + 2 − 8)/2 = 1: one C=O fits.
+2. 2,4-DNP positive → aldehyde or ketone. Carbonyl isomers of C₄H₈O: butanal, 2-methylpropanal, butan-2-one.
+3. Tollens' negative → not an aldehyde → butan-2-one.
+4. Iodoform positive → has CH₃CO–. Butan-2-one (CH₃COCH₂CH₃) fits.
+5. Answer: butan-2-one.
+
+2. Compound A (C₂H₆O) releases H₂ with sodium, gives the iodoform test, and on oxidation gives an acid that turns NaHCO₃ effervescent. Identify A.
+
+1. C₂H₆O isomers: ethanol and methoxymethane.
+2. H₂ with Na → O–H present → ethanol (the ether has no O–H).
+3. Iodoform positive (CH₃CH(OH)–) and oxidation to ethanoic acid confirm it.
+4. Answer: ethanol.
+
+3. An aromatic compound C₇H₆O₂ gives effervescence with NaHCO₃. A second isomer gives a silver mirror with Tollens' and a violet colour with FeCl₃. Identify both.
+
+1. DU = (2×7 + 2 − 6)/2 = 5: benzene ring (4) + one C=O.
+2. NaHCO₃ effervescence → –COOH → benzoic acid, C₆H₅COOH.
+3. Silver mirror → –CHO; violet with FeCl₃ → phenolic –OH. Ring + CHO + OH = C₇H₆O₂ → a hydroxybenzaldehyde, e.g. salicylaldehyde (2-hydroxybenzaldehyde, from Reimer–Tiemann, P4).
+
+4. An amine C₃H₉N gives a foul smell with CHCl₃ and alcoholic KOH. With nitrous acid it gives an alcohol that gives the iodoform test. Identify the amine.
+
+1. Carbylamine positive → 1° amine: propan-1-amine or propan-2-amine.
+2. With HNO₂, a 1° aliphatic amine gives the corresponding alcohol (A5): propan-1-ol or propan-2-ol.
+3. Only propan-2-ol has CH₃CH(OH)– and gives iodoform.
+4. Answer: propan-2-amine, (CH₃)₂CHNH₂.
+
+Write the mechanism
+
+1. Acid-catalysed dehydration of ethanol to ethene (443 K).
+
+1. Protonation: a lone pair on O attacks H⁺ → CH₃CH₂–OH₂⁺ (fast).
+2. Water leaves: the C–O bond breaks, the electrons go with O → CH₃CH₂⁺ + H₂O (slow, rate-determining).
+3. Loss of H⁺: a β-C–H bond's electrons move to form C=C; H⁺ is released → CH₂=CH₂.
+
+2. Nucleophilic addition of HCN to ethanal.
+
+1. Base generates the nucleophile: HCN + OH⁻ → CN⁻ + H₂O.
+2. CN⁻ attacks the carbonyl carbon; the C=O π electrons move onto O → tetrahedral alkoxide (slow).
+3. O⁻ takes H⁺ from HCN (or water) → CH₃CH(OH)CN, ethanal cyanohydrin.
+
+3. Nitration of benzene.
+
+1. Electrophile: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻.
+2. The ring's π electrons attack NO₂⁺ → arenium ion (σ-complex; one sp³ carbon carries H and NO₂; positive charge delocalised).
+3. HSO₄⁻ removes H⁺ from that carbon; the electrons restore the aromatic ring → nitrobenzene.
+
+4. SN2 of bromomethane with hydroxide.
+
+1. OH⁻ approaches the carbon from the side opposite Br.
+2. Transition state: HO···C···Br, with the three H atoms flattened in one plane.
+3. Br⁻ leaves as the C–O bond forms; the H atoms flip (inversion) → CH₃OH.
