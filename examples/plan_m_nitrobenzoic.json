@@ -1,0 +1,9 @@
+{"answer": "Benzene → toluene (CH3Cl, anhydrous AlCl3) → benzoic acid (hot KMnO4, then H+) → m-nitrobenzoic acid (conc. HNO3 + conc. H2SO4)",
+ "steps": [
+  {"equation": "C6H6 + CH3Cl → C6H5CH3 + HCl", "conditions": "anhydrous AlCl3, excess benzene", "code": "H9"},
+  {"equation": "C6H5CH3 → C6H5COOH", "conditions": "hot KMnO4, then H+", "code": "Mn (main tab)"},
+  {"equation": "C6H5COOH + HNO3 → m-O2N-C6H4-COOH + H2O", "conditions": "conc. H2SO4", "code": "H9"}],
+ "trap": "Nitrating first blocks Friedel–Crafts; nitrating toluene gives o/p products.",
+ "reaction_codes": ["H9"],
+ "character_ids": ["F1","F2","F3","Q81","F22","Q37","F6","Q45","Q92","F53","F17","Q41","F13","Q97","F29","Q26","F31","Q39","F14","F68","F69","F71","F73"],
+ "ring": true}
