@@ -24,6 +24,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -35,6 +36,23 @@ RING_CODES = {"H9", "P2", "P3", "P4", "P5", "A6", "A7", "A8", "X7"}
 
 # ---------------------------------------------------------------- model call
 def llm(system, user, max_tokens=6000):
+    try:
+        return _llm(system, user, max_tokens)
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", "replace")[:500]
+        hint = {401: "the API key was rejected: check ANTHROPIC_API_KEY / OPENAI_API_KEY is a real key",
+                404: "wrong model name or URL: check STORY_MODEL / OPENAI_BASE_URL",
+                429: "rate limit or no credit left on the account"}.get(e.code, "")
+        sys.exit(f"model call failed: HTTP {e.code}. {hint}\n{detail}")
+    except urllib.error.URLError as e:
+        sys.exit(f"could not reach the model server ({e.reason}). Is LM Studio's server running, "
+                 f"or is OPENAI_BASE_URL right?")
+
+
+def _llm(system, user, max_tokens):
+    key = os.environ.get("ANTHROPIC_API_KEY", "")
+    if key and "..." in key:
+        sys.exit("ANTHROPIC_API_KEY still holds the placeholder 'sk-ant-...'; paste your real key")
     if os.environ.get("ANTHROPIC_API_KEY") and not os.environ.get("OPENAI_BASE_URL"):
         body = {"model": os.environ.get("STORY_MODEL", "claude-sonnet-5-5"), "max_tokens": max_tokens,
                 "system": system, "messages": [{"role": "user", "content": user}]}
