@@ -1,0 +1,1800 @@
+{
+ "characters": [
+  {
+   "id": "Q1",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Carbon",
+   "text": "Character: Carbon; Core quirk: The host who always keeps exactly four commitments. Builds chains and rings with its own kind. Its mood depends on how it holds hands (see Carbon's moods).; Encodes: Valency 4; catenation; hybridisation; In reactions: Skeleton of every molecule. Becomes a carbocation, carbanion or radical when a partner leaves with or without the electrons (H1, H2, X2, C5).; Never: Never keeps five partners; five partial bonds exist only for an instant in the SN2 transition state (X1)."
+  },
+  {
+   "id": "Q2",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Hydrogen",
+   "text": "Character: Hydrogen; Core quirk: The most transferable guest. Leaves in whatever form the moment demands: as a bare proton (H⁺), a lone atom (H•) or with a pair of electrons (H⁻). Gets more nervous (acidic) the harder its neighbour pulls.; Encodes: Acidity depends on the atom it is bonded to; hydride transfer; hyperconjugation; In reactions: H⁺ attacks first in HBr addition (H2) and joins the carbon that already has more hydrogens: \"jiske paas zyada, use aur\" (Markovnikov). H• is stolen by Cl• (H1) and delivered last under peroxide (H3). H⁻ is handed over by LiAlH₄/NaBH₄ (C3) and passed between two aldehydes in Cannizzaro (C7). Leaves as H⁺ to restore the benzene ring (H9). α-H next to C=O is restless and leaves to base (C5, C6). C–H next to a carbocation lends support (hyperconjugation).; Never: Never released as H₂ by sodium from an alkane or alkene; only acidic H (O–H, ≡C–H) does that (O1, H7). Never leaves a ring as hydride."
+  },
+  {
+   "id": "Q3",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Oxygen",
+   "text": "Character: Oxygen; Core quirk: Possessive, with two free hands (lone pairs). Pulls shared electrons towards herself, grabs H⁺ readily, shares her lone pair generously with a ring.; Encodes: Electronegativity 3.44; two lone pairs; +R on rings, −I always; In reactions: In C=O she pulls the π pair, leaving carbon exposed (δ+) for nucleophiles (C1). In –OH she refuses to leave until she gets an H⁺, then leaves happily as water (O2, O3). As phenoxide she spreads her negative charge round the ring, which is why phenol is acidic (P1). In esterification the alcohol's oxygen stays in the ester; the acid's –OH leaves (O6).; Never: Never leaves as OH⁻ in substitution. Never lets go of an aryl carbon: phenol's C–O never breaks with HCl, anisole + HI never gives iodobenzene (O8, P6)."
+  },
+  {
+   "id": "Q4",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Nitrogen",
+   "text": "Character: Nitrogen; Core quirk: The generous donor with one gift (lone pair). Gives it more readily than oxygen, unless someone else is already holding it.; Encodes: Electronegativity 3.04, one lone pair; base and nucleophile; In reactions: Attacks as a nucleophile: on alkyl halides (A9), on NO⁺ in diazotisation (A5), on sulphur in Hinsberg (A4), on carbene in carbylamine (A3). In aniline the gift is shared with the ring (weaker base, strong ring activator). In amides it is shared with C=O (neutral; N–H becomes acidic, A1, A2). When protonated it becomes –NH₃⁺ and turns germophobe (see seating rules). As N₂ in a diazonium salt it is the best leaver of all, leaving as gas (A5, A6).; Never: Never lets aniline undergo Friedel–Crafts: it handcuffs AlCl₃ (A8). Never stays as aliphatic diazonium: leaves at once as N₂ (A5)."
+  },
+  {
+   "id": "Q5",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Fluorine",
+   "text": "Character: Fluorine; Core quirk: The most possessive character of all. Once attached, never lets go. Too violent to invite directly.; Encodes: Highest electronegativity (3.98); strongest C–X bond; strongest −I; In reactions: Brought in only indirectly: Swarts (AgF, Hg₂F₂, CoF₂, SbF₃, X4) or via diazonium + HBF₄ (A6). Its pull makes FCH₂COOH the strongest of the haloacetic acids.; Never: Never a good leaving group. Never added by direct fluorination in a controlled story."
+  },
+  {
+   "id": "Q6",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Chlorine",
+   "text": "Character: Chlorine; Core quirk: Aggressive but unselective. As a radical grabs any hydrogen it meets; as a substituent, slow to leave.; Encodes: Reactive radical; moderate leaving group; C–Cl on a ring has partial double-bond character; In reactions: Radical chain on alkanes, giving mixtures (H1). With AlCl₃/FeCl₃ becomes Cl⁺ and attacks benzene (H9). In sunlight attacks toluene's side chain; with FeCl₃ attacks the ring (main tab). On a ring it is \"grumpy but polite\" (see seating rules).; Never: Never leaves a benzene ring easily: needs 623 K and 300 atm (X7). Never selective between 1°, 2°, 3° H."
+  },
+  {
+   "id": "Q7",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Bromine",
+   "text": "Character: Bromine; Core quirk: The shapeshifter. Plays four different roles depending on the reaction, and always announces itself: its red-brown colour vanishes when it reacts with a double bond.; Encodes: Polarisable Br₂; Br⁻ stable anion; Br• radical; good leaving group; In reactions: Electrophile (Brδ+) adding to C=C (H4) and attacking phenol or aniline (P2, A8). Nucleophile Br⁻ completing HBr addition (H2). Radical Br• with peroxide, adding first to the end carbon (H3), and choosy: prefers 3° H. Leaving group in SN1/SN2 (X1, X2) and from nitrogen in Hofmann (A1).; Never: Never reverses Markovnikov without peroxide. Never switches to the radical role with HCl or HI."
+  },
+  {
+   "id": "Q8",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Iodine",
+   "text": "Character: Iodine; Core quirk: The laid-back one. Leaves without a fight; lazy at attacking benzene.; Encodes: Weakest C–X bond; best leaving group; I₂ a weak electrophile; I⁻ a strong nucleophile; In reactions: Leaves most easily in SN1/SN2. I⁻ cracks ethers, attacking the smaller alkyl group (O8). Swaps in for Cl/Br in acetone (Finkelstein, X4). Replaces N₂ without copper (A6). Ends up as yellow CHI₃ in the iodoform test (C6).; Never: Never iodinates benzene on its own: the reaction runs backwards unless HNO₃ or HIO₄ removes HI."
+  },
+  {
+   "id": "Q9",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Sulphur",
+   "text": "Character: Sulphur; Core quirk: The reversible committer. Joins a ring as –SO₃H but can be asked to leave. As SOCl₂, the clean exit artist.; Encodes: Sulphonation is reversible; SOCl₂ by-products (SO₂, HCl) are gases; In reactions: SO₃ attacks benzene (H9). SOCl₂ turns –OH into –Cl and leaves nothing behind (O3, C9). In C₆H₅SO₂Cl it is the target the amine's nitrogen attacks (A4).; Never: Never leaves solid or liquid by-products in a SOCl₂ reaction."
+  },
+  {
+   "id": "Q10",
+   "tab": "quirks",
+   "section": "Atoms",
+   "name": "Phosphorus",
+   "text": "Character: Phosphorus; Core quirk: The converter behind the scenes. Swaps –OH for halogen, and as red phosphorus quietly makes the reagent itself.; Encodes: PCl₅, PCl₃; red P + X₂ → PX₃ in situ; In reactions: PCl₅/PCl₃ replace –OH by –Cl in alcohols and acids (O3, C9). Red P + Br₂ runs HVZ α-halogenation (C9).; Never: Never converts phenol to chlorobenzene in good yield."
+  },
+  {
+   "id": "Q11",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Carbon, sp³",
+   "text": "Character: Carbon, sp³; Core quirk: Relaxed. Spreads four arms evenly in all directions.; Encodes: Tetrahedral, 109°28′, 25% s-character; In reactions: Alkanes and alkyl groups; its C–H is the calmest (pKa ~50).; Never: Never gives up an H to sodium."
+  },
+  {
+   "id": "Q12",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Carbon, sp²",
+   "text": "Character: Carbon, sp²; Core quirk: Alert and flat. Holds three partners in a plane, keeps a loose π pair above and below.; Encodes: Trigonal planar, 120°, 33% s; In reactions: Alkenes, C=O carbon, benzene ring, carbocations."
+  },
+  {
+   "id": "Q13",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Carbon, sp",
+   "text": "Character: Carbon, sp; Core quirk: Strict and straight. Holds electrons tightly, so its H is the most nervous of the hydrocarbon H atoms.; Encodes: Linear, 180°, 50% s; most electronegative carbon; In reactions: Terminal alkyne H leaves to NaNH₂, Na, Ag⁺, Cu⁺ (H7)."
+  },
+  {
+   "id": "Q14",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Carbocation",
+   "text": "Character: Carbocation; Core quirk: Insecure and flat. Has lost a partner and its electrons; needs supporters around it. Will rearrange itself (shift an H or CH₃ from next door) to get better support. Open from both faces.; Encodes: 6 electrons, sp², planar; stability 3° > 2° > 1° > CH₃⁺; benzylic and allylic extra stable by resonance; 1,2-shifts; In reactions: Forms in HBr addition (H2), SN1 (X2), dehydration (O2), Lucas test (O3), acid hydration (O5). The more alkyl supporters (+I, hyperconjugation), the calmer it is. Attacked from either face, so SN1 at a chiral carbon gives both mirror images (racemisation).; Never: Never keeps its old 3D shape. Never forms easily at a 1° or methyl carbon."
+  },
+  {
+   "id": "Q15",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Carbanion",
+   "text": "Character: Carbanion; Core quirk: Pushy. Has an extra pair of electrons to give away. Prefers fewer alkyl neighbours (they push even more electrons onto it).; Encodes: 8 electrons, pyramidal; stability CH₃⁻ > 1° > 2° > 3°; In reactions: Acetylide (H7), the carbon of RMgX (X6, C2), enolate in aldol and haloform (C5, C6). Acts as a nucleophile and a strong base.; Never: Never survives water or any acidic H."
+  },
+  {
+   "id": "Q16",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Free radical",
+   "text": "Character: Free radical; Core quirk: Lonely. One unpaired electron; grabs an H or atom from anyone and leaves a new loner behind, so the story keeps going (chain).; Encodes: 7 electrons; stability 3° > 2° > 1° > CH₃•; initiation, propagation, termination; In reactions: Cl• and CH₃• in halogenation (H1); Br• with peroxide (H3); R• coupling in Kolbe electrolysis (H10). The story ends only when two loners meet (termination; CH₃• + CH₃• explains ethane traces).; Never: Never appears without light, heat, peroxide or electrolysis (Kolbe) to start it."
+  },
+  {
+   "id": "Q17",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Arenium ion (σ-complex)",
+   "text": "Character: Arenium ion (σ-complex); Core quirk: The temporarily broken family. Has let a newcomer in and lost its unity for a moment; desperate to restore it.; Encodes: One sp³ carbon; positive charge delocalised; loss of H⁺ restores aromaticity; In reactions: Middle step of every electrophilic substitution (H9): always throws out H⁺ from the carbon that accepted the newcomer.; Never: Never keeps the extra group as an addition product."
+  },
+  {
+   "id": "Q18",
+   "tab": "quirks",
+   "section": "Carbon's moods and the reactive intermediates",
+   "name": "Enolate",
+   "text": "Character: Enolate; Core quirk: Born restless. Forms when a base pulls the α-H off a carbonyl compound; immediately attacks another carbonyl.; Encodes: Resonance-stabilised carbanion; nucleophile; In reactions: Aldol condensation (C5); stepwise replacement of α-H by iodine in the haloform reaction (C6).; Never: Never forms from a compound without α-H (those go to Cannizzaro instead, C7)."
+  },
+  {
+   "id": "Q19",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Hydroxide ion (OH⁻)",
+   "text": "Character: Hydroxide ion (OH⁻); Core quirk: Two personalities, set by the crowd around it. In water it is an attacker; in alcohol it is a thief of β-hydrogens.; Encodes: Nucleophile when solvated by water; strong base in alcohol; In reactions: Aqueous KOH: attacks carbon (X1, X2). Alcoholic KOH: removes β-H, makes alkenes (X3). Dilute NaOH: removes α-H (aldol, C5). Concentrated NaOH: attacks C=O and triggers hydride transfer (Cannizzaro, C7). With I₂: removes α-H, then attacks C=O (C6).; Never: Never acts as a base for aldol on an aldehyde without α-H."
+  },
+  {
+   "id": "Q20",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Alkoxide (RO⁻)",
+   "text": "Character: Alkoxide (RO⁻); Core quirk: Strong and impatient. A powerful attacker, but if the target is crowded it gives up and steals an H instead.; Encodes: Strong nucleophile and strong base; In reactions: Williamson ether synthesis with a 1° halide (O7). With a 3° halide, elimination to an alkene. Formed when sodium meets an alcohol (O1).; Never: Never makes an ether from a 3° alkyl halide."
+  },
+  {
+   "id": "Q21",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Phenoxide ion",
+   "text": "Character: Phenoxide ion; Core quirk: Richer and bolder than phenol. Its negative charge floods the ring, so it attacks even weak electrophiles, always at ortho or para.; Encodes: O⁻ is a stronger +R donor than –OH; In reactions: Attacks CO₂ (Kolbe's reaction, P5) and dichlorocarbene (Reimer–Tiemann, P4) at ortho. Couples with diazonium ions at para (alkaline medium, A7). Attacks alkyl halides on oxygen (aryl ethers, O7).; Never: Never attacks with its ring carbon at meta."
+  },
+  {
+   "id": "Q22",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Cyanide ion (CN⁻)",
+   "text": "Character: Cyanide ion (CN⁻); Core quirk: Two-faced (ambident). Can attack with carbon or with nitrogen; the partner it arrives with decides. Brings one extra carbon.; Encodes: Ambident nucleophile; KCN ionic, AgCN covalent; In reactions: With K⁺: attacks with C → nitrile (X5). With Ag⁺: only N is free → isocyanide. Adds to C=O (HCN, cyanohydrin, C1). From CuCN replaces N₂ (A6).; Never: Never gives isocyanide from KCN, or nitrile from AgCN."
+  },
+  {
+   "id": "Q23",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Nitrite ion (NO₂⁻)",
+   "text": "Character: Nitrite ion (NO₂⁻); Core quirk: Two-faced too. O or N attacks, depending on the partner.; Encodes: Ambident; In reactions: KNO₂ → O attacks → alkyl nitrite R–O–N=O. AgNO₂ → N attacks → nitroalkane R–NO₂ (X5)."
+  },
+  {
+   "id": "Q24",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Hydride ion (H⁻), from LiAlH₄/NaBH₄",
+   "text": "Character: Hydride ion (H⁻), from LiAlH₄/NaBH₄; Core quirk: The gift-giver. Always delivers a pair of electrons with a hydrogen to an exposed carbon.; Encodes: Nucleophilic H; In reactions: Adds to the carbonyl carbon (C3); see LiAlH₄ and NaBH₄ for who reduces what.; Never: Never adds to an isolated C=C."
+  },
+  {
+   "id": "Q25",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Proton (H⁺)",
+   "text": "Character: Proton (H⁺); Core quirk: The desperate first-mover. Owns nothing, wants electrons, always strikes first.; Encodes: Electrophile; acid catalyst; In reactions: First step of HBr addition (H2), acid hydration (O5), dehydration (O2), esterification (O6), ether cleavage (O8)."
+  },
+  {
+   "id": "Q26",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Nitronium ion (NO₂⁺)",
+   "text": "Character: Nitronium ion (NO₂⁺); Core quirk: Made in the acid mix, born to attack rings.; Encodes: Generated by HNO₃ + 2H₂SO₄; In reactions: Electrophile in nitration (H9).; Never: Never appears without concentrated sulphuric acid in the story."
+  },
+  {
+   "id": "Q27",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Nitrosonium ion (NO⁺)",
+   "text": "Character: Nitrosonium ion (NO⁺); Core quirk: The diazotiser. Appears only from cold nitrous acid.; Encodes: From NaNO₂ + HCl; In reactions: Attacked by the nitrogen of a 1° amine (A5)."
+  },
+  {
+   "id": "Q28",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Dichlorocarbene (:CCl₂)",
+   "text": "Character: Dichlorocarbene (:CCl₂); Core quirk: Appears only when chloroform meets strong base. Electron-hungry, neutral.; Encodes: Formed from CHCl₃ + OH⁻; In reactions: Turns 1° amines into isocyanides (carbylamine, A3). Attacks phenoxide at ortho, giving –CHO after hydrolysis (P4).; Never: Never reacts with 2° or 3° amines to give isocyanide."
+  },
+  {
+   "id": "Q29",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Acylium ion (RCO⁺)",
+   "text": "Character: Acylium ion (RCO⁺); Core quirk: The precise attacker in acylation.; Encodes: Formed from RCOCl + AlCl₃; In reactions: Friedel–Crafts acylation (H9, C8)."
+  },
+  {
+   "id": "Q30",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Diazonium ion (ArN₂⁺)",
+   "text": "Character: Diazonium ion (ArN₂⁺); Core quirk: Lives only in the cold, with an exit always ready. Its N₂ leaves as gas and anyone can take its seat; as an attacker it is weak and only couples with very rich rings.; Encodes: Stable at 273–278 K (aromatic only); N₂ a perfect leaving group; weak electrophile; In reactions: Replaced by Cl, Br, CN (Cu(I) salts), I (KI), F (HBF₄, heat), H (H₃PO₂ or ethanol), OH (warm water) (A6). Couples at para with phenoxide (alkaline) or aniline (mildly acidic) to give azo dyes (A7).; Never: Never survives warming in water (becomes phenol). Never exists as an aliphatic salt in a story: it decomposes at once."
+  },
+  {
+   "id": "Q31",
+   "tab": "quirks",
+   "section": "Attackers, ions and leaving groups",
+   "name": "Leaving groups",
+   "text": "Character: Leaving groups; Core quirk: Their willingness to leave sets the speed of substitution.; Encodes: Stability of the departing anion; C–X strength; In reactions: I⁻ leaves most easily, then Br⁻, Cl⁻; F⁻ barely leaves. –OH leaves only after protonation (as H₂O). N₂ is the best of all. –CI₃ leaves in the haloform reaction (C6).; Never: –OH never leaves unprotonated."
+  },
+  {
+   "id": "Q32",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–OH (phenol)",
+   "text": "Group on the ring: –OH (phenol); Seating quirk: Warm host. Pulls newcomers into the seats beside and opposite it. So welcoming that in a polar crowd (bromine water) it fills all three seats.; Activity: Strongly activating; Encodes: +R lone pair into ring; In reactions / special behaviour: Bromine water → 2,4,6-tribromophenol; Br₂ in CS₂, cold → one newcomer, o or p (P2). Dilute HNO₃ → o- and p-nitrophenol; conc. HNO₃ → picric acid (P3). The ortho product keeps a private hydrogen bond, so it is steam volatile.; Never: Never sends a newcomer to meta. Never needs a Lewis acid."
+  },
+  {
+   "id": "Q33",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–O⁻ (phenoxide)",
+   "text": "Group on the ring: –O⁻ (phenoxide); Seating quirk: Warmer host than –OH. Welcomes even weak guests.; Activity: Very strongly activating; Encodes: Full negative charge; In reactions / special behaviour: Kolbe's (CO₂) and Reimer–Tiemann (:CCl₂) at ortho (P4, P5); azo coupling at para (A7)."
+  },
+  {
+   "id": "Q34",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–NH₂ (aniline)",
+   "text": "Group on the ring: –NH₂ (aniline); Seating quirk: The warmest host, but nervous in acid. Fills 2,4,6 with bromine water. In acid it turns into –NH₃⁺, a germophobe.; Activity: Strongly activating; Encodes: +R; basic N; In reactions / special behaviour: Bromine water → 2,4,6-tribromoaniline (A8). Nitration in acid → about 51% para, 47% meta, 2% ortho. Handcuffs AlCl₃, so no Friedel–Crafts. Tamed by acetylation into –NHCOCH₃.; Never: Never does Friedel–Crafts. Never gives a clean mononitro product directly."
+  },
+  {
+   "id": "Q35",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–NHCOCH₃ (acetanilide)",
+   "text": "Group on the ring: –NHCOCH₃ (acetanilide); Seating quirk: Polite host. Same seats as –NH₂ but calmer: lets in one newcomer, mostly at para.; Activity: Moderately activating; Encodes: N lone pair shared with C=O; In reactions / special behaviour: Used to get p-bromoaniline (bromination, then hydrolysis back to –NH₂) (A8)."
+  },
+  {
+   "id": "Q36",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–OCH₃ (anisole)",
+   "text": "Group on the ring: –OCH₃ (anisole); Seating quirk: Host. o/p.; Activity: Activating; Encodes: +R; In reactions / special behaviour: o/p substitution; with HI it stays on the ring and loses only CH₃ (O8).; Never: Never leaves the ring as I–C₆H₅."
+  },
+  {
+   "id": "Q37",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–CH₃ and other alkyl groups",
+   "text": "Group on the ring: –CH₃ and other alkyl groups; Seating quirk: Mild host with a weak spot. Sends newcomers o/p, but its own benzylic hydrogens are vulnerable to oxidisers and to chlorine in light.; Activity: Weakly activating; Encodes: +I and hyperconjugation; benzylic C–H; In reactions / special behaviour: Cl₂ + FeCl₃ → ring; Cl₂ in sunlight → side chain (benzyl chloride). KMnO₄ turns it into –COOH (becomes a germophobe). CrO₂Cl₂ turns it into –CHO (Étard, C8).; Never: A tert-butyl group (no benzylic H) is never oxidised by KMnO₄."
+  },
+  {
+   "id": "Q38",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–Cl, –Br, –I (haloarene)",
+   "text": "Group on the ring: –Cl, –Br, –I (haloarene); Seating quirk: Grumpy but polite. Slows the whole party down, yet still offers the ortho and para seats. Stubborn about leaving the ring itself.; Activity: Deactivating; Encodes: −I outweighs +R for rate; +R decides position; In reactions / special behaviour: o/p products in halogenation, nitration, sulphonation, Friedel–Crafts (X7).; Never: Never sends newcomers to meta. Never leaves the ring easily (needs 623 K, 300 atm, or an –NO₂ at o/p)."
+  },
+  {
+   "id": "Q39",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–NO₂",
+   "text": "Group on the ring: –NO₂; Seating quirk: Strict germophobe. Won't let anyone sit next to it or opposite it: newcomers get only the meta seats. Drains the ring, so electrophiles come slowly. But it helps nucleophiles: a halogen at o/p to it leaves easily.; Activity: Strongly deactivating; Encodes: −R and −I; In reactions / special behaviour: Meta products (Conversions 7, 12). Raises acidity of phenol when at o/p (P1). Makes o/p-nitrohaloarenes easy to substitute (X7). Sn/HCl or Fe/HCl turns it into –NH₂, a warm host (A9).; Never: Never allows Friedel–Crafts on its ring. Never directs o/p."
+  },
+  {
+   "id": "Q40",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–CHO, –COR",
+   "text": "Group on the ring: –CHO, –COR; Seating quirk: Germophobes. Meta only.; Activity: Deactivating; Encodes: −R, −I; In reactions / special behaviour: Meta substitution on benzaldehyde and acetophenone.; Never: Never direct o/p."
+  },
+  {
+   "id": "Q41",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–COOH",
+   "text": "Group on the ring: –COOH; Seating quirk: Germophobe that also handcuffs AlCl₃. Meta only.; Activity: Deactivating; Encodes: −R, −I; binds the Lewis acid; In reactions / special behaviour: Nitration → m-nitrobenzoic acid (Conversions 12).; Never: Never undergoes Friedel–Crafts (C9)."
+  },
+  {
+   "id": "Q42",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–CN, –SO₃H",
+   "text": "Group on the ring: –CN, –SO₃H; Seating quirk: Germophobes. –SO₃H is a temporary guest: sulphonation can be reversed.; Activity: Deactivating; Encodes: −R, −I; In reactions / special behaviour: Meta substitution.; Never: Never direct o/p."
+  },
+  {
+   "id": "Q43",
+   "tab": "quirks",
+   "section": "The benzene ring and the seating rules",
+   "name": "–NH₃⁺ (anilinium)",
+   "text": "Group on the ring: –NH₃⁺ (anilinium); Seating quirk: Germophobe: what –NH₂ becomes in strong acid.; Activity: Deactivating; Encodes: Positive charge, no free lone pair; In reactions / special behaviour: Explains the 47% meta product in nitration of aniline (A8)."
+  },
+  {
+   "id": "Q44",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–NO₂",
+   "text": "From: –NO₂; Reagent: Sn/HCl or Fe/HCl; To: –NH₂; Quirk change: Germophobe → warmest host"
+  },
+  {
+   "id": "Q45",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–CH₃",
+   "text": "From: –CH₃; Reagent: KMnO₄, then H⁺; To: –COOH; Quirk change: Mild host → germophobe"
+  },
+  {
+   "id": "Q46",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–CH₃",
+   "text": "From: –CH₃; Reagent: CrO₂Cl₂, then H₃O⁺; To: –CHO; Quirk change: Mild host → germophobe"
+  },
+  {
+   "id": "Q47",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–NH₂",
+   "text": "From: –NH₂; Reagent: Strong acid; To: –NH₃⁺; Quirk change: Warmest host → germophobe"
+  },
+  {
+   "id": "Q48",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–NH₂",
+   "text": "From: –NH₂; Reagent: Acetic anhydride; To: –NHCOCH₃; Quirk change: Loud host → polite host"
+  },
+  {
+   "id": "Q49",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–NH₂",
+   "text": "From: –NH₂; Reagent: NaNO₂/HCl (cold), then H₃PO₂; To: –H; Quirk change: Host leaves after directing (temporary director)"
+  },
+  {
+   "id": "Q50",
+   "tab": "quirks",
+   "section": "Transformations that change a group's seating quirk",
+   "name": "–NH₂",
+   "text": "From: –NH₂; Reagent: NaNO₂/HCl (cold), then CuX, KI, H₂O; To: –X, –CN, –I, –OH; Quirk change: Host becomes whatever replaces N₂"
+  },
+  {
+   "id": "Q51",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Alkane",
+   "text": "Character: Alkane; Core quirk: Lazy. Ignores almost everyone; wakes up only for radicals with light or heat.; Encodes: Strong, non-polar C–C and C–H bonds; In reactions: Radical halogenation (H1). Made by Wurtz, decarboxylation, Kolbe, hydrogenation (H10).; Never: Never reacts with Br₂ water, KMnO₄, Na or acids under normal conditions."
+  },
+  {
+   "id": "Q52",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Alkene (C=C)",
+   "text": "Character: Alkene (C=C); Core quirk: Generous with its loose π pair. Reaches out to any electrophile; always follows the crowd rule: H goes where H's already are.; Encodes: π electrons; Markovnikov; In reactions: Electrophilic additions: HX (H2), Br₂ (H4), H₂O/H⁺ (O5). Reverses only for HBr + peroxide (H3) or with B₂H₆ (O5). Cold Baeyer's reagent makes a diol; hot KMnO₄ and ozone split it in two (H8). Its tells: decolourises Br₂/CCl₄ and pink KMnO₄.; Never: Never gives anti-Markovnikov HCl or HI addition."
+  },
+  {
+   "id": "Q53",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Terminal alkyne (≡C–H)",
+   "text": "Character: Terminal alkyne (≡C–H); Core quirk: Has a nervous hydrogen. Gives it up to strong bases and to silver or copper ions.; Encodes: sp C–H acidic (pKa ~25); In reactions: NaNH₂/Na → acetylide (H7); ammoniacal AgNO₃ → white ppt, ammoniacal Cu₂Cl₂ → red ppt. Hydration: ethyne → acetaldehyde, others → ketones (H5). Lindlar → cis-alkene; Na/liq. NH₃ → trans-alkene (H6). Three ethynes in a red-hot iron tube → benzene.; Never: Never gives an acetylide if internal (no ≡C–H)."
+  },
+  {
+   "id": "Q54",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "1° haloalkane",
+   "text": "Character: 1° haloalkane; Core quirk: Open to a backside attack. Uncrowded, so attackers come from behind.; Encodes: SN2 favoured; In reactions: Substitution (X1), Williamson partner (O7), Gabriel partner (A2).; Never: Never goes by SN1 (1° carbocation too unstable)."
+  },
+  {
+   "id": "Q55",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "3° haloalkane",
+   "text": "Character: 3° haloalkane; Core quirk: Crowded and self-leaving. Halogen walks out on its own (SN1); with a strong base the molecule eliminates.; Encodes: SN1 and elimination favoured; In reactions: SN1 in water (X2); alc. KOH → alkene (X3); alkoxide → alkene instead of ether (O7).; Never: Never undergoes SN2."
+  },
+  {
+   "id": "Q56",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Allylic and benzylic halides",
+   "text": "Character: Allylic and benzylic halides; Core quirk: Fast leavers. Their carbocation is supported by resonance.; Encodes: Resonance-stabilised carbocation; In reactions: Very fast SN1."
+  },
+  {
+   "id": "Q57",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Haloarene",
+   "text": "Character: Haloarene; Core quirk: Stubborn. Its halogen is half-married to the ring.; Encodes: C–X partial double-bond character; sp² C; In reactions: Leaves only at 623 K, 300 atm (Dow), or easily when –NO₂ sits at o/p (X7). Wurtz–Fittig, Fittig with Na.; Never: Never undergoes ordinary SN1/SN2. Never used as the electrophile in Gabriel or Williamson."
+  },
+  {
+   "id": "Q58",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "1° alcohol",
+   "text": "Character: 1° alcohol; Core quirk: Patient. Slow in the Lucas test; oxidises in two stages.; Encodes: Unstable 1° carbocation; two H on carbinol carbon; In reactions: Lucas: no turbidity at room temperature (O3). PCC → aldehyde; K₂Cr₂O₇/KMnO₄ → acid; Cu 573 K → aldehyde (O4). Most acidic alcohol class (O1).; Never: Never turbid in Lucas at room temperature."
+  },
+  {
+   "id": "Q59",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "2° alcohol",
+   "text": "Character: 2° alcohol; Core quirk: In between.; Encodes: One H on carbinol carbon; In reactions: Lucas: turbid within about 5 minutes. Oxidised to a ketone; Cu 573 K → ketone.; Never: Never oxidised to a carboxylic acid with the same carbons."
+  },
+  {
+   "id": "Q60",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "3° alcohol",
+   "text": "Character: 3° alcohol; Core quirk: Quick to lose its –OH, refuses oxidation.; Encodes: Stable 3° carbocation; no H on carbinol carbon; In reactions: Lucas: turbid at once. Easiest to dehydrate (O2). Cu 573 K → alkene, not a carbonyl.; Never: Never oxidised by K₂Cr₂O₇."
+  },
+  {
+   "id": "Q61",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Phenol",
+   "text": "Character: Phenol; Core quirk: Acid with limits. Stronger than alcohols, too weak for bicarbonate; its oxygen never lets go of the ring.; Encodes: Phenoxide resonance; strong C–O; In reactions: Reacts with NaOH, not NaHCO₃ (P1). Violet with neutral FeCl₃. Zn dust → benzene. Warm host for substitution (see seating rules).; Never: Never gives chlorobenzene with HCl. Never fizzes with NaHCO₃."
+  },
+  {
+   "id": "Q62",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Ether",
+   "text": "Character: Ether; Core quirk: Quiet and unreactive, cracked only by HI.; Encodes: No O–H; C–O–C stable; In reactions: HI: I⁻ attacks the smaller alkyl group (SN2); a 3° group leaves by SN1. Aryl–O stays intact (O8).; Never: Never releases H₂ with Na."
+  },
+  {
+   "id": "Q63",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Aldehyde",
+   "text": "Character: Aldehyde; Core quirk: Approachable and easy to oxidise. One alkyl guard, and a C–H on the carbonyl carbon that any oxidiser can take.; Encodes: Less steric/+I than ketones; oxidisable C–H; In reactions: Nucleophilic addition (C1). Tollens' positive (all aldehydes); Fehling's positive (aliphatic only) (C4). With α-H: aldol (C5). Without α-H: Cannizzaro (C7).; Never: Aromatic aldehydes never pass Fehling's."
+  },
+  {
+   "id": "Q64",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Formaldehyde (HCHO)",
+   "text": "Character: Formaldehyde (HCHO); Core quirk: The most reactive carbonyl, and always the one sacrificed.; Encodes: No alkyl group; no α-H; In reactions: Most reactive in addition (C1). Grignard + HCHO → 1° alcohol (C2). In crossed Cannizzaro HCHO is always oxidised to formate (C7).; Never: Never gives iodoform. Never undergoes aldol as the enolate partner."
+  },
+  {
+   "id": "Q65",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Ketone",
+   "text": "Character: Ketone; Core quirk: Guarded by two alkyl groups. Harder to approach; refuses mild oxidisers.; Encodes: Steric and +I hindrance; no carbonyl C–H; In reactions: Addition slower than aldehydes. Grignard → 3° alcohol. CH₃CO– ketones give iodoform (C6). Clemmensen/Wolff–Kishner → CH₂.; Never: Never passes Tollens' or Fehling's."
+  },
+  {
+   "id": "Q66",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Carboxylic acid",
+   "text": "Character: Carboxylic acid; Core quirk: The proudest acid. Its C=O is busy in resonance, so it ignores the carbonyl tests. Fizzes with bicarbonate.; Encodes: Resonance-stabilised carboxylate; In reactions: NaHCO₃ → CO₂ (C9). SOCl₂/PCl₅ → acid chloride. Esterification: loses its –OH (O6). HVZ at α-carbon. Decarboxylation with sodalime (−1 C). LiAlH₄/B₂H₆ → 1° alcohol. Acidity rises with −I groups.; Never: Never reduced by NaBH₄. Never gives 2,4-DNP or Tollens'."
+  },
+  {
+   "id": "Q67",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Acid chloride",
+   "text": "Character: Acid chloride; Core quirk: Eager to swap its Cl.; Encodes: Good leaving group next to C=O; In reactions: NH₃ → amide; H₂/Pd–BaSO₄ → aldehyde (C8); acylating agent (Friedel–Crafts, acetylation of aniline)."
+  },
+  {
+   "id": "Q68",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Amide",
+   "text": "Character: Amide; Core quirk: Its nitrogen is spoken for. Lone pair shared with C=O, so nearly neutral; N–H slightly acidic.; Encodes: Resonance with C=O; In reactions: Br₂/NaOH → amine with one carbon fewer (A1). LiAlH₄ → amine with the same carbons (A9). P₂O₅ → nitrile.; Never: Never basic like an amine."
+  },
+  {
+   "id": "Q69",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Nitrile",
+   "text": "Character: Nitrile; Core quirk: The universal converter.; Encodes: C≡N can be hydrolysed, reduced or attacked; In reactions: H₃O⁺ → acid; LiAlH₄ or H₂/Ni → 1° amine; SnCl₂/HCl → aldehyde (Stephen); RMgX → ketone (C2, C8)."
+  },
+  {
+   "id": "Q70",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "1° amine",
+   "text": "Character: 1° amine; Core quirk: Two hydrogens on nitrogen decide its tests.; Encodes: Two N–H; In reactions: Carbylamine positive (A3). Hinsberg product dissolves in alkali (A4). HNO₂: aliphatic → alcohol + N₂; aromatic (cold) → diazonium (A5).; Never: 2° and 3° amines never give carbylamine."
+  },
+  {
+   "id": "Q71",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "2° amine",
+   "text": "Character: 2° amine; Core quirk: One N–H.; Encodes: One N–H; In reactions: Hinsberg product insoluble in alkali. Most basic in water among methyl and ethyl amines."
+  },
+  {
+   "id": "Q72",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "3° amine",
+   "text": "Character: 3° amine; Core quirk: No N–H.; Encodes: No N–H; In reactions: No Hinsberg reaction. Lower boiling point than 1°/2° (no H-bonding).; Never: Never reacts with Hinsberg's reagent."
+  },
+  {
+   "id": "Q73",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Aniline",
+   "text": "Character: Aniline; Core quirk: A host on the ring, a weak base off it.; Encodes: Lone pair delocalised into ring; In reactions: Weaker base than NH₃ and alkylamines. See –NH₂ in seating rules.; Never: Never does Friedel–Crafts."
+  },
+  {
+   "id": "Q74",
+   "tab": "quirks",
+   "section": "Functional groups and compound classes",
+   "name": "Grignard reagent (RMgX)",
+   "text": "Character: Grignard reagent (RMgX); Core quirk: Aggressive but terrified of water. Its carbon is pushy (carbanion-like); any acidic H destroys it.; Encodes: C–Mg polar, C δ−; In reactions: HCHO → 1°, RCHO → 2°, ketone → 3° alcohol; CO₂ → acid; nitrile → ketone (C2). Water, alcohol, amine, terminal alkyne → alkane (X6).; Never: Never made or used outside dry ether."
+  },
+  {
+   "id": "Q75",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Sodium",
+   "text": "Character: Sodium; Core quirk: Hothead and giver. Gives away its one electron instantly; explodes into action on contact with water, releasing flammable hydrogen. Kept locked in kerosene.; Encodes: Low ionisation energy; violently exothermic with water; In reactions: Releases H₂ from acidic H: alcohols (O1), terminal alkynes (H7). Joins two alkyl groups (Wurtz, Fittig, H10, X7). In liquid NH₃ makes trans-alkenes (H6). Sodium fusion turns N, S, X into ions for testing.; Never: Never kept in water or air. Never releases H₂ from alkanes or alkenes."
+  },
+  {
+   "id": "Q76",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Potassium",
+   "text": "Character: Potassium; Core quirk: Bigger hothead than sodium.; Encodes: Even lower ionisation energy; In reactions: Same as sodium, more violent. Mostly appears as K⁺ partner: decides whether OH⁻ attacks or steals (aq. vs alc. KOH, X3), whether CN⁻ and NO₂⁻ attack with C/O (X5)."
+  },
+  {
+   "id": "Q77",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Magnesium",
+   "text": "Character: Magnesium; Core quirk: Makes carbon pushy. Slips between carbon and halogen, turning the carbon into an attacker.; Encodes: Mg less electronegative than C; In reactions: Forms RMgX in dry ether (X6).; Never: Never works in wet solvent."
+  },
+  {
+   "id": "Q78",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Lithium aluminium hydride (LiAlH₄)",
+   "text": "Character: Lithium aluminium hydride (LiAlH₄); Core quirk: The generous reducer. Gives hydride to almost any C=O or C≡N.; Encodes: Strong hydride donor; In reactions: Aldehydes, ketones, acids, esters → alcohols; amides, nitriles → amines (C3, A9).; Never: Never reduces an isolated C=C."
+  },
+  {
+   "id": "Q79",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Sodium borohydride (NaBH₄)",
+   "text": "Character: Sodium borohydride (NaBH₄); Core quirk: The selective reducer. Only aldehydes and ketones.; Encodes: Milder hydride donor; In reactions: Aldehyde → 1° alcohol; ketone → 2° alcohol (C3).; Never: Never reduces acids or esters."
+  },
+  {
+   "id": "Q80",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Diborane (B₂H₆)",
+   "text": "Character: Diborane (B₂H₆); Core quirk: Electron-hungry but polite. Sits on the less crowded carbon of a double bond and leaves the crowded one to hydrogen.; Encodes: Electron-deficient boron; In reactions: Hydroboration–oxidation → anti-Markovnikov alcohol (O5). Reduces acids to 1° alcohols.; Never: Never gives the Markovnikov alcohol."
+  },
+  {
+   "id": "Q81",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Aluminium chloride (anhydrous AlCl₃)",
+   "text": "Character: Aluminium chloride (anhydrous AlCl₃); Core quirk: The matchmaker. Creates the attacker (R⁺, RCO⁺, Cl⁺) and walks away unchanged. Refuses rings that are too poor or that handcuff it.; Encodes: Lewis acid, regenerated; In reactions: Friedel–Crafts alkylation and acylation; chlorination of benzene (H9); Gattermann–Koch (C8).; Never: Never works on nitrobenzene, benzoic acid or aniline. Never works wet."
+  },
+  {
+   "id": "Q82",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Ferric chloride / bromide (FeCl₃, FeBr₃)",
+   "text": "Character: Ferric chloride / bromide (FeCl₃, FeBr₃); Core quirk: Junior matchmaker for halogenation. As a test reagent, turns phenols violet.; Encodes: Lewis acid; complex with phenols; In reactions: Halogenation of benzene (H9). Neutral FeCl₃ test for phenol (P6)."
+  },
+  {
+   "id": "Q83",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Zinc",
+   "text": "Character: Zinc; Core quirk: The quiet cleaner. Removes oxygen or unwanted oxidiser without fuss.; Encodes: Reducing metal; In reactions: Zn–Hg/HCl: C=O → CH₂ (Clemmensen, C3). Zn/H₂O destroys H₂O₂ after ozonolysis (H8). Zn dust strips O from phenol → benzene. ZnCl₂ helps –OH leave in the Lucas test (O3)."
+  },
+  {
+   "id": "Q84",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Tin (Sn/HCl, SnCl₂)",
+   "text": "Character: Tin (Sn/HCl, SnCl₂); Core quirk: The acid-loving reducer.; Encodes: Reducing metal in acid; In reactions: Sn/HCl: –NO₂ → –NH₂ (A9). SnCl₂/HCl: nitrile → aldehyde (Stephen, C8)."
+  },
+  {
+   "id": "Q85",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Iron (Fe/HCl)",
+   "text": "Character: Iron (Fe/HCl); Core quirk: The frugal reducer. Needs little acid because it regenerates its own HCl.; Encodes: FeCl₂ hydrolyses, releasing HCl; In reactions: –NO₂ → –NH₂ (preferred method, A9). Red-hot iron tube (873 K) turns three ethynes into benzene."
+  },
+  {
+   "id": "Q86",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Copper",
+   "text": "Character: Copper; Core quirk: The fixer. As metal at 573 K, strips hydrogen from alcohols; as Cu(I), replaces the diazonium's N₂; as Cu²⁺ in Fehling's, a fussy judge of aldehydes.; Encodes: Dehydrogenation catalyst; Cu(I) mediates replacement; Cu²⁺ mild oxidant; In reactions: Cu 573 K: 1° → aldehyde, 2° → ketone, 3° → alkene (O4). CuCl, CuBr, CuCN (Sandmeyer); Cu powder (Gattermann) (A6). Fehling's: red Cu₂O with aliphatic aldehydes (C4). Ammoniacal Cu₂Cl₂: red precipitate with terminal alkynes.; Never: Fehling's never passes benzaldehyde or ketones."
+  },
+  {
+   "id": "Q87",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Silver",
+   "text": "Character: Silver; Core quirk: The generous judge (Tollens') and the covalent clinger (AgCN, AgNO₂).; Encodes: Ag⁺ mild oxidant; Ag–C/Ag–N bonds largely covalent; In reactions: Tollens': silver mirror with every aldehyde, aromatic too (C4). AgCN → isocyanide, AgNO₂ → nitroalkane (X5). AgF → alkyl fluoride (X4). AgNO₃ tests halide ions (white, pale yellow, yellow). Ammoniacal AgNO₃: white precipitate with terminal alkynes.; Never: Tollens' never passes ketones. Alkyl halides never give a direct AgNO₃ precipitate."
+  },
+  {
+   "id": "Q88",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Mercury (Hg²⁺)",
+   "text": "Character: Mercury (Hg²⁺); Core quirk: The hydration sponsor. Without it, water and an alkyne ignore each other.; Encodes: Hg²⁺ catalyses alkyne hydration; In reactions: Alkyne + H₂O → aldehyde (ethyne only) or ketone (H5). Zn–Hg amalgam in Clemmensen. Hg₂F₂ in Swarts."
+  },
+  {
+   "id": "Q89",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Platinum, palladium",
+   "text": "Character: Platinum, palladium; Core quirk: Effortless hydrogenators. Work at room temperature.; Encodes: Finely divided metal catalysts; In reactions: Alkenes, alkynes → alkanes (H6)."
+  },
+  {
+   "id": "Q90",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Nickel",
+   "text": "Character: Nickel; Core quirk: Hydrogenator that needs heat (523–573 K).; Encodes: Catalyst; In reactions: Alkenes, alkynes → alkanes; nitriles → amines; C=O → alcohols."
+  },
+  {
+   "id": "Q91",
+   "tab": "quirks",
+   "section": "Metal reagents, hydrides and catalysts",
+   "name": "Poisoned palladium (Lindlar; Pd/BaSO₄)",
+   "text": "Character: Poisoned palladium (Lindlar; Pd/BaSO₄); Core quirk: Tired on purpose. Stops halfway.; Encodes: Catalyst deactivated by S compounds, quinoline or BaSO₄; In reactions: Lindlar: alkyne → cis-alkene (H6). Pd/BaSO₄: acid chloride → aldehyde (Rosenmund, C8).; Never: Never reduces all the way to alkane or alcohol."
+  },
+  {
+   "id": "Q92",
+   "tab": "quirks",
+   "section": "Oxidisers",
+   "name": "Potassium permanganate (KMnO₄)",
+   "text": "Character: Potassium permanganate (KMnO₄); Core quirk: Two tempers. Cold, dilute and alkaline, it is gentle: adds two –OH across a double bond and its pink fades. Hot, it is a destroyer: splits C=C and chops any side chain with a benzylic H down to –COOH.; Encodes: Mn(VII), strong oxidant; In reactions: Baeyer's test (main tab, Mn). Hot: alkene → acids/ketones/CO₂; toluene, ethylbenzene, propylbenzene → benzoic acid. 1° alcohols, aldehydes → acids (O4).; Never: Never oxidises tert-butylbenzene. Never stops at an aldehyde."
+  },
+  {
+   "id": "Q93",
+   "tab": "quirks",
+   "section": "Oxidisers",
+   "name": "Potassium dichromate (acidified)",
+   "text": "Character: Potassium dichromate (acidified); Core quirk: The strict examiner. Oxidises 1° and 2° alcohols, refuses 3°; turns from orange to green when it works.; Encodes: Cr(VI) → Cr(III); needs an H on the carbinol carbon; In reactions: 1° → aldehyde → acid; 2° → ketone (O4).; Never: Never oxidises a 3° alcohol."
+  },
+  {
+   "id": "Q94",
+   "tab": "quirks",
+   "section": "Oxidisers",
+   "name": "PCC",
+   "text": "Character: PCC; Core quirk: The gentle examiner. Stops at the aldehyde.; Encodes: Mild Cr(VI) reagent; In reactions: 1° alcohol → aldehyde (O4).; Never: Never makes a carboxylic acid."
+  },
+  {
+   "id": "Q95",
+   "tab": "quirks",
+   "section": "Oxidisers",
+   "name": "Chromyl chloride (CrO₂Cl₂)",
+   "text": "Character: Chromyl chloride (CrO₂Cl₂); Core quirk: The precision tool. Turns a ring's –CH₃ into –CHO and nothing more.; Encodes: Étard reaction; In reactions: Toluene → benzaldehyde (C8).; Never: Never goes on to benzoic acid."
+  },
+  {
+   "id": "Q96",
+   "tab": "quirks",
+   "section": "Oxidisers",
+   "name": "Ozone (O₃)",
+   "text": "Character: Ozone (O₃); Core quirk: The cutter. Splits a double bond into two carbonyls, with Zn standing guard.; Encodes: Ozonide, then Zn/H₂O; In reactions: Locates C=C (H8)."
+  },
+  {
+   "id": "Q97",
+   "tab": "quirks",
+   "section": "Acids and bases",
+   "name": "Concentrated sulphuric acid",
+   "text": "Character: Concentrated sulphuric acid; Core quirk: Temperature decides its mood. A dehydrator, a catalyst and the maker of NO₂⁺.; Encodes: Dehydrating agent; strong acid; In reactions: Ethanol at 443 K → ethene; at 413 K → diethyl ether (O2). Catalyses esterification (O6). With HNO₃ makes NO₂⁺ (H9). Fuming: sulphonation."
+  },
+  {
+   "id": "Q98",
+   "tab": "quirks",
+   "section": "Acids and bases",
+   "name": "Nitric acid",
+   "text": "Character: Nitric acid; Core quirk: Dilute, it is polite; concentrated with H₂SO₄, it is fierce.; Encodes: Concentration sets the electrophile; In reactions: Dilute, 298 K: phenol → o- and p-nitrophenol. Conc.: phenol → picric acid (P3). Conc. + H₂SO₄: nitration of benzene (H9). Oxidising helper for iodination."
+  },
+  {
+   "id": "Q99",
+   "tab": "quirks",
+   "section": "Acids and bases",
+   "name": "Hydrogen halides (HX)",
+   "text": "Character: Hydrogen halides (HX); Core quirk: Rank by strength: HI > HBr > HCl.; Encodes: H–X bond strength and acidity; In reactions: Add to alkenes (H2); convert alcohols to halides (O3, ZnCl₂ needed for HCl). HI cracks ethers (O8). HBr alone has the peroxide switch (H3).; Never: HCl and HI never add anti-Markovnikov."
+  },
+  {
+   "id": "Q100",
+   "tab": "quirks",
+   "section": "Acids and bases",
+   "name": "Sodium hydroxide",
+   "text": "Character: Sodium hydroxide; Core quirk: Strength decides its role. Dilute: an α-H thief (aldol). Concentrated: an attacker that starts a hydride hand-off (Cannizzaro).; Encodes: Base vs nucleophile; In reactions: Aldol (C5), Cannizzaro (C7), haloform with I₂ (C6), Hofmann with Br₂ (A1), Reimer–Tiemann with CHCl₃ (P4). Turns phenol into phenoxide (P1). Sodalime (with CaO) decarboxylates (H10)."
+  },
+  {
+   "id": "Q101",
+   "tab": "quirks",
+   "section": "Acids and bases",
+   "name": "Sodamide (NaNH₂)",
+   "text": "Character: Sodamide (NaNH₂); Core quirk: Strong base for stubborn hydrogens.; Encodes: Stronger base than acetylide; In reactions: Terminal alkyne → acetylide (H7); second elimination to an alkyne."
+  },
+  {
+   "id": "Q102",
+   "tab": "quirks",
+   "section": "Acids and bases",
+   "name": "Sodium bicarbonate",
+   "text": "Character: Sodium bicarbonate; Core quirk: The acid detector. Fizzes only with acids stronger than carbonic acid.; Encodes: Weak base; In reactions: Carboxylic acids → CO₂ effervescence (C9).; Never: Never fizzes with phenol or alcohols."
+  },
+  {
+   "id": "Q103",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Bromine water",
+   "text": "Character: Bromine water; Core quirk: Floods a rich ring. Polar water makes Br₂ aggressive.; Encodes: Polar solvent polarises Br₂; In reactions: Phenol → 2,4,6-tribromophenol; aniline → 2,4,6-tribromoaniline (P2, A8).; Never: Never stops at one bromine on phenol or aniline."
+  },
+  {
+   "id": "Q104",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Br₂ in CS₂ (cold)",
+   "text": "Character: Br₂ in CS₂ (cold); Core quirk: Calm bromine. Non-polar solvent, one newcomer only.; Encodes: Weakly polarised Br₂; In reactions: Phenol → o- and p-bromophenol (P2)."
+  },
+  {
+   "id": "Q105",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Br₂ in CCl₄",
+   "text": "Character: Br₂ in CCl₄; Core quirk: The unsaturation detective. Red-brown colour vanishes on meeting C=C or C≡C.; Encodes: Electrophilic addition; In reactions: Test for unsaturation (H4).; Never: Never decolourises with an alkane or benzene."
+  },
+  {
+   "id": "Q106",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Iodine + NaOH",
+   "text": "Character: Iodine + NaOH; Core quirk: The CH₃CO– detector.; Encodes: Haloform reaction; In reactions: Yellow CHI₃ from CH₃CO– and CH₃CH(OH)– compounds (C6).; Never: Never positive with methanol, HCHO, propan-1-ol or pentan-3-one."
+  },
+  {
+   "id": "Q107",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Thionyl chloride, PCl₅, PCl₃",
+   "text": "Character: Thionyl chloride, PCl₅, PCl₃; Core quirk: Swap –OH for –Cl. SOCl₂ leaves no mess.; Encodes: Chlorinating agents; In reactions: Alcohols → alkyl chlorides (O3); acids → acid chlorides (C9)."
+  },
+  {
+   "id": "Q108",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "NaI in dry acetone",
+   "text": "Character: NaI in dry acetone; Core quirk: The swapper. Trades I for Cl or Br, pushed by its precipitating partner.; Encodes: NaCl/NaBr insoluble in acetone; In reactions: Finkelstein (X4).; Never: Never works in water (the salts would dissolve)."
+  },
+  {
+   "id": "Q109",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Chloroform (CHCl₃)",
+   "text": "Character: Chloroform (CHCl₃); Core quirk: Hides a carbene, released only by strong base. Turns to poisonous phosgene in light and air.; Encodes: :CCl₂ source; oxidation to COCl₂; In reactions: Carbylamine (A3), Reimer–Tiemann (P4). Stored dark and full (X8)."
+  },
+  {
+   "id": "Q110",
+   "tab": "quirks",
+   "section": "Halogenating agents",
+   "name": "Peroxide",
+   "text": "Character: Peroxide; Core quirk: The radical starter. Changes only one story: HBr addition.; Encodes: Weak O–O bond; In reactions: Anti-Markovnikov HBr addition (H3).; Never: Never changes HCl or HI addition."
+  },
+  {
+   "id": "Q111",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "HCN",
+   "text": "Character: HCN; Core quirk: Adds one carbon to a carbonyl, needs a little base to get going.; Encodes: CN⁻ nucleophile; In reactions: Cyanohydrins (C1)."
+  },
+  {
+   "id": "Q112",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "NaHSO₃",
+   "text": "Character: NaHSO₃; Core quirk: The purifier. Forms crystals with aldehydes and some ketones.; Encodes: Addition product; In reactions: C1."
+  },
+  {
+   "id": "Q113",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "NH₂OH, NH₂NH₂, 2,4-DNP",
+   "text": "Character: NH₂OH, NH₂NH₂, 2,4-DNP; Core quirk: Add, then drop water. 2,4-DNP gives an orange-red solid: the carbonyl detector.; Encodes: Addition–elimination; In reactions: Oximes, hydrazones, 2,4-DNP derivatives (C1). NH₂NH₂ + KOH → Wolff–Kishner (C3).; Never: Never react with carboxylic acids as carbonyls."
+  },
+  {
+   "id": "Q114",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "Nitrous acid (NaNO₂ + HCl)",
+   "text": "Character: Nitrous acid (NaNO₂ + HCl); Core quirk: The amine sorter. Must be cold.; Encodes: Gives NO⁺; In reactions: 1° aliphatic amine → alcohol + N₂; aniline at 273–278 K → diazonium (A5)."
+  },
+  {
+   "id": "Q115",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "Hypophosphorous acid (H₃PO₂)",
+   "text": "Character: Hypophosphorous acid (H₃PO₂); Core quirk: The eraser. Replaces –N₂⁺ with H.; Encodes: Reducing agent; In reactions: Deamination (A6; Conversions 9)."
+  },
+  {
+   "id": "Q116",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "Benzenesulphonyl chloride (Hinsberg's reagent)",
+   "text": "Character: Benzenesulphonyl chloride (Hinsberg's reagent); Core quirk: Sorts amines by how many N–H they have.; Encodes: Sulphonamide formation; In reactions: 1° soluble in alkali, 2° insoluble, 3° no reaction (A4)."
+  },
+  {
+   "id": "Q117",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "Phthalimide + KOH",
+   "text": "Character: Phthalimide + KOH; Core quirk: Lets exactly one alkyl group in.; Encodes: Acidic N–H, SN2, no over-alkylation; In reactions: Gabriel synthesis of 1° aliphatic amines (A2).; Never: Never makes aromatic amines."
+  },
+  {
+   "id": "Q118",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "Ammonia",
+   "text": "Character: Ammonia; Core quirk: An indiscriminate attacker on alkyl halides.; Encodes: Repeated alkylation; In reactions: Mixture of 1°, 2°, 3° amines and quaternary salt (A9). With acid chlorides → amides.; Never: Never gives a single clean amine from RX."
+  },
+  {
+   "id": "Q119",
+   "tab": "quirks",
+   "section": "Carbonyl and amine reagents",
+   "name": "Carbon dioxide",
+   "text": "Character: Carbon dioxide; Core quirk: A weak electrophile that only very strong attackers can catch.; Encodes: C between two O; In reactions: Grignard → acid (C2); phenoxide → salicylic acid (P5).; Never: Never reacts with phenol itself in Kolbe's reaction (needs phenoxide)."
+  },
+  {
+   "id": "Q120",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Water and alcohols (polar protic)",
+   "text": "Character: Water and alcohols (polar protic); Core quirk: The comforting crowd. Surrounds anyone charged and keeps them calm.; Encodes: Solvates ions by hydrogen bonding; Effect on others: Lets halides walk out alone (SN1, X2). Keeps OH⁻ busy, so it attacks instead of stealing H (aq. KOH). Polarises Br₂ (bromine water floods phenol)."
+  },
+  {
+   "id": "Q121",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Alcohol as solvent for KOH",
+   "text": "Character: Alcohol as solvent for KOH; Core quirk: Leaves the base unguarded.; Encodes: Poor solvation of OH⁻/RO⁻; Effect on others: OH⁻ turns into an H-thief: elimination (X3)."
+  },
+  {
+   "id": "Q122",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Acetone (polar aprotic)",
+   "text": "Character: Acetone (polar aprotic); Core quirk: Doesn't hug anions. Attackers stay free and strong. Some salts can't stay dissolved here.; Encodes: No O–H; Effect on others: SN2 favoured (X1). NaCl/NaBr precipitate in Finkelstein (X4)."
+  },
+  {
+   "id": "Q123",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Dry ether",
+   "text": "Character: Dry ether; Core quirk: Strict no-water zone.; Encodes: Aprotic, no acidic H; Effect on others: Required for Grignard (X6) and Wurtz (H10).; Never: Never contains water in a working story."
+  },
+  {
+   "id": "Q124",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "CCl₄, CS₂, CHCl₃ (non-polar)",
+   "text": "Character: CCl₄, CS₂, CHCl₃ (non-polar); Core quirk: The calm room.; Encodes: Non-polar; Effect on others: Br₂ in CCl₄: clean addition test (H4). Br₂ in CS₂: one bromine on phenol (P2). CrO₂Cl₂ in CS₂ (Étard)."
+  },
+  {
+   "id": "Q125",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Kerosene",
+   "text": "Character: Kerosene; Core quirk: The safe house for hotheads.; Encodes: Unreactive towards Na and K; Effect on others: Stores sodium and potassium away from air and water."
+  },
+  {
+   "id": "Q126",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Light (hν) and heat",
+   "text": "Character: Light (hν) and heat; Core quirk: The wake-up call for loners.; Encodes: Homolytic bond breaking; Effect on others: Starts radical chains (H1); side-chain chlorination of toluene."
+  },
+  {
+   "id": "Q127",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "Cold, 273–278 K",
+   "text": "Character: Cold, 273–278 K; Core quirk: The only weather a diazonium salt survives.; Encodes: Thermal instability of ArN₂⁺; Effect on others: Diazotisation (A5)."
+  },
+  {
+   "id": "Q128",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "443 K vs 413 K (with conc. H₂SO₄)",
+   "text": "Character: 443 K vs 413 K (with conc. H₂SO₄); Core quirk: Two temperatures, two endings for ethanol.; Encodes: Elimination vs substitution; Effect on others: 443 K → ethene; 413 K → diethyl ether (O2)."
+  },
+  {
+   "id": "Q129",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "573 K with Cu",
+   "text": "Character: 573 K with Cu; Core quirk: Dehydrogenation heat.; Effect on others: 1°/2° alcohols lose H₂; 3° loses H₂O (O4)."
+  },
+  {
+   "id": "Q130",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "623 K, 300 atm",
+   "text": "Character: 623 K, 300 atm; Core quirk: The force needed to pull Cl off chlorobenzene.; Encodes: Partial double-bond C–Cl; Effect on others: Dow process (X7)."
+  },
+  {
+   "id": "Q131",
+   "tab": "quirks",
+   "section": "Solvents and conditions",
+   "name": "873 K red-hot iron tube",
+   "text": "Character: 873 K red-hot iron tube; Core quirk: Where three ethynes become one benzene.; Encodes: Cyclic polymerisation; Effect on others: Ethyne → benzene."
+  },
+  {
+   "id": "F1",
+   "tab": "filmy",
+   "section": "The haveli",
+   "name": "Benzene Haveli",
+   "text": "Character: Benzene Haveli; Filmy quirk: A joint family of six carbon brothers in a circle who share everything, even their electrons. Never splits up.; Real chemistry: Ring of 6 carbons sharing 6 electrons (aromatic). Very stable, so it does substitution, not addition."
+  },
+  {
+   "id": "F2",
+   "tab": "filmy",
+   "section": "The haveli",
+   "name": "Daadi",
+   "text": "Character: Daadi; Filmy quirk: Head of the haveli. Her rule: \"Ghar kabhi nahi tootega. Koi naya aayega, toh kisi naukar ki jagah lega.\" Narrates the lesson at the end of every ring story.; Real chemistry: The aromatic ring is always restored at the end of a substitution."
+  },
+  {
+   "id": "F3",
+   "tab": "filmy",
+   "section": "The haveli",
+   "name": "Ramu Kaka (each hydrogen on the ring)",
+   "text": "Character: Ramu Kaka (each hydrogen on the ring); Filmy quirk: The loyal servant behind each brother. When a guest arrives, he quietly gives up his place and leaves: \"Main chalta hoon, malik.\"; Real chemistry: Each ring carbon has one H. In substitution, the new group takes its place and the H leaves as H⁺."
+  },
+  {
+   "id": "F4",
+   "tab": "filmy",
+   "section": "The haveli",
+   "name": "The one-second chaos",
+   "text": "Character: The one-second chaos; Filmy quirk: When a guest walks in, one brother is holding hands with both the guest and his Ramu Kaka. Everyone panics, until Ramu Kaka leaves.; Real chemistry: The arenium ion: a short-lived stage where one ring carbon holds both the new group and H."
+  },
+  {
+   "id": "F5",
+   "tab": "filmy",
+   "section": "The haveli",
+   "name": "When the haveli is forced",
+   "text": "Character: When the haveli is forced; Filmy quirk: Only a powerful outsider can make the family break its circle: hydrogen with Nickel and heat, or Chlorine under UV light. Daadi never forgives it.; Real chemistry: Benzene adds H₂ (Ni, heat → cyclohexane) or Cl₂ (UV light → hexachlorocyclohexane) only under harsh conditions."
+  },
+  {
+   "id": "F6",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Methyl, the friendly padosi uncle (–CH₃)",
+   "text": "Character: Methyl, the friendly padosi uncle (–CH₃); Filmy quirk: \"Aao aao, yahin baitho!\" Calls guests next to him or opposite. Always has three chamche (hangers-on) standing right beside the haveli: his weak spot.; Real chemistry: –CH₃ is ortho/para directing and mildly activating. Its three H atoms are next to the ring (benzylic H) and can be oxidised."
+  },
+  {
+   "id": "F7",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Mummy ji, the feeder (–OH, phenol)",
+   "text": "Character: Mummy ji, the feeder (–OH, phenol); Filmy quirk: Can't stop feeding guests. In a busy kitchen (bromine water) she fills all three seats at once. In a quiet kitchen (Br₂ in CS₂, cold) she serves just one guest.; Real chemistry: –OH strongly activates: bromine water gives 2,4,6-tribromophenol; Br₂ in CS₂ gives o- or p-bromophenol."
+  },
+  {
+   "id": "F8",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Mummy ji in full mood (–O⁻, phenoxide)",
+   "text": "Character: Mummy ji in full mood (–O⁻, phenoxide); Filmy quirk: Even warmer: will invite the shyest guests (CO₂, the chloroform carbene) to sit right next to her.; Real chemistry: Phenoxide reacts even with weak electrophiles at ortho: Kolbe's reaction and Reimer–Tiemann."
+  },
+  {
+   "id": "F9",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Bunty Uncle, the loudest guest at every party (–NH₂, aniline)",
+   "text": "Character: Bunty Uncle, the loudest guest at every party (–NH₂, aniline); Filmy quirk: The loudest host: fills all three seats with bromine water. Two weaknesses: he grabs bhaiya's hand and won't let go, so no rishta happens (no Friedel–Crafts); and in a sour (acid) room he turns into a germophobe.; Real chemistry: –NH₂ strongly activates (2,4,6-tribromoaniline). Its lone pair binds AlCl₃. In acid it becomes –NH₃⁺, which sends guests to meta (47% meta in nitration)."
+  },
+  {
+   "id": "F10",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Bunty Uncle after marriage (–NHCOCH₃, acetanilide)",
+   "text": "Character: Bunty Uncle after marriage (–NHCOCH₃, acetanilide); Filmy quirk: Same host, but calmer now. Lets in one guest, usually opposite him.; Real chemistry: Acetylation tames –NH₂: mono-substitution, mostly para."
+  },
+  {
+   "id": "F11",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Mausa ji with the dhoti (–OCH₃, anisole)",
+   "text": "Character: Mausa ji with the dhoti (–OCH₃, anisole); Filmy quirk: A host like Mummy ji. Even HI can only take away his topi (the CH₃), never pull him off the haveli.; Real chemistry: –OCH₃ is o/p directing. Anisole + HI → phenol + CH₃I, never iodobenzene."
+  },
+  {
+   "id": "F12",
+   "tab": "filmy",
+   "section": "Hosts (send the next guest to ortho or para)",
+   "name": "Grumpy Chacha (–Cl, –Br, –I on the ring)",
+   "text": "Character: Grumpy Chacha (–Cl, –Br, –I on the ring); Filmy quirk: Complains, slows the whole party down, but still politely points guests to the seats next to him or opposite. Very hard to throw out of the haveli.; Real chemistry: Halogens deactivate the ring but direct ortho/para. A haloarene loses its halogen only at 623 K and 300 atm, or with –NO₂ at o/p."
+  },
+  {
+   "id": "F13",
+   "tab": "filmy",
+   "section": "Germophobes (allow only one seat away: meta)",
+   "name": "Bade Sahab, the germophobe NRI uncle (–COOH)",
+   "text": "Character: Bade Sahab, the germophobe NRI uncle (–COOH); Filmy quirk: Back from abroad, sanitiser in pocket: \"Doori banaye rakhein! Ek seat chhod ke baitho!\" Makes the whole haveli cold. Never lets bhaiya arrange a rishta in his house.; Real chemistry: –COOH is meta directing and deactivating. Benzoic acid does not undergo Friedel–Crafts."
+  },
+  {
+   "id": "F14",
+   "tab": "filmy",
+   "section": "Germophobes (allow only one seat away: meta)",
+   "name": "The hostel warden (–NO₂)",
+   "text": "Character: The hostel warden (–NO₂); Filmy quirk: The strictest germophobe. Meta seats only; the house becomes so cold that bhaiya never comes again. But he secretly helps one kind of person: if Grumpy Chacha sits next to or opposite him, he helps Chacha get out.; Real chemistry: –NO₂: strongly deactivating, meta directing; no Friedel–Crafts. It makes a halogen at o/p easy to replace by OH⁻."
+  },
+  {
+   "id": "F15",
+   "tab": "filmy",
+   "section": "Germophobes (allow only one seat away: meta)",
+   "name": "The snobbish cousins (–CHO, –COR, –CN)",
+   "text": "Character: The snobbish cousins (–CHO, –COR, –CN); Filmy quirk: Same germophobe rule: meta only.; Real chemistry: Deactivating, meta directing."
+  },
+  {
+   "id": "F16",
+   "tab": "filmy",
+   "section": "Germophobes (allow only one seat away: meta)",
+   "name": "The paying guest (–SO₃H)",
+   "text": "Character: The paying guest (–SO₃H); Filmy quirk: Germophobe who can be asked to vacate.; Real chemistry: –SO₃H is meta directing; sulphonation is reversible."
+  },
+  {
+   "id": "F17",
+   "tab": "filmy",
+   "section": "Makeovers (a guest's personality changes)",
+   "name": "Padosi uncle → Bade Sahab",
+   "text": "Makeover: Padosi uncle → Bade Sahab; What happens in the story: The purple saas throws out his three chamche; he returns in a suit as Bade Sahab.; Real chemistry: –CH₃ → –COOH with hot KMnO₄ (needs benzylic H)."
+  },
+  {
+   "id": "F18",
+   "tab": "filmy",
+   "section": "Makeovers (a guest's personality changes)",
+   "name": "Hostel warden → Bunty Uncle",
+   "text": "Makeover: Hostel warden → Bunty Uncle; What happens in the story: Tin or Iron with acid softens the warden into the loudest host.; Real chemistry: –NO₂ → –NH₂ with Sn/HCl or Fe/HCl."
+  },
+  {
+   "id": "F19",
+   "tab": "filmy",
+   "section": "Makeovers (a guest's personality changes)",
+   "name": "Bunty Uncle → germophobe",
+   "text": "Makeover: Bunty Uncle → germophobe; What happens in the story: He walks into a sour (acidic) room and turns cold.; Real chemistry: –NH₂ → –NH₃⁺ in acid."
+  },
+  {
+   "id": "F20",
+   "tab": "filmy",
+   "section": "Makeovers (a guest's personality changes)",
+   "name": "Bunty Uncle → married Bunty",
+   "text": "Makeover: Bunty Uncle → married Bunty; What happens in the story: Marriage (acetic anhydride) calms him.; Real chemistry: –NH₂ → –NHCOCH₃."
+  },
+  {
+   "id": "F21",
+   "tab": "filmy",
+   "section": "Makeovers (a guest's personality changes)",
+   "name": "Bunty Uncle leaves as smoke",
+   "text": "Makeover: Bunty Uncle leaves as smoke; What happens in the story: After guiding guests to their seats, he vanishes in a puff (N₂ gas) and anyone can take his seat.; Real chemistry: Diazotisation, then replacement (Sandmeyer, H₃PO₂, KI, water)."
+  },
+  {
+   "id": "F22",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "Bade Bhaiya (Aluminium Chloride), who swore never to marry (anhydrous AlCl₃)",
+   "text": "Character: Bade Bhaiya (Aluminium Chloride), who swore never to marry (anhydrous AlCl₃); Filmy quirk: Has arranged every wedding in the mohalla, still single. Separates a guest from a clingy partner and sends the guest into the haveli: \"Main sirf rishte karwata hoon.\" Refuses houses run by germophobes (Bade Sahab, the warden) and gets stuck holding Bunty Uncle's hand. Hates water: a wet house ruins his work.; Real chemistry: Lewis acid catalyst. Makes R⁺, RCO⁺ or Cl⁺ from RCl, RCOCl or Cl₂ (Friedel–Crafts, chlorination) and is regenerated. Fails on nitrobenzene, benzoic acid and aniline; must be anhydrous."
+  },
+  {
+   "id": "F23",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "Chhote Bhaiya (FeCl₃ / FeBr₃)",
+   "text": "Character: Chhote Bhaiya (FeCl₃ / FeBr₃); Filmy quirk: Bhaiya's younger brother, also unmarried. Only arranges halogen rishtas. Side job: turns Mummy ji's kitchen violet when he visits (phenol test).; Real chemistry: Lewis acid for halogenating benzene. Neutral FeCl₃ gives a violet colour with phenols."
+  },
+  {
+   "id": "F24",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "The five-star banquet hall (Pt, Pd)",
+   "text": "Character: The five-star banquet hall (Pt, Pd); Filmy quirk: Hosts hydrogen weddings any time, even at room temperature. Never changes.; Real chemistry: Pt or Pd catalyse hydrogenation at room temperature."
+  },
+  {
+   "id": "F25",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "The dharamshala (Ni)",
+   "text": "Character: The dharamshala (Ni); Filmy quirk: Also hosts hydrogen weddings, but only if you heat it up first.; Real chemistry: Ni needs 523–573 K for hydrogenation."
+  },
+  {
+   "id": "F26",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "The tired pandit (Lindlar's catalyst; Pd on BaSO₄)",
+   "text": "Character: The tired pandit (Lindlar's catalyst; Pd on BaSO₄); Filmy quirk: Always stops the ceremony halfway: \"Bas, aaj itna hi.\"; Real chemistry: Poisoned Pd: alkyne → cis-alkene only (Lindlar); acid chloride → aldehyde only (Rosenmund)."
+  },
+  {
+   "id": "F27",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "The sponsor (Hg²⁺)",
+   "text": "Character: The sponsor (Hg²⁺); Filmy quirk: Water and an alkyne won't meet unless he pays for the event.; Real chemistry: HgSO₄/dil. H₂SO₄ catalyses alkyne hydration (ethyne → acetaldehyde, others → ketones)."
+  },
+  {
+   "id": "F28",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "The bouncer (ZnCl₂ in the Lucas test)",
+   "text": "Character: The bouncer (ZnCl₂ in the Lucas test); Filmy quirk: Helps –OH get thrown out of a party. Throws out 3° guests at once, 2° in about five minutes, 1° not at all.; Real chemistry: ZnCl₂ helps –OH leave; turbidity speed shows 3°, 2° or 1° alcohol."
+  },
+  {
+   "id": "F29",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "The strict principal (conc. H₂SO₄)",
+   "text": "Character: The strict principal (conc. H₂SO₄); Filmy quirk: Her decision depends on the room temperature: at 443 K she breaks the student's –OH and H off together (alkene); at 413 K she pairs two students (ether). Also arranges the fight that gives birth to Nitronium.; Real chemistry: Dehydrating acid: ethanol → ethene (443 K) or diethyl ether (413 K). With HNO₃ makes NO₂⁺. Catalyst in esterification."
+  },
+  {
+   "id": "F30",
+   "tab": "filmy",
+   "section": "Catalysts: the bhaiyas who never marry, and friends",
+   "name": "Proton, the bechara catalyst (H⁺ in acid catalysis)",
+   "text": "Character: Proton, the bechara catalyst (H⁺ in acid catalysis); Filmy quirk: Starts the fight, then quietly takes his own place back at the end.; Real chemistry: H⁺ protonates first and is released again (dehydration, esterification, hydration of alkenes)."
+  },
+  {
+   "id": "F31",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "Nitronium, the angry young man (NO₂⁺)",
+   "text": "Character: Nitronium, the angry young man (NO₂⁺); Filmy quirk: Born only when two tough acids fight in a dark gali. Always wants to barge in first: \"Main sabse pehle!\"; Real chemistry: Formed from conc. HNO₃ + conc. H₂SO₄; attacks the ring in nitration."
+  },
+  {
+   "id": "F32",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "Proton, the bechara hero (H⁺)",
+   "text": "Character: Proton, the bechara hero (H⁺); Filmy quirk: \"Mere paas kuch nahi hai.\" Owns nothing, wants electrons, always strikes first. Goes to the brother who is already rich: \"jiske paas zyada, use aur.\"; Real chemistry: H⁺ is the first attacker in additions to C=C, and joins the carbon that already has more H (Markovnikov)."
+  },
+  {
+   "id": "F33",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "The twins separated at birth (OH⁻ in water vs in alcohol)",
+   "text": "Character: The twins separated at birth (OH⁻ in water vs in alcohol); Filmy quirk: Same face, two lives. The twin raised in water (aq. KOH) is a straightforward attacker. The twin raised in alcohol (alc. KOH) is a pickpocket who steals a hydrogen from next door.; Real chemistry: Aqueous KOH: substitution (alcohol). Alcoholic KOH: elimination (alkene)."
+  },
+  {
+   "id": "F34",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "Do-muha, the two-faced cousin (CN⁻; NO₂⁻)",
+   "text": "Character: Do-muha, the two-faced cousin (CN⁻; NO₂⁻); Filmy quirk: Whose side he takes depends on who he arrives with. With Potassium he shakes hands with his C side; with Silver he can only offer his N side. Brings one extra family member wherever he goes.; Real chemistry: KCN → nitrile (C attacks); AgCN → isocyanide (N attacks). Same pattern: KNO₂ → nitrite, AgNO₂ → nitro compound. CN adds one carbon."
+  },
+  {
+   "id": "F35",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "Bromine, the bahuroopiya (master of disguise)",
+   "text": "Character: Bromine, the bahuroopiya (master of disguise); Filmy quirk: Four disguises, one per story type: the attacker (electrophile in Br₂ addition), the second visitor (Br⁻ in HBr addition), the loner (Br• with peroxide), the one who walks out (leaving group). Always wears red-brown, and the colour vanishes when he meets a double bond.; Real chemistry: Bromine's four roles (H2, H3, H4, X1). Br₂ decolourising = test for unsaturation."
+  },
+  {
+   "id": "F36",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "The akela (radicals)",
+   "text": "Character: The akela (radicals); Filmy quirk: Loners with one unpaired electron. Each one steals a partner from someone else and leaves a new loner behind, so the story keeps going until two loners meet and settle down together. Only appear in light, heat, with Peroxide Pandit, or at Kolbe's electric shop.; Real chemistry: Radical chain: initiation, propagation, termination. Started by hν, heat, peroxide or electrolysis."
+  },
+  {
+   "id": "F37",
+   "tab": "filmy",
+   "section": "Attackers",
+   "name": "Peroxide Pandit",
+   "text": "Character: Peroxide Pandit; Filmy quirk: Changes only one story: when he blesses HBr, Bromine arrives first in his loner disguise and the ending flips. He has no power over HCl or HI.; Real chemistry: Peroxide effect (anti-Markovnikov) for HBr only."
+  },
+  {
+   "id": "F38",
+   "tab": "filmy",
+   "section": "The hero in trouble (carbon intermediates)",
+   "name": "Carbon Singh, the hero",
+   "text": "Character: Carbon Singh, the hero; Filmy quirk: Always keeps exactly four promises.; Real chemistry: Carbon is tetravalent."
+  },
+  {
+   "id": "F39",
+   "tab": "filmy",
+   "section": "The hero in trouble (carbon intermediates)",
+   "name": "Carbon in crisis (carbocation)",
+   "text": "Character: Carbon in crisis (carbocation); Filmy quirk: Lost a partner and his electrons. Flat on the floor, insecure. Calms down only with bodyguards around: three bodyguards (3°) best, none (methyl) worst. If a richer relative lives next door, he quietly moves in there (rearrangement). Both doors open, so whoever comes next can enter from either side.; Real chemistry: Carbocation: planar, stability 3° > 2° > 1° > CH₃⁺, stabilised by alkyl groups; rearranges by 1,2-shift; SN1 gives both mirror images (racemisation)."
+  },
+  {
+   "id": "F40",
+   "tab": "filmy",
+   "section": "The hero in trouble (carbon intermediates)",
+   "name": "The goon with extra cash (carbanion)",
+   "text": "Character: The goon with extra cash (carbanion); Filmy quirk: Pushy, has extra electrons to spend. Feels best with few relatives around.; Real chemistry: Carbanion stability CH₃⁻ > 1° > 2° > 3°."
+  },
+  {
+   "id": "F41",
+   "tab": "filmy",
+   "section": "The hero in trouble (carbon intermediates)",
+   "name": "The pushy goon who melts in water (Grignard reagent, RMgX)",
+   "text": "Character: The pushy goon who melts in water (Grignard reagent, RMgX); Filmy quirk: Tough, attacks any exposed carbon. But one drop of water and he's finished. Only works in the Dry Ether desert.; Real chemistry: RMgX attacks C=O and CO₂; destroyed by any acidic H; needs dry ether."
+  },
+  {
+   "id": "F42",
+   "tab": "filmy",
+   "section": "Leavers (the bidaai scenes)",
+   "name": "Iodu Baba (I⁻)",
+   "text": "Character: Iodu Baba (I⁻); Filmy quirk: The easiest bidaai: \"Theek hai, chalta hoon.\"; Real chemistry: I⁻ is the best halide leaving group."
+  },
+  {
+   "id": "F43",
+   "tab": "filmy",
+   "section": "Leavers (the bidaai scenes)",
+   "name": "Bromo Bhai (Br⁻)",
+   "text": "Character: Bromo Bhai (Br⁻); Filmy quirk: Leaves with a little drama.; Real chemistry: Good leaving group."
+  },
+  {
+   "id": "F44",
+   "tab": "filmy",
+   "section": "Leavers (the bidaai scenes)",
+   "name": "Chamku (Cl⁻)",
+   "text": "Character: Chamku (Cl⁻); Filmy quirk: Leaves only after a long argument.; Real chemistry: Moderate leaving group."
+  },
+  {
+   "id": "F45",
+   "tab": "filmy",
+   "section": "Leavers (the bidaai scenes)",
+   "name": "Fiza, the bride who never leaves (F⁻)",
+   "text": "Character: Fiza, the bride who never leaves (F⁻); Filmy quirk: \"Main kabhi nahi jaungi.\" No bidaai ever.; Real chemistry: C–F strongest; F⁻ the worst leaving group."
+  },
+  {
+   "id": "F46",
+   "tab": "filmy",
+   "section": "Leavers (the bidaai scenes)",
+   "name": "–OH, the guest who won't leave unless offered tea",
+   "text": "Character: –OH, the guest who won't leave unless offered tea; Filmy quirk: Refuses to leave until someone hands her a Proton; then leaves happily as water.; Real chemistry: –OH leaves only after protonation (as H₂O) or conversion with SOCl₂/PCl₅/HX."
+  },
+  {
+   "id": "F47",
+   "tab": "filmy",
+   "section": "Leavers (the bidaai scenes)",
+   "name": "The guest who leaves as smoke (N₂ from a diazonium salt)",
+   "text": "Character: The guest who leaves as smoke (N₂ from a diazonium salt); Filmy quirk: Lives only in the cold. Leaves in a puff of smoke, and anyone can take his seat.; Real chemistry: ArN₂⁺ stable only at 273–278 K; N₂ leaves as gas; replaced by Cl, Br, CN, I, F, OH or H."
+  },
+  {
+   "id": "F48",
+   "tab": "filmy",
+   "section": "Hotheads and donors",
+   "name": "Daanveer Sodium, the hothead (Na)",
+   "text": "Character: Daanveer Sodium, the hothead (Na); Filmy quirk: Gives away his one electron instantly. Show him water and he explodes; kept in a kerosene jail. Takes the nervous hydrogen from alcohols and terminal alkynes, and joins two alkyl guests together.; Real chemistry: Na + water: violent, releases H₂. Na releases H₂ from O–H and ≡C–H. Wurtz reaction. Stored under kerosene."
+  },
+  {
+   "id": "F49",
+   "tab": "filmy",
+   "section": "Hotheads and donors",
+   "name": "Potassium, the bigger hothead (K)",
+   "text": "Character: Potassium, the bigger hothead (K); Filmy quirk: Like Sodium, but explodes even faster. Mostly appears as the partner who decides the twins' and the two-faced cousin's behaviour.; Real chemistry: More reactive than Na. K⁺ salts: KOH, KCN, KNO₂."
+  },
+  {
+   "id": "F50",
+   "tab": "filmy",
+   "section": "Hotheads and donors",
+   "name": "The rich daanveer (LiAlH₄)",
+   "text": "Character: The rich daanveer (LiAlH₄); Filmy quirk: Donates hydrogen gifts to almost everyone: aldehydes, ketones, acids, esters, amides, nitriles. Never to a plain double bond.; Real chemistry: Strong hydride donor; does not reduce isolated C=C."
+  },
+  {
+   "id": "F51",
+   "tab": "filmy",
+   "section": "Hotheads and donors",
+   "name": "The choosy donor (NaBH₄)",
+   "text": "Character: The choosy donor (NaBH₄); Filmy quirk: Gives only to aldehydes and ketones.; Real chemistry: Mild hydride donor; does not reduce acids or esters."
+  },
+  {
+   "id": "F52",
+   "tab": "filmy",
+   "section": "Hotheads and donors",
+   "name": "The polite boarder (B₂H₆)",
+   "text": "Character: The polite boarder (B₂H₆); Filmy quirk: Always sits at the less crowded end of a double bond, leaving the crowded end for Hydrogen.; Real chemistry: Hydroboration–oxidation gives the anti-Markovnikov alcohol."
+  },
+  {
+   "id": "F53",
+   "tab": "filmy",
+   "section": "Oxidisers",
+   "name": "The purple saas (KMnO₄)",
+   "text": "Character: The purple saas (KMnO₄); Filmy quirk: Two moods. Cool mood: gives two aashirwaads and her purple fades. Hot mood: throws out every chamcha standing near the haveli and turns the man into Bade Sahab; tears double-bond couples apart. Can't touch a guest who has no chamche (tert-butyl).; Real chemistry: Cold dilute alkaline KMnO₄ adds two –OH (Baeyer's test, pink fades). Hot KMnO₄ oxidises side chains with benzylic H to –COOH and cleaves C=C."
+  },
+  {
+   "id": "F54",
+   "tab": "filmy",
+   "section": "Oxidisers",
+   "name": "The strict examiner (acidified K₂Cr₂O₇)",
+   "text": "Character: The strict examiner (acidified K₂Cr₂O₇); Filmy quirk: Wears orange; changes to green when she passes someone. Passes 1° and 2° alcohols, fails every 3° one: \"Tumhare paas ek bhi Ramu Kaka nahi hai.\"; Real chemistry: Oxidises 1° (to aldehyde, then acid) and 2° (to ketone) alcohols; 3° has no H on the carbinol carbon; Cr₂O₇²⁻ orange → Cr³⁺ green."
+  },
+  {
+   "id": "F55",
+   "tab": "filmy",
+   "section": "Oxidisers",
+   "name": "The gentle tutor (PCC)",
+   "text": "Character: The gentle tutor (PCC); Filmy quirk: Takes a 1° alcohol only one class up, to aldehyde. Never further.; Real chemistry: PCC stops at the aldehyde."
+  },
+  {
+   "id": "F56",
+   "tab": "filmy",
+   "section": "Oxidisers",
+   "name": "The tailor (CrO₂Cl₂)",
+   "text": "Character: The tailor (CrO₂Cl₂); Filmy quirk: Alters only Methyl uncle's outfit into an aldehyde kurta, nothing more.; Real chemistry: Étard: toluene → benzaldehyde."
+  },
+  {
+   "id": "F57",
+   "tab": "filmy",
+   "section": "Oxidisers",
+   "name": "The kainchi (ozone)",
+   "text": "Character: The kainchi (ozone); Filmy quirk: Cuts a double-bond couple into two, with Zinc standing guard so nobody gets damaged further.; Real chemistry: Ozonolysis; Zn/H₂O stops further oxidation."
+  },
+  {
+   "id": "F58",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The generous jeweller (Tollens')",
+   "text": "Character: The generous jeweller (Tollens'); Filmy quirk: Gives a silver mirror to every aldehyde, desi or videsi. Never to a ketone.; Real chemistry: All aldehydes (aromatic too) give a silver mirror; ketones don't."
+  },
+  {
+   "id": "F59",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The fussy jeweller (Fehling's)",
+   "text": "Character: The fussy jeweller (Fehling's); Filmy quirk: Gives red only to desi (aliphatic) aldehydes. Turns away Benzaldehyde and every ketone.; Real chemistry: Aliphatic aldehydes give red Cu₂O; aromatic aldehydes and ketones don't."
+  },
+  {
+   "id": "F60",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "CID Iodine (I₂ + NaOH)",
+   "text": "Character: CID Iodine (I₂ + NaOH); Filmy quirk: Hunts for one fingerprint: a CH₃ right next to C=O (or one step away from it, as CH₃CH(OH)–). Found? Yellow alarm.; Real chemistry: Iodoform test: CH₃CO– or CH₃CH(OH)– gives yellow CHI₃."
+  },
+  {
+   "id": "F61",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The sindoor detector (Br₂ in CCl₄)",
+   "text": "Character: The sindoor detector (Br₂ in CCl₄); Filmy quirk: Red-brown sindoor that disappears the moment it meets a double-bond couple.; Real chemistry: Decolourisation = unsaturation."
+  },
+  {
+   "id": "F62",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The fizz test (NaHCO₃)",
+   "text": "Character: The fizz test (NaHCO₃); Filmy quirk: Bubbles only for true acids. Mummy ji (phenol) gets no fizz.; Real chemistry: Carboxylic acids release CO₂; phenols don't."
+  },
+  {
+   "id": "F63",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The gatekeeper (Hinsberg's reagent)",
+   "text": "Character: The gatekeeper (Hinsberg's reagent); Filmy quirk: Sorts guests by how many N–H they carry: two (1°) get a pass that dissolves in alkali; one (2°) gets a pass that doesn't; none (3°) are ignored.; Real chemistry: 1° product soluble in alkali, 2° insoluble, 3° no reaction."
+  },
+  {
+   "id": "F64",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The stink bomb (carbylamine: CHCl₃ + alc. KOH)",
+   "text": "Character: The stink bomb (carbylamine: CHCl₃ + alc. KOH); Filmy quirk: Goes off only for guests with two N–H (1° amines).; Real chemistry: Isocyanide smell: 1° amines only."
+  },
+  {
+   "id": "F65",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The violet visitor (neutral FeCl₃)",
+   "text": "Character: The violet visitor (neutral FeCl₃); Filmy quirk: See Chhote Bhaiya: turns Mummy ji's kitchen violet.; Real chemistry: Phenol test."
+  },
+  {
+   "id": "F66",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The orange-red stamp (2,4-DNP)",
+   "text": "Character: The orange-red stamp (2,4-DNP); Filmy quirk: Stamps every aldehyde and ketone. Ignores acids.; Real chemistry: Test for C=O."
+  },
+  {
+   "id": "F67",
+   "tab": "filmy",
+   "section": "The detectives (test reagents)",
+   "name": "The cold gatekeeper (HNO₂)",
+   "text": "Character: The cold gatekeeper (HNO₂); Filmy quirk: Desi amine guests (aliphatic 1°) vanish as gas and leave an alcohol behind; Bunty Uncle (aniline) in the cold becomes the smoke guest (diazonium).; Real chemistry: 1° aliphatic amine → alcohol + N₂; aniline at 273–278 K → diazonium salt."
+  },
+  {
+   "id": "F68",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Any ring substitution",
+   "text": "Reaction: Any ring substitution; Stock scene: A guest enters the haveli, the house goes into one second of chaos, then Ramu Kaka says \"Main chalta hoon, malik\" and leaves. Daadi: \"Ghar kabhi nahi tootega.\"; What it means: Electrophile attacks, arenium ion forms, H⁺ leaves, aromaticity restored."
+  },
+  {
+   "id": "F69",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Nitration",
+   "text": "Reaction: Nitration; Stock scene: Two tough acids fight in a dark gali; Nitronium is born and barges into the haveli.; What it means: HNO₃ + H₂SO₄ → NO₂⁺; nitration."
+  },
+  {
+   "id": "F70",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Halogenation",
+   "text": "Reaction: Halogenation; Stock scene: Chhote Bhaiya pulls Chlorine away from his twin and walks him to the haveli; Bhaiya goes home unchanged.; What it means: FeCl₃ polarises Cl₂; Cl⁺ attacks; catalyst regenerated."
+  },
+  {
+   "id": "F71",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Friedel–Crafts alkylation",
+   "text": "Reaction: Friedel–Crafts alkylation; Stock scene: Bade Bhaiya brings a Methyl guest. Trouble: the new guest is a host who invites more guests, so the haveli gets overcrowded. A long-chain guest may swap seats on the way (carbocation rearrangement).; What it means: R⁺ attacks; product is more reactive, so polysubstitution; rearrangement possible."
+  },
+  {
+   "id": "F72",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Friedel–Crafts acylation",
+   "text": "Reaction: Friedel–Crafts acylation; Stock scene: Bade Bhaiya brings a snobbish cousin (acyl). Once inside, the cousin keeps others out, so only one enters.; What it means: RCO⁺ attacks; product deactivated, so monosubstitution."
+  },
+  {
+   "id": "F73",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Bhaiya refuses",
+   "text": "Reaction: Bhaiya refuses; Stock scene: Bhaiya reaches the gate, sees Bade Sahab / the warden / Bunty Uncle at the door, and turns back.; What it means: No Friedel–Crafts on strongly deactivated rings or on aniline (N grabs AlCl₃)."
+  },
+  {
+   "id": "F74",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Sulphonation",
+   "text": "Reaction: Sulphonation; Stock scene: The paying guest moves in, but can be asked to leave if you heat with dilute acid.; What it means: Sulphonation is reversible."
+  },
+  {
+   "id": "F75",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Bunty Uncle's party",
+   "text": "Reaction: Bunty Uncle's party; Stock scene: Bromine water arrives; Bunty Uncle invites guests to all three seats at once: white crowd. To control him, get him married first (acetylation), then bring guests.; What it means: Aniline + Br₂(aq) → 2,4,6-tribromoaniline; acetylate to get mono."
+  },
+  {
+   "id": "F76",
+   "tab": "filmy",
+   "section": "Substitution on the ring (the haveli)",
+   "name": "Mummy ji's party",
+   "text": "Reaction: Mummy ji's party; Stock scene: Same as Bunty's: Bromine water fills all three seats; in CS₂ at low temperature, only one guest.; What it means: Phenol + Br₂(aq) → 2,4,6-tribromophenol; Br₂/CS₂ → mono (o/p)."
+  },
+  {
+   "id": "F77",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "SN2",
+   "text": "Reaction: SN2; Stock scene: The attacker comes in through the back door while the leaver walks out the front, at the same moment. The house is turned inside out like an umbrella in the wind. Crowded houses (3°) can't be entered from the back.; What it means: One step, backside attack, inversion; 1° > 2° > 3°."
+  },
+  {
+   "id": "F78",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "SN1",
+   "text": "Reaction: SN1; Stock scene: The leaver walks out first. Carbon in crisis lies flat and calls his bodyguards. Then the attacker walks in, from front or back, so twins are born.; What it means: Two steps, carbocation, racemisation; 3° > 2° > 1°."
+  },
+  {
+   "id": "F79",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "Elimination",
+   "text": "Reaction: Elimination; Stock scene: The alcohol-raised twin picks the pocket of the house next door (a β-H), and the leaver walks out; the two neighbours become a double-bond couple. The richer couple (more substituted) is the usual result.; What it means: β-elimination with alc. KOH; Saytzeff product major."
+  },
+  {
+   "id": "F80",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "Aq. vs alc. KOH",
+   "text": "Reaction: Aq. vs alc. KOH; Stock scene: The twins-separated-at-birth scene: same reagent, two different endings.; What it means: Substitution vs elimination."
+  },
+  {
+   "id": "F81",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "KCN vs AgCN",
+   "text": "Reaction: KCN vs AgCN; Stock scene: Do-muha arrives with Potassium (C side) or with Silver (N side).; What it means: Nitrile vs isocyanide."
+  },
+  {
+   "id": "F82",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "Finkelstein / Swarts",
+   "text": "Reaction: Finkelstein / Swarts; Stock scene: Iodu Baba swaps in for Chamku in acetone (the losing salt sinks, so no going back); Swarts: the metal fluoride brings Fiza in.; What it means: NaI/acetone (NaCl precipitates); AgF/Hg₂F₂ etc. give alkyl fluorides."
+  },
+  {
+   "id": "F83",
+   "tab": "filmy",
+   "section": "Substitution on a chain (the street)",
+   "name": "Wurtz",
+   "text": "Reaction: Wurtz; Stock scene: Daanveer Sodium removes two halogens and marries the two alkyl guests together.; What it means: 2RX + 2Na → R–R (dry ether)."
+  },
+  {
+   "id": "F84",
+   "tab": "filmy",
+   "section": "Additions (the wedding scenes)",
+   "name": "HX addition",
+   "text": "Reaction: HX addition; Stock scene: Proton goes to the brother who already has more (H-rich carbon). The other brother becomes Carbon in crisis and gets the halide.; What it means: Markovnikov via the more stable carbocation."
+  },
+  {
+   "id": "F85",
+   "tab": "filmy",
+   "section": "Additions (the wedding scenes)",
+   "name": "HBr + peroxide",
+   "text": "Reaction: HBr + peroxide; Stock scene: Peroxide Pandit blesses HBr; Bromine comes first in his loner disguise and the ending flips.; What it means: Anti-Markovnikov, radical; HBr only."
+  },
+  {
+   "id": "F86",
+   "tab": "filmy",
+   "section": "Additions (the wedding scenes)",
+   "name": "Br₂ addition",
+   "text": "Reaction: Br₂ addition; Stock scene: Red-brown sindoor disappears on contact with the couple.; What it means: Test for unsaturation."
+  },
+  {
+   "id": "F87",
+   "tab": "filmy",
+   "section": "Additions (the wedding scenes)",
+   "name": "Hydrogenation",
+   "text": "Reaction: Hydrogenation; Stock scene: Wedding at the 5-star hall (Pt/Pd, room temperature) or the dharamshala (Ni, heated). The tired pandit stops at cis.; What it means: H₂/catalyst; Lindlar for cis-alkene."
+  },
+  {
+   "id": "F88",
+   "tab": "filmy",
+   "section": "Additions (the wedding scenes)",
+   "name": "Hydration",
+   "text": "Reaction: Hydration; Stock scene: Water marries the alkene only with Proton's help; with an alkyne only if the Sponsor pays. Alkyne's child changes into a ketone outfit.; What it means: Acid-catalysed hydration; Hg²⁺; enol → keto."
+  },
+  {
+   "id": "F89",
+   "tab": "filmy",
+   "section": "Additions (the wedding scenes)",
+   "name": "Ozonolysis",
+   "text": "Reaction: Ozonolysis; Stock scene: The kainchi cuts the couple in two; Zinc guards both halves.; What it means: C=C → two C=O."
+  },
+  {
+   "id": "F90",
+   "tab": "filmy",
+   "section": "C=O scenes (Grignard and donors)",
+   "name": "Grignard + C=O",
+   "text": "Reaction: Grignard + C=O; Stock scene: The goon attacks the positive carbon of C=O, then the family pours water and he melts away, leaving an alcohol. Formaldehyde → 1°, other aldehydes → 2°, ketones → 3°.; What it means: RMgX addition then hydrolysis."
+  },
+  {
+   "id": "F91",
+   "tab": "filmy",
+   "section": "C=O scenes (Grignard and donors)",
+   "name": "Grignard + CO₂",
+   "text": "Reaction: Grignard + CO₂; Stock scene: The goon grabs dry ice and becomes an acid with one more carbon.; What it means: RMgX + CO₂ → RCOOH."
+  },
+  {
+   "id": "F92",
+   "tab": "filmy",
+   "section": "C=O scenes (Grignard and donors)",
+   "name": "Reduction",
+   "text": "Reaction: Reduction; Stock scene: The daanveer (LiAlH₄) or the choosy donor (NaBH₄) hands out hydrogen gifts.; What it means: Hydride reduction."
+  },
+  {
+   "id": "F93",
+   "tab": "filmy",
+   "section": "C=O scenes (Grignard and donors)",
+   "name": "Aldol",
+   "text": "Reaction: Aldol; Stock scene: Two aldehydes with a nervous α-H hold hands in dilute alkali; heat them and they lose a water and stand closer.; What it means: Aldol addition, then condensation."
+  },
+  {
+   "id": "F94",
+   "tab": "filmy",
+   "section": "C=O scenes (Grignard and donors)",
+   "name": "Cannizzaro",
+   "text": "Reaction: Cannizzaro; Stock scene: Two aldehydes with no α-H in strong alkali: one takes a gift, one gives it away.; What it means: Disproportionation: alcohol + acid salt."
+  },
+  {
+   "id": "F95",
+   "tab": "filmy",
+   "section": "Radical and Kolbe scenes",
+   "name": "Free-radical halogenation",
+   "text": "Reaction: Free-radical halogenation; Stock scene: Light falls on Chlorine; two loners are born and start stealing partners down the street until loners meet and settle down.; What it means: Initiation, propagation, termination."
+  },
+  {
+   "id": "F96",
+   "tab": "filmy",
+   "section": "Radical and Kolbe scenes",
+   "name": "Kolbe electrolysis",
+   "text": "Reaction: Kolbe electrolysis; Stock scene: Two acid salts visit Kolbe's electric shop; each loses CO₂ and the two loners marry.; What it means: 2RCOO⁻ → R–R + 2CO₂."
+  },
+  {
+   "id": "F97",
+   "tab": "filmy",
+   "section": "Other recurring scenes",
+   "name": "Diazotisation",
+   "text": "Reaction: Diazotisation; Stock scene: Bunty Uncle is taken to the cold room (0–5 °C) and becomes the smoke guest. Anyone can then take his seat (Sandmeyer: Cuprous helpers bring Cl, Br, CN; KI brings I; water and warmth bring –OH; H₃PO₂ brings plain H).; What it means: ArN₂⁺→ substitution products."
+  },
+  {
+   "id": "F98",
+   "tab": "filmy",
+   "section": "Other recurring scenes",
+   "name": "Coupling",
+   "text": "Reaction: Coupling; Stock scene: The smoke guest doesn't leave this time; he holds hands with Mummy ji or Bunty Uncle at their para seat and they become a bright orange-yellow couple.; What it means: Azo dye."
+  },
+  {
+   "id": "F99",
+   "tab": "filmy",
+   "section": "Other recurring scenes",
+   "name": "Hoffmann bromamide",
+   "text": "Reaction: Hoffmann bromamide; Stock scene: An amide goes into the Bromine + NaOH tunnel and comes out one carbon shorter, as an amine.; What it means: RCONH₂ → RNH₂, loses one carbon."
+  },
+  {
+   "id": "F100",
+   "tab": "filmy",
+   "section": "Other recurring scenes",
+   "name": "Esterification",
+   "text": "Reaction: Esterification; Stock scene: Acid and alcohol marry with Proton as the bechara catalyst; they give away a water. Reversible.; What it means: RCOOH + R'OH ⇌ ester + H₂O."
+  },
+  {
+   "id": "F101",
+   "tab": "filmy",
+   "section": "Other recurring scenes",
+   "name": "Decarboxylation",
+   "text": "Reaction: Decarboxylation; Stock scene: The acid salt is heated with soda-lime and drops its CO₂, ending one carbon shorter.; What it means: RCOONa → RH."
+  },
+  {
+   "id": "F102",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Daadi (benzene ring)",
+   "text": "Character: Daadi (benzene ring); Line: \"Ghar kabhi nahi tootega.\"; Fact behind it: Aromaticity is restored; substitution, not addition."
+  },
+  {
+   "id": "F103",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Ramu Kaka (ring H)",
+   "text": "Character: Ramu Kaka (ring H); Line: \"Main chalta hoon, malik.\"; Fact behind it: H⁺ leaves in EAS."
+  },
+  {
+   "id": "F104",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Bade Bhaiya (AlCl₃)",
+   "text": "Character: Bade Bhaiya (AlCl₃); Line: \"Main sirf rishte karwata hoon.\"; Fact behind it: Catalyst, regenerated."
+  },
+  {
+   "id": "F105",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Bade Sahab (–COOH)",
+   "text": "Character: Bade Sahab (–COOH); Line: \"Doori banaye rakhein!\"; Fact behind it: Meta-director, deactivating."
+  },
+  {
+   "id": "F106",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Bunty Uncle (–NH₂)",
+   "text": "Character: Bunty Uncle (–NH₂); Line: \"Aao, aao, sab aao!\"; Fact behind it: Strong o/p activator; polysubstitution."
+  },
+  {
+   "id": "F107",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Mummy ji (–OH on ring)",
+   "text": "Character: Mummy ji (–OH on ring); Line: \"Khaana kha ke jaana.\"; Fact behind it: o/p activator; phenol mildly acidic."
+  },
+  {
+   "id": "F108",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Grumpy Chacha (halogen on ring)",
+   "text": "Character: Grumpy Chacha (halogen on ring); Line: \"Aana hai toh aao, par mujhse umeed mat rakhna.\"; Fact behind it: o/p director but deactivating."
+  },
+  {
+   "id": "F109",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Nitronium",
+   "text": "Character: Nitronium; Line: \"Main sabse pehle!\"; Fact behind it: Electrophile."
+  },
+  {
+   "id": "F110",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Proton",
+   "text": "Character: Proton; Line: \"Mere paas kuch nahi hai.\"; Fact behind it: Electron-poor; starts additions; Markovnikov."
+  },
+  {
+   "id": "F111",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Iodu Baba",
+   "text": "Character: Iodu Baba; Line: \"Theek hai, chalta hoon.\"; Fact behind it: Best leaving group."
+  },
+  {
+   "id": "F112",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Fiza (F)",
+   "text": "Character: Fiza (F); Line: \"Main kabhi nahi jaungi.\"; Fact behind it: Worst leaving group."
+  },
+  {
+   "id": "F113",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "Daanveer Sodium",
+   "text": "Character: Daanveer Sodium; Line: \"Paani mat dikhana!\"; Fact behind it: Reacts violently with water."
+  },
+  {
+   "id": "F114",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "The goon (Grignard)",
+   "text": "Character: The goon (Grignard); Line: \"Ek boond paani, aur main khatam.\"; Fact behind it: Destroyed by water; needs dry ether."
+  },
+  {
+   "id": "F115",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "The tired pandit (Lindlar)",
+   "text": "Character: The tired pandit (Lindlar); Line: \"Bas, aaj itna hi.\"; Fact behind it: Partial reduction."
+  },
+  {
+   "id": "F116",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "The strict examiner (K₂Cr₂O₇)",
+   "text": "Character: The strict examiner (K₂Cr₂O₇); Line: \"Tumhare paas ek bhi Ramu Kaka nahi hai.\"; Fact behind it: 3° alcohols not oxidised."
+  },
+  {
+   "id": "F117",
+   "tab": "filmy",
+   "section": "Catchphrases (always the same words)",
+   "name": "CID Iodine",
+   "text": "Character: CID Iodine; Line: \"Kuch toh gadbad hai... peela!\"; Fact behind it: Iodoform test positive."
+  }
+ ],
+ "reactions": {
+  "H1": "H1. Free-radical halogenation of alkanes\n\nEquation: CH₄ + Cl₂ → CH₃Cl + HCl (hν or heat); further substitution gives CH₂Cl₂, CHCl₃, CCl₄.\n\nType: free-radical substitution, chain mechanism.\n\n| Participant | Role here | Why |\n| Cl (in Cl₂) | Radical (Cl•) | Light breaks the weak Cl–Cl bond homolytically |\n| H (in C–H) | Abstracted as H• by Cl• | Forms the strong H–Cl bond |\n| C | Becomes a free radical (CH₃•) | Left with 7 electrons after losing H• |\n\n1. Initiation: Cl₂ → 2Cl•.\n2. Propagation: Cl• + CH₄ → CH₃• + HCl; CH₃• + Cl₂ → CH₃Cl + Cl•.\n3. Termination: Cl• + Cl• → Cl₂; CH₃• + CH₃• → CH₃–CH₃; CH₃• + Cl• → CH₃Cl.\n\n- Ethane traces in the product come from the CH₃• + CH₃• termination step.\n- Reactivity of halogens: F₂ > Cl₂ > Br₂ > I₂. Iodination is reversible and needs an oxidising agent.\n- Ease of H abstraction: 3° > 2° > 1° (follows radical stability); bromination is far more selective than chlorination.",
+  "H2": "H2. Addition of HBr to an unsymmetrical alkene (Markovnikov)\n\nEquation: CH₃–CH=CH₂ + HBr → CH₃–CHBr–CH₃ (2-bromopropane, major).\n\nType: electrophilic addition, ionic.\n\n| Participant | Role here | Why |\n| H (from HBr) | Electrophile (H⁺), attacks first | Polar H–Br bond; H⁺ seeks the π electrons |\n| C=C | Nucleophile (π electrons), then carbocation | Loosely held π electrons donate to H⁺ |\n| Br | Nucleophile (Br⁻), attacks second | Has lone pairs and a negative charge |\n\n1. H⁺ adds to the CH₂ end, giving the 2° carbocation CH₃–C⁺H–CH₃ (more stable than the 1° alternative).\n2. Br⁻ attacks the carbocation → 2-bromopropane.\n\n- Markovnikov's rule: the negative part of the reagent goes to the carbon with fewer hydrogens.\n- Rate of HX addition: HI > HBr > HCl.",
+  "H3": "H3. Peroxide effect (anti-Markovnikov, Kharasch)\n\nEquation: CH₃–CH=CH₂ + HBr (peroxide) → CH₃–CH₂–CH₂Br (1-bromopropane).\n\nType: free-radical addition.\n\n| Participant | Role here | Why |\n| Peroxide (R–O–O–R) | Initiator | Weak O–O bond breaks homolytically into RO• |\n| Br | Radical (Br•), attacks first | RO• takes H• from HBr, releasing Br• |\n| C=C | Becomes a 2° radical | Br• adds to the CH₂ end, giving the more stable radical |\n| H (from HBr) | Delivered last, as H• | The 2° radical takes H• from another HBr, regenerating Br• |\n\n- Works only with HBr. With HCl the H–Cl bond is too strong; with HI, I• combines to I₂ rather than adding.",
+  "H4": "H4. Addition of bromine (test for unsaturation)\n\nEquation: CH₂=CH₂ + Br₂ (in CCl₄) → BrCH₂–CH₂Br (1,2-dibromoethane). Red-brown colour disappears.\n\nType: electrophilic addition.\n\n| Participant | Role here | Why |\n| Br₂ | Electrophile (one Br becomes δ+) | The approaching π cloud polarises Br–Br |\n| C=C | Nucleophile | π electrons attack the δ+ Br |\n| Br⁻ (second Br) | Nucleophile | Completes the addition on the other carbon |\n\n- Alkynes add two molecules of Br₂ (tetrabromide).",
+  "H5": "H5. Hydration of alkynes\n\nEquation: HC≡CH + H₂O → CH₃CHO (dil. H₂SO₄, HgSO₄, 333 K).\n\nType: electrophilic addition (Markovnikov), then tautomerism.\n\n| Participant | Role here | Why |\n| Hg²⁺ | Catalyst | Activates the triple bond towards water |\n| O (of H₂O) | Nucleophile | Lone pair adds to the carbon |\n| H | Moves from O to C in tautomerism | Enol (C=C–OH) is unstable and becomes the keto form |\n\n- Ethyne gives acetaldehyde; propyne and higher alkynes give ketones (propyne → acetone).",
+  "H6": "H6. Hydrogenation and partial reduction\n\n| Reaction | Reagent / conditions | Product | Role of the metal |\n| Alkene or alkyne + H₂ | Pt or Pd at room temperature; Ni at 523–573 K | Alkane | Catalyst surface adsorbs H₂ and the hydrocarbon |\n| Alkyne + H₂ | Lindlar's catalyst (Pd/C poisoned with S compounds or quinoline) | cis-Alkene | Poisoned catalyst stops after one addition |\n| Alkyne | Na in liquid NH₃ | trans-Alkene | Na donates electrons (dissolving-metal reduction) |",
+  "H7": "H7. Acidity of terminal alkynes\n\nEquation: HC≡CH + NaNH₂ → HC≡C⁻Na⁺ + NH₃ (or Na metal: + ½H₂).\n\n| Participant | Role here | Why |\n| H (on sp carbon) | Acidic proton, removed | sp carbon (50% s-character) holds the electron pair of the C–H bond tightly |\n| C (sp) | Becomes a carbanion (acetylide) | Keeps the bonding pair |\n| NH₂⁻ | Base | Stronger base than acetylide |\n\n- Acidity: HC≡CH > CH₂=CH₂ > CH₃–CH₃. Alkenes and alkanes do not react with Na or NaNH₂.",
+  "H8": "H8. Ozonolysis\n\nEquation: alkene + O₃ → ozonide; ozonide + Zn/H₂O → two carbonyl compounds.\n\n- Each carbon of the C=C becomes a C=O. Zn destroys the H₂O₂ formed, so the aldehydes are not oxidised further to acids.\n- Used to find the position of a double bond: CH₃CH=CH₂ → CH₃CHO + HCHO.",
+  "H9": "H9. Electrophilic substitution of benzene\n\nGeneral path: the electrophile (E⁺) attacks the π cloud → arenium ion (σ-complex, one sp³ carbon, resonance-stabilised) → loss of H⁺ restores aromaticity.\n\n| Reaction | Reagents | Electrophile and how it forms | Product |\n| Nitration | conc. HNO₃ + conc. H₂SO₄ | NO₂⁺: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻ | Nitrobenzene |\n| Halogenation | Cl₂, anhydrous FeCl₃ or AlCl₃ | Cl⁺: Cl₂ + AlCl₃ → Cl⁺ + AlCl₄⁻ | Chlorobenzene |\n| Sulphonation | fuming H₂SO₄ | SO₃ | Benzenesulphonic acid (reversible) |\n| Friedel–Crafts alkylation | RCl, anhydrous AlCl₃ | R⁺ | Alkylbenzene |\n| Friedel–Crafts acylation | RCOCl, anhydrous AlCl₃ | RCO⁺ (acylium ion) | Aryl ketone |\n\n| Participant | Role here | Why |\n| Benzene C | Nucleophile | Delocalised π electrons |\n| H on the ring | Leaves as H⁺ (not as hydride) | Its loss restores the aromatic sextet |\n| AlCl₃ / FeCl₃ / H₂SO₄ | Lewis or Brønsted acid; makes E⁺ | Electron-deficient Al or Fe accepts a lone pair |\n\n- Benzene prefers substitution over addition: addition would destroy aromatic stability.\n- Activating, o/p directing: –OH, –NH₂, –OR, –NHCOCH₃, –CH₃. Deactivating, meta directing: –NO₂, –CN, –CHO, –COOH, –SO₃H. Halogens: deactivating but o/p directing.\n- Friedel–Crafts fails on nitrobenzene, benzoic acid and aniline.",
+  "H10": "H10. Making alkanes from other compounds\n\n| Reaction | Equation | Note |\n| Wurtz | 2RX + 2Na → R–R + 2NaX (dry ether) | Na transfers electrons; methane cannot be made |\n| Decarboxylation | RCOONa + NaOH → RH + Na₂CO₃ (CaO, heat) | One carbon fewer |\n| Kolbe electrolysis | 2RCOONa + 2H₂O → R–R + 2CO₂ + H₂ + 2NaOH | R• radicals couple at the anode |\n| Hydrogenation | Alkene/alkyne + H₂ (Pt, Pd or Ni) | See H6 |",
+  "X1": "X1. SN2 (bimolecular nucleophilic substitution)\n\nEquation: CH₃Br + OH⁻ → CH₃OH + Br⁻. Rate = k[CH₃Br][OH⁻].\n\nType: one step; nucleophile attacks as the leaving group departs.\n\n| Participant | Role here | Why |\n| O (in OH⁻) | Nucleophile, attacks from the back | Lone pairs and negative charge; the front is blocked by Br |\n| C (attached to Br) | Electrophilic centre (δ+) | Br pulls electron density away |\n| Br | Leaving group (Br⁻) | Stable anion; C–Br weaker than C–Cl |\n| H atoms on C | Flip to the other side | Walden inversion of configuration |\n\n- Transition state: C partly bonded to both OH and Br (five partial bonds).\n- Reactivity: CH₃X > 1° > 2° > 3° (steric hindrance). Favoured by strong nucleophiles and polar aprotic solvents (acetone).\n- Leaving group: I⁻ > Br⁻ > Cl⁻ > F⁻.",
+  "X2": "X2. SN1 (unimolecular nucleophilic substitution)\n\nEquation: (CH₃)₃CBr + OH⁻ → (CH₃)₃COH + Br⁻. Rate = k[(CH₃)₃CBr].\n\nType: two steps through a carbocation.\n\n| Participant | Role here | Why |\n| Br | Leaves first (slow step) | Ionisation helped by polar protic solvent |\n| C | Carbocation, sp², planar | 3° carbocation stabilised by +I and hyperconjugation of three CH₃ groups |\n| O (in OH⁻ or H₂O) | Nucleophile, attacks either face | Planar carbocation is open on both sides |\n| Solvent (H₂O, alcohols) | Stabilises the ions | Hydrogen bonding to the leaving anion and solvation of the cation |\n\n1. Slow: (CH₃)₃C–Br → (CH₃)₃C⁺ + Br⁻.\n2. Fast: (CH₃)₃C⁺ + OH⁻ → (CH₃)₃COH.\n\n- Reactivity: 3° > 2° > 1° > CH₃X; allylic and benzylic halides react fast (resonance-stabilised carbocations).\n- At a chiral carbon: racemisation (both enantiomers form).\n- Nucleophile concentration does not change the rate.",
+  "X3": "X3. Elimination: dehydrohalogenation\n\nEquation: CH₃CH₂CHBrCH₃ + KOH (alc.) → CH₃CH=CHCH₃ (major) + CH₃CH₂CH=CH₂ (minor) + KBr + H₂O.\n\n| Participant | Role here | Why |\n| OH⁻ / C₂H₅O⁻ (alcoholic KOH) | Base: removes a β-H | In alcohol it is poorly solvated and acts as a strong base |\n| H on β-carbon | Leaves as H⁺ | Removed by the base |\n| Br | Leaving group | Departs as the C=C forms |\n\n- Saytzeff (Zaitsev) rule: the more substituted alkene is the major product.\n- Same reagent, different role: aqueous KOH → OH⁻ acts as a nucleophile (substitution); alcoholic KOH → base (elimination).\n- 3° halides favour elimination; 1° halides favour substitution.",
+  "X4": "X4. Halogen exchange\n\n| Reaction | Equation | What drives it |\n| Finkelstein | R–Cl/R–Br + NaI → R–I + NaCl/NaBr (dry acetone) | NaCl and NaBr are insoluble in acetone and precipitate |\n| Swarts | R–Cl/R–Br + AgF, Hg₂F₂, CoF₂ or SbF₃ → R–F | Metallic fluoride supplies F |",
+  "X5": "X5. Ambident nucleophiles\n\n| Reagent | Attacking atom | Product | Why |\n| KCN | C | Alkyl cyanide R–C≡N | Mainly ionic; C attacks, and a C–C bond is more stable |\n| AgCN | N | Isocyanide R–N≡C | Mainly covalent; only the N lone pair is free |\n| KNO₂ | O | Alkyl nitrite R–O–N=O | Ionic; O attacks |\n| AgNO₂ | N | Nitroalkane R–NO₂ | Covalent; N lone pair attacks |",
+  "X6": "X6. Grignard reagent\n\nFormation: R–X + Mg → R–MgX (dry ether). Mg inserts between C and X.\n\n| Participant | Role here | Why |\n| C bonded to Mg | Carbanion-like: nucleophile and strong base | Mg (EN 1.31) is far less electronegative than C (2.55), so C carries δ− |\n| Mg | Electropositive partner; ends as Mg(OH)X | Gives up electron density |\n| Water / any acidic H | Destroys the reagent: RMgX + H₂O → RH + Mg(OH)X | Carbanion takes H⁺ |\n\n- Uses with carbonyls and CO₂: see Aldehydes, ketones and carboxylic acids (C2).",
+  "X7": "X7. Reactions of haloarenes\n\n| Reaction | Conditions | Product | Role of the halogen |\n| Dow process | Chlorobenzene + NaOH, 623 K, 300 atm, then H⁺ | Phenol | Leaves only under harsh conditions: C–Cl has partial double-bond character |\n| Activated substitution | –NO₂ at o/p; aq. NaOH, milder heating | Nitrophenols | Leaves easily: –NO₂ stabilises the negative intermediate |\n| Electrophilic substitution | Cl₂/FeCl₃, HNO₃/H₂SO₄, H₂SO₄, RCl/AlCl₃ | Mainly ortho and para products | Stays; deactivates the ring (−I) but directs o/p (+R) |\n| Wurtz–Fittig | ArX + RX + 2Na, dry ether | Ar–R | Leaves as NaX |\n| Fittig | 2ArX + 2Na, dry ether | Ar–Ar | Leaves as NaX |",
+  "X8": "X8. Chloroform and iodoform\n\n- CHCl₃ + O₂ (light) → COCl₂ (phosgene) + HCl: store in dark, full bottles.\n- CHCl₃ is the carbon source in the carbylamine test (A3) and the Reimer–Tiemann reaction (P4).\n- CHI₃ (yellow) is the product of the iodoform test (C6).",
+  "O1": "O1. Alcohol + sodium (alcohol as an acid)\n\nEquation: 2ROH + 2Na → 2RONa + H₂.\n\n| Participant | Role here | Why |\n| H (of O–H) | Acidic proton, released as H₂ | Polar O–H bond |\n| O | Becomes alkoxide (RO⁻), a strong base and nucleophile | Keeps the bonding pair |\n| Na | Electron donor | Very low ionisation energy |\n\n- Acidity of alcohols: 1° > 2° > 3° (+I of alkyl groups destabilises the alkoxide). Alcohols are weaker acids than water.",
+  "O2": "O2. Acid-catalysed dehydration\n\nEquation: C₂H₅OH → CH₂=CH₂ + H₂O (conc. H₂SO₄, 443 K). At 413 K: 2C₂H₅OH → C₂H₅OC₂H₅ + H₂O.\n\n| Participant | Role here | Why |\n| O (of –OH) | Base: accepts H⁺, then leaves as H₂O | Protonation turns poor leaving group –OH into good leaving group –OH₂⁺ |\n| C | Carbocation | Formed when water leaves |\n| H on β-carbon | Lost as H⁺ | Forms the C=C |\n\n1. ROH + H⁺ → ROH₂⁺. 2. ROH₂⁺ → R⁺ + H₂O (slow). 3. R⁺ loses β-H⁺ → alkene.\n\n- Ease: 3° > 2° > 1°. The carbocation may rearrange before losing H⁺.\n- In ether formation (413 K), a second alcohol molecule attacks as a nucleophile (SN2 on the protonated alcohol).",
+  "O3": "O3. Alcohol to alkyl halide; Lucas test\n\n| Reagent | Equation | Note |\n| HX (ZnCl₂ for HCl) | ROH + HX → RX + H₂O | Order of HX reactivity: HI > HBr > HCl |\n| PCl₅ | ROH + PCl₅ → RCl + POCl₃ + HCl |  |\n| PCl₃ | 3ROH + PCl₃ → 3RCl + H₃PO₃ |  |\n| SOCl₂ | ROH + SOCl₂ → RCl + SO₂ + HCl | Best: by-products are gases |\n\n- Lucas test: conc. HCl + anhydrous ZnCl₂. ZnCl₂ (Lewis acid) helps –OH leave; the alkyl chloride is insoluble, so turbidity appears. 3° at once (SN1, stable carbocation); 2° within about 5 minutes; 1° none at room temperature.",
+  "O4": "O4. Oxidation of alcohols\n\n| Alcohol | Reagent | Product | Why |\n| 1° | PCC | Aldehyde | Mild; stops at the aldehyde |\n| 1° | Acidified K₂Cr₂O₇ or KMnO₄ | Carboxylic acid (via aldehyde) | Aldehyde is oxidised further |\n| 2° | Acidified K₂Cr₂O₇ | Ketone | One H on the carbinol carbon |\n| 3° | Acidified K₂Cr₂O₇ | No reaction | No H on the carbinol carbon |\n| 1° / 2° / 3° | Cu, 573 K | Aldehyde / ketone / alkene | Dehydrogenation (1°, 2°); dehydration (3°) |\n\n- Key role: the H on the carbon bearing –OH is what the oxidant removes. Cr(VI) (orange) is reduced to Cr(III) (green).",
+  "O5": "O5. Alcohols from alkenes\n\n| Reaction | Reagents | Orientation | Roles |\n| Acid-catalysed hydration | H₂O, H⁺ (dil. H₂SO₄) | Markovnikov | H⁺ electrophile first → carbocation; H₂O nucleophile |\n| Hydroboration–oxidation | B₂H₆, then H₂O₂/OH⁻ | Anti-Markovnikov | B (electron-deficient) adds to the less substituted carbon, H to the other; H₂O₂ replaces B by OH |\n\n- Example: propene → propan-2-ol (acid hydration) but propan-1-ol (hydroboration–oxidation).",
+  "O6": "O6. Esterification\n\nEquation: RCOOH + R′OH ⇌ RCOOR′ + H₂O (conc. H₂SO₄).\n\n| Participant | Role here | Why |\n| O of the alcohol | Nucleophile; stays in the ester | Attacks the protonated carbonyl carbon |\n| C of COOH | Electrophile | Protonation of C=O makes it more δ+ |\n| –OH of the acid | Leaves as H₂O | The acid, not the alcohol, loses –OH |\n\n- Reversible: remove water or use excess alcohol to push it forward.",
+  "O7": "O7. Williamson ether synthesis\n\nEquation: RO⁻Na⁺ + R′–X → R–O–R′ + NaX (SN2).\n\n| Participant | Role here | Why |\n| O (alkoxide) | Nucleophile | Negative charge, lone pairs |\n| C of R′X | Electrophile | δ+ next to halogen |\n| X | Leaving group |  |\n\n- Use a 1° alkyl halide. With a 3° halide the alkoxide acts as a base and gives an alkene (elimination).\n- For (CH₃)₃C–O–CH₃: use (CH₃)₃CO⁻Na⁺ + CH₃Br, not (CH₃)₃CBr + CH₃O⁻Na⁺.\n- Aryl ethers: phenoxide + alkyl halide (the aryl halide cannot be the electrophile).",
+  "O8": "O8. Cleavage of ethers by HI\n\nEquation: R–O–R′ + HI → ROH + R′I.\n\n| Participant | Role here | Why |\n| O | Base: protonated first | Lone pairs |\n| I⁻ | Nucleophile | Good nucleophile; attacks the less hindered alkyl carbon (SN2) |\n| Alkyl group | Electrophile | Gets I |\n\n- Anisole + HI → phenol + CH₃I. The O–aryl bond (partial double bond, sp² carbon) is not broken.\n- With a 3° alkyl group the cleavage goes by SN1 and the 3° group becomes the halide.",
+  "P1": "P1. Acidity of phenol\n\nEquations: C₆H₅OH + NaOH → C₆H₅O⁻Na⁺ + H₂O; phenol + NaHCO₃ → no reaction.\n\n| Participant | Role here | Why |\n| H (of O–H) | Acidic proton | sp² carbon pulls electrons; phenoxide is stabilised |\n| O in phenoxide | Negative charge delocalised into the ring | Resonance |\n\n- Acidity: carboxylic acid > phenol > water > alcohol.\n- –NO₂ at o/p raises acidity (o- and p-nitrophenol > m-nitrophenol > phenol); –CH₃ lowers it.",
+  "P2": "P2. Bromination of phenol\n\n| Conditions | Product | Why |\n| Bromine water | 2,4,6-Tribromophenol (white precipitate) | Polar water polarises Br₂ and ionises phenol; ring strongly activated |\n| Br₂ in CS₂ or CHCl₃, low temperature | o- and p-Bromophenol | Non-polar solvent: weaker electrophile, monosubstitution |\n\n- Role of O: +R donor (lone pair into the ring), making ortho and para positions electron-rich. Lewis acid is not needed.",
+  "P3": "P3. Nitration of phenol\n\n| Conditions | Product |\n| Dilute HNO₃, 298 K | o- and p-Nitrophenol (separated by steam distillation: ortho is steam volatile due to intramolecular hydrogen bonding) |\n| Conc. HNO₃ | 2,4,6-Trinitrophenol (picric acid) |",
+  "P4": "P4. Reimer–Tiemann reaction\n\nEquation: phenol + CHCl₃ + aq. NaOH, then H⁺ → salicylaldehyde (2-hydroxybenzaldehyde).\n\n| Participant | Role here | Why |\n| CHCl₃ | Source of the electrophile (dichlorocarbene, :CCl₂) | OH⁻ removes H⁺, then Cl⁻ leaves |\n| Phenoxide ring | Nucleophile, attacks at ortho | Strongly activated by O⁻ |\n| –CHCl₂ group | Hydrolysed to –CHO | Aqueous alkali |",
+  "P5": "P5. Kolbe's reaction\n\nEquation: sodium phenoxide + CO₂ (heat, pressure), then H⁺ → salicylic acid (2-hydroxybenzoic acid).\n\n| Participant | Role here | Why |\n| Phenoxide ring | Nucleophile, attacks at ortho | Phenoxide is far more reactive than phenol |\n| CO₂ | Weak electrophile | Carbon is δ+ between two O atoms |",
+  "P6": "P6. Other phenol reactions\n\n- Phenol + Zn dust, heat → benzene (Zn removes O).\n- Neutral FeCl₃ → violet colour (test for phenols).\n- Phenol → no reaction with HCl; the C–O bond does not break.",
+  "C1": "C1. Nucleophilic addition to C=O\n\nGeneral path: nucleophile attacks the δ+ carbonyl carbon → carbon becomes sp³ (tetrahedral alkoxide) → O⁻ picks up H⁺.\n\n| Participant | Role here | Why |\n| C of C=O | Electrophile | O (3.44) pulls electrons from C (2.55) |\n| O of C=O | Takes the negative charge, then H⁺ | Electronegative; holds the π pair |\n| Nucleophile | Attacks C | CN⁻, H⁻, R⁻ (Grignard), HSO₃⁻, ammonia derivatives |\n\n| Reagent | Product | Note |\n| HCN (base catalyst) | Cyanohydrin | CN⁻ is the nucleophile; base generates it |\n| NaHSO₃ | Bisulphite addition product (crystalline) | Used to separate/purify aldehydes and some ketones |\n| NH₂OH | Oxime | Addition, then loss of H₂O |\n| NH₂NH₂ | Hydrazone | Addition, then loss of H₂O |\n| 2,4-DNP | 2,4-Dinitrophenylhydrazone (orange-red solid) | Test for C=O |\n| R′OH, dry HCl | Hemiacetal → acetal (aldehydes); ketones with ethylene glycol → ketal |  |\n\n- Reactivity: HCHO > other aldehydes > ketones (steric hindrance and +I of alkyl groups). Benzaldehyde is less reactive than propanal (resonance with the ring).",
+  "C2": "C2. Grignard addition\n\n| Substrate | Product after H₃O⁺ |\n| HCHO | 1° alcohol |\n| RCHO (other aldehydes) | 2° alcohol |\n| R₂CO (ketones) | 3° alcohol |\n| CO₂ | Carboxylic acid (one carbon more) |\n| RC≡N | Ketone |\n\n- Roles: R⁻ of RMgX is the nucleophile on the carbonyl carbon; MgX⁺ binds the O; acid work-up supplies H⁺.",
+  "C3": "C3. Reductions of C=O\n\n| Reagent | Change | Medium | Role |\n| NaBH₄ or LiAlH₄ | Aldehyde → 1° alcohol; ketone → 2° alcohol |  | H⁻ nucleophile |\n| H₂, Ni/Pt/Pd | Same as above |  | Catalyst |\n| Zn–Hg, conc. HCl (Clemmensen) | C=O → CH₂ | Acidic | Zn is the reducing metal |\n| NH₂NH₂, then KOH/ethylene glycol, heat (Wolff–Kishner) | C=O → CH₂ | Basic | Hydrazone loses N₂ |\n| LiAlH₄ or B₂H₆ | RCOOH → RCH₂OH |  | NaBH₄ does not reduce acids |\n\n- Choose Clemmensen for base-sensitive compounds and Wolff–Kishner for acid-sensitive ones.",
+  "C4": "C4. Oxidation tests: aldehydes vs ketones\n\n| Test | Reagent | Positive result | Aldehydes | Ketones |\n| Tollens' | [Ag(NH₃)₂]⁺ | Silver mirror | All (including aromatic) | No |\n| Fehling's | Cu²⁺ (alkaline tartrate) | Red-brown Cu₂O | Aliphatic only (not benzaldehyde) | No |\n\n- Role of H: the aldehyde's C–H on the carbonyl carbon makes it oxidisable to RCOO⁻. Ketones have no such H; strong oxidants break C–C bonds instead.\n- Role of the metal: Ag⁺ → Ag (mirror); Cu²⁺ → Cu₂O.",
+  "C5": "C5. Aldol condensation\n\nEquation: 2CH₃CHO (dil. NaOH) → CH₃CH(OH)CH₂CHO (aldol); heat → CH₃CH=CHCHO (but-2-enal) + H₂O.\n\n| Participant | Role here | Why |\n| OH⁻ | Base: removes an α-H | α-H is acidic |\n| α-Carbon | Becomes a carbanion (enolate), then a nucleophile | Resonance with C=O stabilises it |\n| Carbonyl C of a second molecule | Electrophile | δ+ |\n\n- Needs at least one α-H. Two different carbonyls with α-H give four products (cross aldol).\n- Ketones with α-H also react (acetone → 4-hydroxy-4-methylpentan-2-one).",
+  "C6": "C6. Haloform (iodoform) reaction\n\nEquation: CH₃COR + 3I₂ + 4NaOH → CHI₃↓ + RCOONa + 3NaI + 3H₂O.\n\n| Participant | Role here | Why |\n| H atoms of CH₃ next to C=O | Replaced by I one by one | α-H is acidic in base |\n| CI₃ group | Leaving group (CI₃⁻), becomes CHI₃ | Three I atoms stabilise the carbanion |\n| OH⁻ | Base, then nucleophile on C=O |  |\n\n- Positive for CH₃CO– compounds and for alcohols with CH₃CH(OH)– (oxidised to CH₃CO– first). Ethanol and acetaldehyde are the only 1° alcohol and aldehyde that give it. Methanol and HCHO do not.",
+  "C7": "C7. Cannizzaro reaction\n\nEquation: 2HCHO + conc. NaOH → CH₃OH + HCOONa. 2C₆H₅CHO + conc. NaOH → C₆H₅CH₂OH + C₆H₅COONa.\n\n| Participant | Role here | Why |\n| OH⁻ | Nucleophile on C=O of one molecule | No α-H, so it cannot act as a base for aldol |\n| H on that carbonyl carbon | Transferred as hydride (H⁻) to the second molecule | Self oxidation–reduction (disproportionation) |\n| Second aldehyde | Reduced to alcohol | Accepts H⁻ |\n\n- Only aldehydes without α-H. Crossed Cannizzaro with HCHO: HCHO is oxidised (to formate) and the other aldehyde is reduced.",
+  "C8": "C8. Making aldehydes and ketones\n\n| Reaction | Equation / reagents | Role of the key reagent |\n| Rosenmund | RCOCl + H₂ → RCHO (Pd on BaSO₄) | Poisoned Pd stops at the aldehyde |\n| Stephen | RCN + SnCl₂/HCl → imine, then H₃O⁺ → RCHO | SnCl₂ reduces |\n| Étard | Toluene + CrO₂Cl₂ (CS₂), then H₃O⁺ → benzaldehyde | CrO₂Cl₂ oxidises CH₃ only to CHO |\n| Gattermann–Koch | Benzene + CO + HCl (anhyd. AlCl₃/CuCl) → benzaldehyde | AlCl₃ Lewis acid |\n| Friedel–Crafts acylation | ArH + RCOCl (AlCl₃) → ArCOR | Acylium ion electrophile |\n| From nitriles | RCN + R′MgX, then H₃O⁺ → RCOR′ | Grignard carbon is the nucleophile |\n| Ozonolysis | See H8 |  |\n| Alkyne hydration | See H5 |  |\n| Oxidation of alcohols | See O4 |  |",
+  "C9": "C9. Carboxylic acids\n\n| Reaction | Equation / reagents | Role / note |\n| Acidity | RCOOH ⇌ RCOO⁻ + H⁺ | Carboxylate is stabilised by two equivalent resonance structures; −I groups raise acidity, +I lower it |\n| With NaHCO₃ | RCOOH + NaHCO₃ → RCOONa + H₂O + CO₂↑ | Test that separates acids from phenols |\n| Acid chlorides | SOCl₂, PCl₅ or PCl₃ | –OH replaced by –Cl |\n| Anhydride | 2RCOOH (P₂O₅ or H⁺, heat) → (RCO)₂O | Dehydration |\n| Amide | RCOOH + NH₃ → RCOONH₄, heat → RCONH₂ |  |\n| Hell–Volhard–Zelinsky | RCH₂COOH + X₂, red P, then H₂O → RCHXCOOH | Needs α-H; P forms PX₃ |\n| Decarboxylation | RCOONa + NaOH/CaO → RH + Na₂CO₃ | Loses CO₂ carbon |\n| Kolbe electrolysis | See H10 |  |\n| Reduction | LiAlH₄ or B₂H₆ → RCH₂OH |  |\n\n- Acidity order: FCH₂COOH > ClCH₂COOH > HCOOH > C₆H₅COOH > CH₃COOH.\n- Ring substitution: –COOH and –CHO are deactivating and meta directing. Benzoic acid does not undergo Friedel–Crafts reactions.",
+  "A1": "A1. Hofmann bromamide degradation\n\nEquation: RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O.\n\n| Participant | Role here | Why |\n| N–H of the amide | Acidic; replaced by Br (N-bromoamide) | Lone pair delocalised into C=O makes N–H acidic |\n| R group | Migrates from carbon to nitrogen | Forms an isocyanate (R–N=C=O) |\n| Carbonyl carbon | Leaves as carbonate | One carbon fewer in the amine |\n| Br | Leaving group from N |  |\n\n- Gives 1° amines only, with one carbon fewer than the amide.",
+  "A2": "A2. Gabriel phthalimide synthesis\n\nSteps: phthalimide + KOH → potassium phthalimide; + R–X → N-alkylphthalimide (SN2); alkaline hydrolysis → RNH₂.\n\n| Participant | Role here | Why |\n| N–H of phthalimide | Acidic, removed by KOH | Flanked by two C=O groups |\n| Phthalimide N⁻ | Nucleophile | Attacks the alkyl halide |\n| R–X | Electrophile | Must be able to undergo SN2 |\n\n- Only 1° aliphatic amines; no aromatic amines (aryl halides do not do SN2), and no over-alkylation.",
+  "A3": "A3. Carbylamine (isocyanide) test\n\nEquation: RNH₂ + CHCl₃ + 3KOH (alc., heat) → RNC + 3KCl + 3H₂O. Foul-smelling isocyanide.\n\n| Participant | Role here | Why |\n| CHCl₃ + KOH | Generate dichlorocarbene (:CCl₂), the electrophile |  |\n| N of 1° amine | Nucleophile; loses both H atoms | Needs two N–H |\n\n- Given by 1° amines only (aliphatic and aromatic).",
+  "A4": "A4. Hinsberg test\n\n| Amine | Reaction with C₆H₅SO₂Cl | Product behaviour in alkali |\n| 1° | N attacks S; Cl⁻ leaves → C₆H₅SO₂NHR | Soluble (remaining N–H is acidic next to SO₂) |\n| 2° | → C₆H₅SO₂NR₂ | Insoluble (no N–H) |\n| 3° | No reaction | – |\n\n- Role of N: nucleophile (lone pair) attacking sulphur; role of Cl: leaving group.",
+  "A5": "A5. Reaction with nitrous acid; diazotisation\n\nReagent: NaNO₂ + HCl → HNO₂, which gives the electrophile NO⁺.\n\n| Amine | Conditions | Product |\n| 1° aliphatic | Cold | Unstable diazonium salt → alcohol + N₂↑ (quantitative) |\n| 1° aromatic (aniline) | 273–278 K | Benzenediazonium chloride C₆H₅N₂⁺Cl⁻ |\n\n| Participant | Role here | Why |\n| N of aniline | Nucleophile | Attacks NO⁺ |\n| N₂⁺ group (later) | Excellent leaving group (N₂ gas) | Very stable N≡N molecule |\n\n- Kept cold: the aromatic diazonium salt is stable only at low temperature (resonance with the ring).",
+  "A6": "A6. Replacement of the diazonium group\n\n| Reagent | Product | Name |\n| CuCl/HCl | C₆H₅Cl | Sandmeyer |\n| CuBr/HBr | C₆H₅Br | Sandmeyer |\n| CuCN/KCN | C₆H₅CN | Sandmeyer |\n| Cu powder/HCl or HBr | C₆H₅Cl or C₆H₅Br | Gattermann |\n| KI | C₆H₅I | – |\n| HBF₄, then heat | C₆H₅F | (via fluoroborate) |\n| H₃PO₂ or CH₃CH₂OH | C₆H₆ | Reduction (removes an –NH₂ used as a director) |\n| H₂O, warm | C₆H₅OH | – |\n| HBF₄, then NaNO₂/Cu, heat | C₆H₅NO₂ | – |\n\n- In every row N₂ leaves; the incoming group takes its place on the same carbon.",
+  "A7": "A7. Azo coupling\n\n| Partner | Medium | Product | Colour |\n| Phenol | Alkaline | p-Hydroxyazobenzene | Orange |\n| Aniline | Mildly acidic | p-Aminoazobenzene | Yellow |\n\n- Roles: diazonium ion is a weak electrophile; the strongly activated ring (phenoxide, aniline) is the nucleophile, attacking at para. N₂ is retained (–N=N– link).",
+  "A8": "A8. Substitution on the aniline ring\n\n| Reaction | Conditions | Product | Role of N |\n| Bromination | Bromine water | 2,4,6-Tribromoaniline (white precipitate) | Strong +R activation |\n| Acetylation | (CH₃CO)₂O or CH₃COCl, pyridine | Acetanilide | N is the nucleophile; product's lone pair is shared with C=O |\n| Bromination of acetanilide, then hydrolysis | Br₂/CH₃COOH | p-Bromoaniline (mainly) | –NHCOCH₃ is a milder o/p activator |\n| Nitration | conc. HNO₃/H₂SO₄ | p (51%), m (47%), o (2%) nitroaniline | Protonated to –NH₃⁺ (meta directing) |\n| Sulphonation | conc. H₂SO₄, 453–473 K | Sulphanilic acid (zwitterion) |  |\n| Friedel–Crafts | AlCl₃ | No reaction | N lone pair binds AlCl₃ (Lewis acid–base salt) |",
+  "A9": "A9. Making amines by reduction\n\n| Starting compound | Reagent | Product |\n| Nitrobenzene | Sn/HCl or Fe/HCl | Aniline |\n| Nitrile RCN | LiAlH₄, H₂/Ni, or Na/C₂H₅OH | RCH₂NH₂ |\n| Amide RCONH₂ | LiAlH₄ | RCH₂NH₂ (same number of carbons) |\n| Alkyl halide | NH₃ (ammonolysis) | Mixture of 1°, 2°, 3° amines and quaternary salt |\n\n- Amide → amine: LiAlH₄ keeps all carbons; Hofmann bromamide (A1) removes one."
+ },
+ "fixed": {
+  "template": "Story template and writing rules\n\nEvery story follows this order:\n\n1. The question, in one line.\n2. The cast: each character who appears, with their filmy quirk, then the real chemistry in brackets.\n3. The seat map (only for ring reactions): the haveli figure showing ortho, meta and para.\n4. The story, scene by scene. After every story beat, the real chemistry in brackets: plain words first, then the equation.\n5. A figure (simple text drawing) after each new compound is made.\n6. Daadi's closing line: one sentence with the lesson.\n7. Summary: the equations only, numbered.\n\nWriting rules\n\n- Dialogue in simple Hinglish. Story text in simple English. Short sentences.\n- A textbook word (catalyst, meta, arenium ion, nucleophile) appears only inside brackets, and is explained in the same bracket the first time it appears.\n- Every joke must be a chemical fact. If a funny line has no fact behind it, cut it.\n- Characters keep their filmy quirk and catchphrase in every story (see Fixed catchphrases).\n- The filmy quirk never changes the chemistry. If it ever seems to, the Character quirks tab wins.\n- Original writing only: no real film names, songs, dialogues or actors.\n\nBracket style\n\n> Story line in plain words. [What really happens, in one or two simple sentences. Equation: A + B → C (conditions)]",
+  "haveli": "The haveli\n\n| Character | Filmy quirk | Real chemistry |\n| Benzene Haveli | A joint family of six carbon brothers in a circle who share everything, even their electrons. Never splits up. | Ring of 6 carbons sharing 6 electrons (aromatic). Very stable, so it does substitution, not addition. |\n| Daadi | Head of the haveli. Her rule: \"Ghar kabhi nahi tootega. Koi naya aayega, toh kisi naukar ki jagah lega.\" Narrates the lesson at the end of every ring story. | The aromatic ring is always restored at the end of a substitution. |\n| Ramu Kaka (each hydrogen on the ring) | The loyal servant behind each brother. When a guest arrives, he quietly gives up his place and leaves: \"Main chalta hoon, malik.\" | Each ring carbon has one H. In substitution, the new group takes its place and the H leaves as H⁺. |\n| The one-second chaos | When a guest walks in, one brother is holding hands with both the guest and his Ramu Kaka. Everyone panics, until Ramu Kaka leaves. | The arenium ion: a short-lived stage where one ring carbon holds both the new group and H. |\n| When the haveli is forced | Only a powerful outsider can make the family break its circle: hydrogen with Nickel and heat, or Chlorine under UV light. Daadi never forgives it. | Benzene adds H₂ (Ni, heat → cyclohexane) or Cl₂ (UV light → hexachlorocyclohexane) only under harsh conditions. |\n\nThe seats (counted from whoever is already sitting):\n\n             C1   ← whoever is already sitting\n           /    \\\n  ortho  C6      C2  ortho    (right next to him)\n         |        |\n  meta   C5      C3  meta     (one seat away)\n           \\    /\n             C4       para    (right opposite)\n\nWho controls the seats: the guest already sitting decides where the next guest sits. Two kinds of guests: hosts (send the next guest next to them or opposite: ortho/para) and germophobes (allow only one seat away: meta).",
+  "catchphrases": "Fixed catchphrases and continuity rules\n\nCatchphrases (always the same words)\n\n| Character | Line | Fact behind it |\n| Daadi (benzene ring) | \"Ghar kabhi nahi tootega.\" | Aromaticity is restored; substitution, not addition. |\n| Ramu Kaka (ring H) | \"Main chalta hoon, malik.\" | H⁺ leaves in EAS. |\n| Bade Bhaiya (AlCl₃) | \"Main sirf rishte karwata hoon.\" | Catalyst, regenerated. |\n| Bade Sahab (–COOH) | \"Doori banaye rakhein!\" | Meta-director, deactivating. |\n| Bunty Uncle (–NH₂) | \"Aao, aao, sab aao!\" | Strong o/p activator; polysubstitution. |\n| Mummy ji (–OH on ring) | \"Khaana kha ke jaana.\" | o/p activator; phenol mildly acidic. |\n| Grumpy Chacha (halogen on ring) | \"Aana hai toh aao, par mujhse umeed mat rakhna.\" | o/p director but deactivating. |\n| Nitronium | \"Main sabse pehle!\" | Electrophile. |\n| Proton | \"Mere paas kuch nahi hai.\" | Electron-poor; starts additions; Markovnikov. |\n| Iodu Baba | \"Theek hai, chalta hoon.\" | Best leaving group. |\n| Fiza (F) | \"Main kabhi nahi jaungi.\" | Worst leaving group. |\n| Daanveer Sodium | \"Paani mat dikhana!\" | Reacts violently with water. |\n| The goon (Grignard) | \"Ek boond paani, aur main khatam.\" | Destroyed by water; needs dry ether. |\n| The tired pandit (Lindlar) | \"Bas, aaj itna hi.\" | Partial reduction. |\n| The strict examiner (K₂Cr₂O₇) | \"Tumhare paas ek bhi Ramu Kaka nahi hai.\" | 3° alcohols not oxidised. |\n| CID Iodine | \"Kuch toh gadbad hai... peela!\" | Iodoform test positive. |\n\nContinuity rules\n\n1. The Character quirks tab wins. A filmy persona adds jokes; it never changes a fact. If a story line contradicts the Character quirks tab or the Reactions tab, the story is wrong.\n2. One character, one name, forever. Ring H is always Ramu Kaka; benzylic H are always the chamche; AlCl₃ is always Bade Bhaiya. No new names for existing characters.\n3. Catchphrases are fixed. Use them word for word, and only when the fact behind them is true in that story.\n4. Each reaction type uses its stock scene. New details are fine; a different shape is not.\n5. Every joke is a fact. If a funny line has no chemistry behind it, cut it.\n6. Catalysts leave unchanged. The last mention of any catalyst shows him going home the same as he came.\n7. Conditions are characters too. Cold room (0–5 °C), dry ether desert, light, heat, Peroxide Pandit: if the condition matters, it must appear on screen.\n8. Simple Hinglish in the dialogue; textbook words only inside the [brackets].\n9. Every scene ends with its [bracket]: plain words plus the equation. The story ends with Daadi's (or the narrator's) closing line and the equation summary.\n10. Figures are mandatory for ring stories: the seat map and the product structure.\n11. Original content only. Hindi-film tropes (bidaai, twins separated at birth, angry young man, strict principal) are fine; no real film titles, dialogues, songs, actors or characters, and no jokes built on community or regional stereotypes.\n12. New characters get added to this tab and the Character quirks tab first, before they appear in any story.",
+  "seating_rules": "The benzene ring and the seating rules\n\nThe ring: six carbons sharing six electrons as one household (aromatic sextet). Proud of its unity: a newcomer can join only by replacing a hydrogen (substitution); the household is broken for a moment (arenium ion) and immediately restored. Only under force does it accept additions: H₂ with Ni and heat (cyclohexane), Cl₂ in UV light (hexachlorocyclohexane). Never does addition with HBr, Br₂/CCl₄ or Baeyer's reagent.\n\nSeats relative to a group already sitting on the ring: ortho (next to it, positions 2 and 6), meta (one seat away, 3 and 5), para (directly opposite, 4).\n\n| Group on the ring | Seating quirk | Activity | Encodes | In reactions / special behaviour | Never |\n| –OH (phenol) | Warm host. Pulls newcomers into the seats beside and opposite it. So welcoming that in a polar crowd (bromine water) it fills all three seats. | Strongly activating | +R lone pair into ring | Bromine water → 2,4,6-tribromophenol; Br₂ in CS₂, cold → one newcomer, o or p (P2). Dilute HNO₃ → o- and p-nitrophenol; conc. HNO₃ → picric acid (P3). The ortho product keeps a private hydrogen bond, so it is steam volatile. | Never sends a newcomer to meta. Never needs a Lewis acid. |\n| –O⁻ (phenoxide) | Warmer host than –OH. Welcomes even weak guests. | Very strongly activating | Full negative charge | Kolbe's (CO₂) and Reimer–Tiemann (:CCl₂) at ortho (P4, P5); azo coupling at para (A7). | – |\n| –NH₂ (aniline) | The warmest host, but nervous in acid. Fills 2,4,6 with bromine water. In acid it turns into –NH₃⁺, a germophobe. | Strongly activating | +R; basic N | Bromine water → 2,4,6-tribromoaniline (A8). Nitration in acid → about 51% para, 47% meta, 2% ortho. Handcuffs AlCl₃, so no Friedel–Crafts. Tamed by acetylation into –NHCOCH₃. | Never does Friedel–Crafts. Never gives a clean mononitro product directly. |\n| –NHCOCH₃ (acetanilide) | Polite host. Same seats as –NH₂ but calmer: lets in one newcomer, mostly at para. | Moderately activating | N lone pair shared with C=O | Used to get p-bromoaniline (bromination, then hydrolysis back to –NH₂) (A8). | – |\n| –OCH₃ (anisole) | Host. o/p. | Activating | +R | o/p substitution; with HI it stays on the ring and loses only CH₃ (O8). | Never leaves the ring as I–C₆H₅. |\n| –CH₃ and other alkyl groups | Mild host with a weak spot. Sends newcomers o/p, but its own benzylic hydrogens are vulnerable to oxidisers and to chlorine in light. | Weakly activating | +I and hyperconjugation; benzylic C–H | Cl₂ + FeCl₃ → ring; Cl₂ in sunlight → side chain (benzyl chloride). KMnO₄ turns it into –COOH (becomes a germophobe). CrO₂Cl₂ turns it into –CHO (Étard, C8). | A tert-butyl group (no benzylic H) is never oxidised by KMnO₄. |\n| –Cl, –Br, –I (haloarene) | Grumpy but polite. Slows the whole party down, yet still offers the ortho and para seats. Stubborn about leaving the ring itself. | Deactivating | −I outweighs +R for rate; +R decides position | o/p products in halogenation, nitration, sulphonation, Friedel–Crafts (X7). | Never sends newcomers to meta. Never leaves the ring easily (needs 623 K, 300 atm, or an –NO₂ at o/p). |\n| –NO₂ | Strict germophobe. Won't let anyone sit next to it or opposite it: newcomers get only the meta seats. Drains the ring, so electrophiles come slowly. But it helps nucleophiles: a halogen at o/p to it leaves easily. | Strongly deactivating | −R and −I | Meta products (Conversions 7, 12). Raises acidity of phenol when at o/p (P1). Makes o/p-nitrohaloarenes easy to substitute (X7). Sn/HCl or Fe/HCl turns it into –NH₂, a warm host (A9). | Never allows Friedel–Crafts on its ring. Never directs o/p. |\n| –CHO, –COR | Germophobes. Meta only. | Deactivating | −R, −I | Meta substitution on benzaldehyde and acetophenone. | Never direct o/p. |\n| –COOH | Germophobe that also handcuffs AlCl₃. Meta only. | Deactivating | −R, −I; binds the Lewis acid | Nitration → m-nitrobenzoic acid (Conversions 12). | Never undergoes Friedel–Crafts (C9). |\n| –CN, –SO₃H | Germophobes. –SO₃H is a temporary guest: sulphonation can be reversed. | Deactivating | −R, −I | Meta substitution. | Never direct o/p. |\n| –NH₃⁺ (anilinium) | Germophobe: what –NH₂ becomes in strong acid. | Deactivating | Positive charge, no free lone pair | Explains the 47% meta product in nitration of aniline (A8). | – |\n\nWhen two groups share the ring, the stronger host decides where the next newcomer sits (activators beat deactivators).",
+  "never_break": "Never-break rules\n\nA story that breaks any of these is chemically wrong. Check every new story against this list.\n\nAddition and orientation\n\n1. H⁺ always joins the double-bond carbon that already has more hydrogens (Markovnikov), except HBr with peroxide, or B₂H₆.\n2. The peroxide switch works only for HBr.\n3. Benzene never takes HBr, Br₂/CCl₄ or Baeyer's reagent by addition; it substitutes.\n\nSubstitution and elimination\n\n4. 1° halides go SN2; 3° halides go SN1 or eliminate; 3° never go SN2.\n5. SN2 always inverts; SN1 at a chiral carbon always racemises.\n6. Aqueous KOH substitutes; alcoholic KOH eliminates.\n7. –OH never leaves without first taking H⁺ (or being converted by SOCl₂/PCl₅/HX).\n8. Haloarenes never undergo ordinary substitution; they need 623 K/300 atm or –NO₂ at o/p.\n9. KCN gives nitriles, AgCN isocyanides; KNO₂ nitrites, AgNO₂ nitro compounds.\n\nRing seating\n\n10. Germophobes (–NO₂, –CHO, –COR, –COOH, –CN, –SO₃H, –NH₃⁺) send newcomers only to meta.\n11. Hosts (–OH, –O⁻, –NH₂, –NHCOCH₃, –OCH₃, alkyl) and halogens send newcomers only to ortho/para.\n12. Friedel–Crafts never happens on rings carrying –NO₂, –COOH or –NH₂.\n\nCarbonyls and acids\n\n13. Ketones never pass Tollens' or Fehling's; aromatic aldehydes never pass Fehling's.\n14. Aldol needs α-H; Cannizzaro needs no α-H. HCHO is always the one oxidised in crossed Cannizzaro.\n15. Iodoform needs CH₃CO– or CH₃CH(OH)–.\n16. NaBH₄ never reduces acids or esters; LiAlH₄ never reduces an isolated C=C.\n17. Carboxylic acids never give 2,4-DNP or Tollens'. Only acids, not phenols, fizz with NaHCO₃.\n18. In esterification the acid loses –OH, the alcohol keeps its oxygen.\n\nAlcohols and ethers\n\n19. 3° alcohols never oxidise with K₂Cr₂O₇; PCC never goes past the aldehyde.\n20. Anisole + HI never gives iodobenzene.\n\nNitrogen\n\n21. Only 1° amines give carbylamine; 3° amines never react with Hinsberg's reagent.\n22. Aliphatic diazonium salts never survive; aromatic ones survive only at 273–278 K.\n23. Gabriel never makes aromatic amines; Hofmann bromamide always removes one carbon.\n24. Aniline never does Friedel–Crafts.\n\nReagent tempers and conditions\n\n25. Sodium and potassium never meet water calmly; Grignard reagents never survive any acidic H.\n26. Cold dilute KMnO₄ adds; hot KMnO₄ breaks; KMnO₄ never touches a side chain without a benzylic H.\n27. Lindlar and Pd/BaSO₄ always stop halfway (cis-alkene; aldehyde).\n28. Radicals never appear without light, heat, peroxide or electrolysis (Kolbe)."
+ },
+ "conversions": "Conversions\n\nMulti-step conversions are built from a small set of moves: change the carbon count, swap the functional group, and on a ring, install groups in the right order.\n\nToolkit\n\nHow to plan: compare carbon counts first (add, remove or keep carbons), then the functional group, then (on a ring) the substituent pattern. Work backwards from the target when stuck.\n\nChanging the number of carbons\n\n| Goal | Route | Reaction code |\n| +1 C | R–X + KCN → R–CN; then H₃O⁺ → RCOOH, or LiAlH₄ → RCH₂NH₂ | X5, A9 |\n| +1 C | RMgX + HCHO, then H₃O⁺ → RCH₂OH | C2 |\n| +1 C | RMgX + CO₂, then H₃O⁺ → RCOOH | C2 |\n| +1 C | Aldehyde/ketone + HCN → cyanohydrin | C1 |\n| +any (join two groups) | RMgX + R′CHO or R′COR″ → 2°/3° alcohol | C2 |\n| Double the chain | Wurtz (2RX + 2Na); Kolbe electrolysis | H10 |\n| −1 C | RCONH₂ + Br₂/NaOH → RNH₂ (Hofmann) | A1 |\n| −1 C | RCOONa + NaOH/CaO → RH (decarboxylation) | H10 |\n| −1 C | CH₃COR + I₂/NaOH → RCOONa + CHI₃ (haloform) | C6 |\n\nSwapping functional groups\n\n| From | To | Reagent | Code |\n| Alkene | Alcohol (Markovnikov) | H₂O/H⁺ | O5 |\n| Alkene | Alcohol (anti-Markovnikov) | B₂H₆, then H₂O₂/OH⁻ | O5 |\n| Alkene | Haloalkane | HX (Markovnikov); HBr + peroxide (anti) | H2, H3 |\n| Alkene | Vicinal diol | Cold dil. alkaline KMnO₄ | Mn (main tab) |\n| Alkene | Alkyne | Br₂/CCl₄, then alc. KOH and NaNH₂ | H4, X3 |\n| Alkyne | Aldehyde/ketone | dil. H₂SO₄, HgSO₄, 333 K | H5 |\n| Alcohol | Alkene | conc. H₂SO₄, heat | O2 |\n| Alcohol | Haloalkane | SOCl₂, PCl₅, HX/ZnCl₂ | O3 |\n| 1° alcohol | Aldehyde | PCC, or Cu at 573 K | O4 |\n| 1° alcohol | Carboxylic acid | KMnO₄ or acidified K₂Cr₂O₇ | O4 |\n| 2° alcohol | Ketone | Acidified K₂Cr₂O₇ | O4 |\n| Haloalkane | Alcohol | aq. KOH | X1 |\n| Haloalkane | Alkene | alc. KOH | X3 |\n| Haloalkane | Ether | RO⁻Na⁺ (Williamson) | O7 |\n| Haloalkane | Amine | NH₃ (mixture) or Gabriel (1° only) | A2, A9 |\n| Aldehyde/ketone | Alcohol | NaBH₄ or LiAlH₄ | C3 |\n| Aldehyde/ketone | Alkane (C=O → CH₂) | Clemmensen or Wolff–Kishner | C3 |\n| Carboxylic acid | Acid chloride | SOCl₂ | C9 |\n| Acid chloride | Aldehyde | H₂, Pd/BaSO₄ (Rosenmund) | C8 |\n| Acid chloride | Amide | NH₃ | C9 |\n| Carboxylic acid | 1° alcohol | LiAlH₄ or B₂H₆ | C3 |\n| Nitrile | Acid / amine / aldehyde / ketone | H₃O⁺ / LiAlH₄ / SnCl₂–HCl / RMgX | A9, C8 |\n| Nitro (aromatic) | Amine | Sn/HCl or Fe/HCl | A9 |\n| Aromatic amine | –Cl, –Br, –CN, –I, –F, –OH, –H | Diazotise, then replace | A5, A6 |\n| Alkylbenzene | Benzoic acid | KMnO₄, then H⁺ | Mn (main tab) |\n\nOrder of steps on a benzene ring\n\n- For a meta pattern, install the meta director first (–NO₂, –COOH, –CHO, –SO₃H), then add the second group.\n- For an ortho/para pattern, install the o/p director first (–X, –CH₃, –OH, –NH₂), then separate o and p products.\n- To switch a director: –NO₂ (meta) → Sn/HCl → –NH₂ (o/p); –CH₃ (o/p) → KMnO₄ → –COOH (meta).\n- To use –NH₂ as a temporary director: substitute, then remove it by diazotisation + H₃PO₂.\n- Friedel–Crafts will not work once a strong deactivator (–NO₂, –COOH) or –NH₂ is on the ring: do Friedel–Crafts first.\n\nSolved conversions\n\n1. Ethanol → propanoic acid (+1 C)\n\n1. CH₃CH₂OH + SOCl₂ → CH₃CH₂Cl\n2. CH₃CH₂Cl + KCN → CH₃CH₂CN\n3. CH₃CH₂CN + H₃O⁺ (heat) → CH₃CH₂COOH\n\n2. Propanoic acid → ethanamine (−1 C)\n\n1. CH₃CH₂COOH + SOCl₂ → CH₃CH₂COCl\n2. CH₃CH₂COCl + NH₃ → CH₃CH₂CONH₂\n3. CH₃CH₂CONH₂ + Br₂ + 4NaOH → CH₃CH₂NH₂ (Hofmann bromamide)\n\n3. Methanol → ethanoic acid (+1 C)\n\n1. CH₃OH + PBr₃ (red P/Br₂) → CH₃Br\n2. CH₃Br + Mg (dry ether) → CH₃MgBr\n3. CH₃MgBr + CO₂, then H₃O⁺ → CH₃COOH\n\n4. Ethanol → propan-2-ol\n\n1. CH₃CH₂OH + PCC → CH₃CHO\n2. CH₃CHO + CH₃MgBr, then H₃O⁺ → CH₃CH(OH)CH₃\n\n5. Propene → propan-1-ol\n\n1. CH₃CH=CH₂ + B₂H₆, then H₂O₂/OH⁻ → CH₃CH₂CH₂OH (anti-Markovnikov)\n2. Note: H₂O/H⁺ would give propan-2-ol instead.\n\n6. Propene → propyne\n\n1. CH₃CH=CH₂ + Br₂ (CCl₄) → CH₃CHBrCH₂Br\n2. - alc. KOH, then NaNH₂ → CH₃C≡CH (two eliminations of HBr)\n\n7. Benzene → m-bromonitrobenzene\n\n1. Nitrate first: C₆H₆ + conc. HNO₃/H₂SO₄ → C₆H₅NO₂ (–NO₂ is meta directing)\n2. Br₂/FeBr₃ → m-bromonitrobenzene\n\n8. Benzene → p-bromonitrobenzene\n\n1. Brominate first: Br₂/FeBr₃ → C₆H₅Br (–Br is o/p directing)\n2. conc. HNO₃/H₂SO₄ → o- and p-bromonitrobenzene; separate the para isomer\n\n9. Aniline → 1,3,5-tribromobenzene\n\n1. Bromine water → 2,4,6-tribromoaniline (–NH₂ activates all o/p positions)\n2. NaNO₂/HCl, 273–278 K → diazonium salt\n3. H₃PO₂ → 1,3,5-tribromobenzene (–N₂⁺ replaced by H)\n\n10. Nitrobenzene → phenol\n\n1. Sn/HCl → aniline\n2. NaNO₂/HCl, 273–278 K → benzenediazonium chloride\n3. Warm with water → phenol\n\n11. Toluene → benzaldehyde (two routes)\n\n1. Étard: CrO₂Cl₂ in CS₂, then H₃O⁺ → C₆H₅CHO\n2. Or: KMnO₄ → benzoic acid; SOCl₂ → benzoyl chloride; H₂, Pd/BaSO₄ → benzaldehyde\n\n12. Benzene → m-nitrobenzoic acid\n\n1. Friedel–Crafts first (it fails after nitration): CH₃Cl/AlCl₃ → toluene\n2. KMnO₄, then H⁺ → benzoic acid (–COOH is meta directing)\n3. conc. HNO₃/H₂SO₄ → m-nitrobenzoic acid\n\n13. Ethanal → but-2-enal\n\n1. 2CH₃CHO + dil. NaOH → CH₃CH(OH)CH₂CHO (aldol)\n2. Heat → CH₃CH=CHCHO + H₂O\n\n14. Propanone → propene\n\n1. CH₃COCH₃ + NaBH₄ → CH₃CH(OH)CH₃\n2. conc. H₂SO₄, heat → CH₃CH=CH₂\n\n15. Chlorobenzene → biphenyl\n\n1. 2C₆H₅Cl + 2Na (dry ether) → C₆H₅–C₆H₅ + 2NaCl (Fittig)"
+}
